@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="13px" viewBox="0 0 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>ic-menu</title>
+    <desc>Created with Sketch.</desc>
+    <g id="NEW" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic-menu" fill="#000000" fill-rule="nonzero">
+            <polygon id="Path" transform="translate(6.500000, 6.500000) rotate(-45.000000) translate(-6.500000, -6.500000) " points="-2 7 15 7 15 6 -2 6"></polygon>
+            <polygon id="Path" transform="translate(6.500000, 6.500000) rotate(45.000000) translate(-6.500000, -6.500000) " points="-2 6 -2 7 15 7 15 6"></polygon>
+        </g>
+    </g>
+</svg>
