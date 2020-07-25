@@ -153,7 +153,7 @@ header{
   width: 100%;
   top: 0px;
   z-index: 999;
-} 
+}
 
 *:focus {
   outline: 0;
@@ -176,7 +176,7 @@ header{
   height:50px;
   background-color: #ffffff;
 }
-    
+
 }
 
 .main_menubar.active{
@@ -199,7 +199,7 @@ header{
   display: inline-block;
   margin-left:3px;
   margin-top:2px;
-  margin-right: 
+  margin-right:
 }
 
 @media (max-width:991px){
@@ -207,7 +207,7 @@ header{
 .main_menu > li > a {
   margin-left:14px;
 }
- 
+
 }
 
 .main_menu > li.active > a,
@@ -240,7 +240,7 @@ header{
 .logo_con{
   margin-left:-20px
 }
-    
+
 }
 
 @media (max-width:767px){
@@ -248,7 +248,7 @@ header{
 .logo_con{
   padding-left: 0
 }
-    
+
 }
 
 .logo{
@@ -272,7 +272,7 @@ header{
   margin-top:-11px;
   margin-left:2px;
 }
-    
+
 }
 
 .active .logo{
@@ -283,7 +283,7 @@ header{
 }
 
 @media (max-width:991px){
-   
+
 .navbar_second_column_con{
   margin-left: 115px
 }
@@ -307,32 +307,32 @@ header{
 }
 
 @media (max-width:991px){
- 
+
 .navbar_second_column_con ul li{
   margin-left:0px
 }
-    
+
 .navbar_second_column_con .main_menu_about_con{
   margin-left:-5px
 }
-    
+
 .navbar_second_column_con .main_menu_services_con{
-  margin-left: 0px    
+  margin-left: 0px
 }
-    
+
 .navbar_second_column_con .main_menu_howitworks_con{
-  margin-left: 0px        
+  margin-left: 0px
 }
 
 .navbar_second_column_con .navbar-nav{
-  margin-left: 255px        
+  margin-left: 255px
 }
-     
+
 }
 
 .navbar_second_column_con img{
   margin-left:4px
-}  
+}
 
 .navbar-nav{
   position:absolute;
@@ -354,7 +354,7 @@ header{
 .navbar-nav{
   margin-left:310px;
 }
- 
+
 }
 
 @media (max-width:991px){
@@ -362,7 +362,7 @@ header{
 .navbar-nav{
   margin-left:12px;
 }
- 
+
 }
 
 .navbar-nav img{
@@ -377,7 +377,7 @@ header{
 .navbar-nav:hover img{
 
 }
-  
+
 .navbar-nav .dropdown-toggle{
   list-style: none;
   display:inline-block;
@@ -492,7 +492,7 @@ header{
   -moz-transition: .3s ease-in-out;
   -ms-transition: .3s ease-in-out;
   -o-transition: .3s ease-in-out;
-  transition: .3s ease-in-out;  
+  transition: .3s ease-in-out;
 }
 
 .navbar_dropdown_menu_list_item:hover{
@@ -504,7 +504,7 @@ header{
   display: inline-block;
   width:4px;
   height: 4px;
-  border: solid 1px #000000; 
+  border: solid 1px #000000;
   border-radius: 50%;
   margin-right:14px;
   margin-bottom:3px;
@@ -533,7 +533,7 @@ header{
 
 .navbar-nav .dropdown-toggle:before{
   left:411px;
-} 
+}
 
 .navbar-nav .dropdown-toggle:after{
   right:256px;
@@ -561,7 +561,7 @@ header{
 
 .dropdown-menu:before{
   left:410px;
-} 
+}
 
 .dropdown-menu:after{
   right:410px;
@@ -577,20 +577,20 @@ header{
 }
 
 @media (min-width:992px) and (max-width:1199px){
-    
+
 .navbar_third_column_con{
   padding-left:60px;
 }
-    
+
 }
 
 @media (min-width:768px) and (max-width:991px){
-    
+
 .navbar_third_column_con{
   width:140px;
   padding-left: 0
 }
-    
+
 }
 
 .navbar_third_column_con ul li{
@@ -605,14 +605,14 @@ header{
 }
 
 @media (min-width:768px) and (max-width:991px){
-    
+
 .navbar_third_column_con ul li{
   margin-left:-70px!important
 }
 
 }
 @media (min-width:992px){
-    
+
 .navbar_third_column_con ul li{
   padding-left:50px
 }
@@ -659,19 +659,19 @@ header{
 }
 
 @media (max-width:991px){
-  
+
 .navbar_third_column_con .main_menu_login_list{
-   margin-left:-80px     
+   margin-left:-80px
 }
-    
+
 .navbar_third_column_con .main_menu_login_list img{
-   padding-left:5px     
+   padding-left:5px
 }
 
 .navbar_third_column_con .main_menu_get_care_list{
-  margin-left:-50px       
+  margin-left:-50px
 }
-    
+
 }
 
 .main_menu_about_con:before, .main_menu_about_con:after{
@@ -692,7 +692,7 @@ header{
 
 .main_menu_about_con:before{
   left: 261px;
-} 
+}
 
 .main_menu_about_con:after{
   right: 259px;
@@ -703,19 +703,19 @@ header{
 }
 
 @media (min-width:992px) and (max-width:1199px){
-  
+
 .main_menu_about_con:before{
   left: 262px;
-} 
+}
 
 .main_menu_about_con:after{
   right: 167px;
 }
-    
+
 .main_menu_about_con:hover:before, .main_menu_about_con:hover:after{
   width: 5%;
 }
-    
+
 }
 
 @media (min-width:768px) and (max-width:991px){
@@ -724,19 +724,19 @@ header{
   margin-left:-191px;
   margin-right:230px
 }
-  
+
 .main_menu_about_con:before{
   left: 235px;
-} 
+}
 
 .main_menu_about_con:after{
   right: 144px;
 }
-    
+
 .main_menu_about_con:hover:before, .main_menu_about_con:hover:after{
   width: 5.5%;
 }
-    
+
 }
 
 .main_menu_services_con:before, .main_menu_services_con:after{
@@ -757,7 +757,7 @@ header{
 
 .main_menu_services_con:before{
   left: 260px;
-} 
+}
 
 .main_menu_services_con:after{
   right: 260px;
@@ -769,24 +769,24 @@ header{
 
 
 @media (min-width:992px) and (max-width:1199px){
-    
+
 .main_menu_services_con:before, .main_menu_services_con:after{
   margin-left:-99px;
   margin-right:139px
 }
-  
+
 .main_menu_services_con:before{
   left: 262px;
-} 
+}
 
 .main_menu_services_con:after{
   right: 167px;
 }
-    
+
 .main_menu_services_con:hover:before, .main_menu_services_con:hover:after{
   width: 6.5%;
 }
-    
+
 }
 
 @media (min-width:768px) and (max-width:991px){
@@ -796,19 +796,19 @@ header{
   margin-left:-117px;
   margin-right:158px
 }
-    
+
 .main_menu_services_con:before{
   left: 232px;
-} 
+}
 
 .main_menu_services_con:after{
   right: 147px;
 }
-    
+
 .main_menu_services_con:hover:before, .main_menu_services_con:hover:after{
   width:7.2%;
 }
-    
+
 }
 
 .main_menu_howitworks_con:before, .main_menu_howitworks_con:after{
@@ -829,7 +829,7 @@ header{
 
 .main_menu_howitworks_con:before{
   left: 248px;
-} 
+}
 
 .main_menu_howitworks_con:after{
   right: 251px;
@@ -841,45 +841,45 @@ header{
 
 
 @media (min-width:992px) and (max-width:1199px){
-    
+
 .main_menu_howitworks_con:before, .main_menu_howitworks_con:after{
   margin-left:7px;
   margin-right:13px
 }
-  
+
 .main_menu_howitworks_con:before{
   left: 272px;
-} 
+}
 
 .main_menu_howitworks_con:after{
   right: 177px;
 }
-    
+
 .main_menu_howitworks_con:hover:before, .main_menu_howitworks_con:hover:after{
   width:10%;
 }
-    
+
 }
 
 @media (min-width:768px) and (max-width:991px){
-  
+
 .main_menu_howitworks_con:before, .main_menu_howitworks_con:after{
   margin-left:31px;
   margin-right:30px
 }
-  
+
 .main_menu_howitworks_con:before{
   left:179px;
-} 
+}
 
 .main_menu_howitworks_con:after{
   right: 179px;
 }
-    
+
 .main_menu_howitworks_con:hover:before, .main_menu_howitworks_con:hover:after{
   width:11%;
 }
-    
+
 }
 
 .main_menu_login_list:before, .main_menu_login_list:after{
@@ -900,7 +900,7 @@ header{
 
 .main_menu_login_list:before{
   left:472px;
-} 
+}
 
 .main_menu_login_list:after{
   right:463px;
@@ -912,28 +912,28 @@ header{
 
 
 @media (min-width:992px) and (max-width:1199px){
-    
+
 .main_menu_login_list:before, .main_menu_login_list:after{
   margin-left:7px;
   margin-right:13px
 }
-  
+
 .main_menu_login_list:before{
   left: 131px;
-} 
+}
 
 .main_menu_login_list:after{
   right: 161px;
 }
-    
+
 .main_menu_login_list:hover:before, .main_menu_login_list:hover:after{
   width:11.5%;
 }
-    
+
 }
 
 @media (min-width:768px) and (max-width:991px){
-  
+
 .main_menu_login_list:before, .main_menu_login_list:after{
   margin-left:142px;
   margin-right:141px
@@ -941,16 +941,16 @@ header{
 
 .main_menu_login_list:before{
   left:-138px;
-} 
+}
 
 .main_menu_login_list:after{
   right:-8px;
 }
-    
+
 .main_menu_login_list:hover:before, .main_menu_login_list:hover:after{
   width:22%
 }
-    
+
 }
 
 .b-a,
@@ -1001,13 +1001,13 @@ header{
   height: 0;
   width: 100%;
   z-index: 1;
-  cursor: ;  
+  cursor: ;
 }
 
 .mobile_menu {
   position: absolute;
   right:25px;
-  top:18px;  
+  top:18px;
   width: 18px;
   height:10px;
   background-image: url(../images/ic-menu-black-open-icon.svg);
@@ -1029,7 +1029,7 @@ header{
   margin: 0 auto;
   top: 0;
   display: table-cell;
-  vertical-align: middle; 
+  vertical-align: middle;
   -webkit-opacity: 0;
   -moz-opacity: 0;
   -ms-opacity: 0;
@@ -1123,7 +1123,7 @@ header{
   padding-top:10px;
   overflow-x:hidden;
 }
- 
+
 /* Hide scrollbar for Chrome, Safari and Opera */
 .proj-menu-expanded::-webkit-scrollbar {
   display: none;
@@ -1290,7 +1290,7 @@ header{
   display: inline-block;
   width:4px;
   height: 4px;
-  border: solid 1px #000000; 
+  border: solid 1px #000000;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
@@ -1359,7 +1359,7 @@ header{
   margin-top:40px;
   margin-bottom:7px
 }
-  
+
 .mobile_view_list_con #mobile_view_list_with_no_dropdown_get_log a h6{
   display:inline-block;
   font-family: ApercuPro;
@@ -1416,7 +1416,7 @@ header{
 .hero_image_slider_con{
   margin-top:200px;
 }
-    
+
 }
 
 @media (max-width:410px){
@@ -1424,10 +1424,10 @@ header{
 .hero_image_slider_con{
   margin-top:170px;
 }
-    
+
 }
 
-.hero_image_slider_con #hero_image_slider_inner_con{ 
+.hero_image_slider_con #hero_image_slider_inner_con{
  -webkit-clip-path: inset( 0 -100vw 0 9% );
  -moz-clip-path: inset( 0 -100vw 0 9% );
  -ms-clip-path: inset( 0 -100vw 0 9% );
@@ -1436,38 +1436,38 @@ header{
 }
 @media (max-width:1199px){
 
-.hero_image_slider_con #hero_image_slider_inner_con{ 
+.hero_image_slider_con #hero_image_slider_inner_con{
  -webkit-clip-path: inset( 0 -100vw 0 10% );
  -moz-clip-path: inset( 0 -100vw 0 10% );
  -ms-clip-path: inset( 0 -100vw 0 10% );
  -o-clip-path: inset( 0 -100vw 0 10% );
  clip-path: inset( 0 -100vw 0 10% );
 }
-    
+
 }
 @media (max-width:991px){
 
-.hero_image_slider_con #hero_image_slider_inner_con{ 
+.hero_image_slider_con #hero_image_slider_inner_con{
  -webkit-clip-path: inset( 0 -100vw 0 13% );
  -moz-clip-path: inset( 0 -100vw 0 13% );
  -ms-clip-path: inset( 0 -100vw 0 13% );
  -o-clip-path: inset( 0 -100vw 0 13% );
  clip-path: inset( 0 -100vw 0 13% );
 }
-    
+
 }
 @media (max-width:767px){
 
-.hero_image_slider_con #hero_image_slider_inner_con{ 
+.hero_image_slider_con #hero_image_slider_inner_con{
  -webkit-clip-path: inset( 0 -100vw 0 -100% );
  -moz-clip-path: inset( 0 -100vw 0 -100% );
  -ms-clip-path: inset( 0 -100vw 0 -100% );
  -o-clip-path: inset( 0 -100vw 0 -100% );
  clip-path: inset( 0 -100vw 0 -100% );
 }
-    
+
 }
-  
+
 .hero_image_slider_item{
   display: inline-block;
   margin-left:auto;
@@ -1475,11 +1475,11 @@ header{
 }
 
 @media (max-width:767px){
- 
+
 .hero_image_slider_item{
   overflow: hidden!important
 }
-    
+
 }
 
 .hero_image_slider_item a{
@@ -1507,40 +1507,40 @@ header{
 }
 
 @media (max-width:991px){
-    
+
 .hero_image_slider_item a{
   width:96%;
 }
-    
+
 }
 
 @media (max-width:767px){
-    
+
 .hero_image_slider_item a{
-  width:99%;  
+  width:99%;
   height: 400px;
   margin-left:0px!important;
 }
-    
+
 }
 
 @media (max-width:600px){
-    
-.hero_image_slider_item a{ 
+
+.hero_image_slider_item a{
   height:300px;
 }
-    
+
 }
 
 @media (max-width:500px){
-    
+
 .hero_image_slider_item a{
   width:98%;
   height:190px;
   margin-left: 0px!important;
   margin-right: 0px!important;
 }
-    
+
 }
 
 .hero_image_slider_item .hero_image_slider_item1_con,.hero_image_slider_item .hero_image_slider_item2_con,.hero_image_slider_item .hero_image_slider_item3_con{
@@ -1594,28 +1594,28 @@ header{
 }
 
 @media (max-width:767px){
-    
+
 .hero_image_slider_item .hero_image_slider_item1_con,.hero_image_slider_item .hero_image_slider_item2_con,.hero_image_slider_item .hero_image_slider_item3_con{
   height: 400px;
   z-index:1
 }
-    
+
 }
 
 @media (max-width:600px){
-    
+
 .hero_image_slider_item .hero_image_slider_item1_con,.hero_image_slider_item .hero_image_slider_item2_con,.hero_image_slider_item .hero_image_slider_item3_con{
   height:300px;
 }
-    
+
 }
 
 @media (max-width:500px){
-    
+
 .hero_image_slider_item .hero_image_slider_item1_con,.hero_image_slider_item .hero_image_slider_item2_con,.hero_image_slider_item .hero_image_slider_item3_con{
   height:190px;
 }
-    
+
 }
 
 
@@ -1673,28 +1673,28 @@ header{
 .hero_image_slider_con .slick-prev:hover,
 .hero_image_slider_con .slick-next:hover {
 }
- 
+
 .hero_image_slider_con .slick-next {
   margin-top: -320px;
-  float: right!important;  
+  float: right!important;
   right:-8px;
   position: relative
-} 
+}
 
 @media (max-width:991px){
 
 .hero_image_slider_con .slick-next {
-  right:-1px;  
-} 
-    
+  right:-1px;
+}
+
 }
 
 @media (max-width:767px){
 
 .hero_image_slider_con .slick-next {
-  display: none!important   
-} 
-    
+  display: none!important
+}
+
 }
 
 .hero_image_slider_con .slick-prev {
@@ -1710,8 +1710,8 @@ header{
 
 .hero_image_slider_con .slick-prev {
   left:3px;
-} 
-    
+}
+
 }
 
 .hero_image_slider_main_inner_con{
@@ -1743,7 +1743,7 @@ header{
 }
 
 @media (max-width:767px){
-  
+
 .discover_exceptional_main_con{
   width:100%;
   height:0px;
@@ -1758,7 +1758,7 @@ header{
   margin-left:-30px;
   margin-right: auto;
 }
-    
+
 }
 
 .discover_exceptional_main_con h2{
@@ -1778,7 +1778,7 @@ header{
 }
 
 @media (max-width:767px){
-   
+
 .discover_exceptional_main_con h2{
   position: absolute;
   left: 0;
@@ -1786,43 +1786,43 @@ header{
   margin-bottom: 20px;
   padding-left: 15px
 }
-    
+
 }
 
 @media (max-width:767px){
-   
+
 .discover_exceptional_main_con h2{
   width:520px;
   margin-top:-200px
 }
-    
+
 }
 
 @media (max-width:540px){
-   
+
 .discover_exceptional_main_con h2{
   width:400px;
 }
-    
+
 }
 
 @media (max-width:410px){
-   
+
 .discover_exceptional_main_con h2{
   font-size: 34px;
   line-height: 1.24;
   margin-top: -180px;
 }
-    
+
 }
 
 @media (max-width:359px){
-   
+
 .discover_exceptional_main_con h2{
   width:300px;
   font-size: 29px;
 }
-    
+
 }
 
 .discover_exceptional_main_con h4{
@@ -1842,11 +1842,11 @@ header{
 }
 
 @media (max-width:767px){
- 
+
 .discover_exceptional_main_con h4{
   display: none
 }
-    
+
 }
 
 .discover_exceptional_main_con .autocomplete {
@@ -1875,27 +1875,27 @@ header{
 }
 
 @media (max-width:767px){
-  
+
 .discover_exceptional_main_con .hero_post_code_search_bar h5{
   left:220px;
   margin-top:393px;
 }
-    
+
 }
 @media (max-width:600px){
-  
+
 .discover_exceptional_main_con .hero_post_code_search_bar h5{
   margin-top:293px;
 }
-    
+
 }
 @media (max-width:500px){
-  
+
 .discover_exceptional_main_con .hero_post_code_search_bar h5{
   left: 213px;
   margin-top:173px;
 }
-    
+
 }
 
 .discover_exceptional_main_con .hero_post_code_search_bar .autocomplete input{
@@ -1930,11 +1930,11 @@ header{
 }
 
 @media (max-width:767px){
-    
+
 .discover_exceptional_main_con .hero_post_code_search_bar .autocomplete input{
-  background-position: 96%;     
+  background-position: 96%;
 }
-    
+
 }
 
 .discover_exceptional_main_con .hero_post_code_search_bar .autocomplete input[type=text]{
@@ -1951,13 +1951,13 @@ header{
   letter-spacing: normal;
   color: #000000;
   padding-left: 13px;
-  padding-right:40px 
+  padding-right:40px
 }
 
 @media (max-width:767px){
-    
+
 .hero_post_code_search_bar{
-  width: 100%; 
+  width: 100%;
 }
 
 .discover_exceptional_main_con .hero_post_code_search_bar .autocomplete input, .discover_exceptional_main_con .hero_post_code_search_bar .autocomplete input[type=text]{
@@ -1966,7 +1966,7 @@ header{
   left: 0;
   margin-top: 400px;
 }
-    
+
 }
 
 @media (max-width:600px){
@@ -1974,7 +1974,7 @@ header{
 .discover_exceptional_main_con .hero_post_code_search_bar .autocomplete input, .discover_exceptional_main_con .hero_post_code_search_bar .autocomplete input[type=text]{
   margin-top: 300px;
 }
-    
+
 }
 
 @media (max-width:500px){
@@ -1982,7 +1982,7 @@ header{
 .discover_exceptional_main_con .hero_post_code_search_bar .autocomplete input, .discover_exceptional_main_con .hero_post_code_search_bar .autocomplete input[type=text]{
   margin-top: 180px;
 }
-    
+
 }
 
 @media (max-width:399px){
@@ -1990,7 +1990,7 @@ header{
 .discover_exceptional_main_con .hero_post_code_search_bar .autocomplete input, .discover_exceptional_main_con .hero_post_code_search_bar .autocomplete input[type=text]{
   width: 92vw;
 }
-    
+
 }
 
 @media (max-width:350px){
@@ -1998,7 +1998,7 @@ header{
 .discover_exceptional_main_con .hero_post_code_search_bar .autocomplete input, .discover_exceptional_main_con .hero_post_code_search_bar .autocomplete input[type=text]{
   width: 91vw;
 }
-    
+
 }
 
 .discover_exceptional_main_con .hero_post_code_search_bar input[type=submit] {
@@ -2012,7 +2012,7 @@ header{
   -moz-border-radius: 6px;
   -ms-border-radius: 6px;
   -o-border-radius: 6px;
-  border-radius: 6px; 
+  border-radius: 6px;
   border: solid 0.7px #000000!important;
   background-color: #ffffff;
   position: absolute;
@@ -2032,9 +2032,9 @@ header{
 @media (max-width:767px){
 
 .discover_exceptional_main_con .hero_post_code_search_bar .autocomplete-items{
-   width: 100%  
+   width: 100%
 }
-    
+
 }
 
 /* Hide scrollbar for Chrome, Safari and Opera */
@@ -2064,7 +2064,7 @@ header{
   background-color: rgba(0, 0, 0, 0.05);
 }
 
-.discover_exceptional_main_con{    
+.discover_exceptional_main_con{
 }
 
 .discover_exceptional_main_con .hero_find_a_career_btn{
@@ -2094,34 +2094,34 @@ header{
 }
 
 @media (max-width:767px){
-    
+
 .discover_exceptional_main_con .hero_find_a_career_btn{
   width:93.5%;
   margin-top:370px
 }
-    
+
 }
 @media (max-width:600px){
-    
+
 .discover_exceptional_main_con .hero_find_a_career_btn{
   margin-top:270px
 }
-    
+
 }
 @media (max-width:500px){
-    
+
 .discover_exceptional_main_con .hero_find_a_career_btn{
   margin-top:150px
 }
-    
+
 }
 
 @media (max-width:399px){
-    
+
 .discover_exceptional_main_con .hero_find_a_career_btn{
   width:92%;
 }
-    
+
 }
 
 .discover_exceptional_main_con .hero_find_a_career_btn:hover{
@@ -2145,28 +2145,28 @@ header{
 @media (max-width:767px){
 .discover_exceptional_main_con h1{
   padding-left:15px
-}    
+}
 }
 
 .discover_exceptional_main_con .hero_post_phone_icon_schedule_arrow_con{
-  height: 40px;  
+  height: 40px;
   text-align: left;
   margin-bottom: 0;
   margin-top:0
 }
 
 @media (min-width:768px){
-    
+
 .discover_exceptional_main_con .hero_post_phone_icon_schedule_arrow_con{
   margin-top:-10px
-} 
+}
 }
 
 @media (max-width:767px){
-    
+
 .discover_exceptional_main_con .hero_post_phone_icon_schedule_arrow_con{
   margin-top:10px
-} 
+}
 }
 
 .discover_exceptional_main_con .hero_post_blue_phone_icon{
@@ -2177,7 +2177,7 @@ header{
 @media (max-width:767px){
 .discover_exceptional_main_con .hero_post_blue_phone_icon{
   padding-left:15px
-}  
+}
 }
 
 .discover_exceptional_main_con h3{
@@ -2197,7 +2197,7 @@ header{
 .discover_exceptional_main_con h3{
   margin-top:0;
 }
-    
+
 }
 
 .discover_exceptional_main_con .hero_post_blue_arrow{
@@ -2224,7 +2224,7 @@ header{
 }
 
 @media (min-width:1200px){
-    
+
 .tailor_your_loved_main_con{
   padding-left:40px;
 }
@@ -2232,7 +2232,7 @@ header{
 }
 
 @media (min-width:768px){
-    
+
 .tailor_your_loved_main_con{
   padding-top:0
 }
@@ -2240,7 +2240,7 @@ header{
 }
 
 @media (max-width:767px){
-    
+
 .tailor_your_loved_main_con{
   padding-top:40px;
   margin-top:90px;
@@ -2249,29 +2249,29 @@ header{
 }
 
 @media (min-width:992px) and (max-width:1199px){
-  
+
 .tailor_your_loved_con{
   padding-left:25px;
-  padding-right:15px 
+  padding-right:15px
 }
-    
+
 }
 
 @media (max-width:991px){
-  
+
 .tailor_your_loved_con{
   padding-left:50px;
-  padding-right:15px 
+  padding-right:15px
 }
-    
+
 }
 @media (max-width:767px){
-  
+
 .tailor_your_loved_con{
   padding-left:30px;
-  padding-right:30px 
+  padding-right:30px
 }
-    
+
 }
 
 .tailor_your_loved_main_con h2{
@@ -2289,7 +2289,7 @@ header{
 }
 
 @media (max-width:991px){
-    
+
 .tailor_your_loved_main_con h2{
   margin-left:-20px
 }
@@ -2297,7 +2297,7 @@ header{
 }
 
 @media (min-width:768px) and (max-width:850px){
-    
+
 .tailor_your_loved_main_con h2{
   margin-left:-30px
 }
@@ -2305,15 +2305,15 @@ header{
 }
 
 @media (max-width:767px){
-    
+
 .tailor_your_loved_main_con h2{
   font-size: 28px;
   line-height: 1.43;
   width: 100%;
   margin-left:auto;
-  margin-right: auto;    
+  margin-right: auto;
 }
-      
+
 }
 
 .tailor_your_loved_main_con h4{
@@ -2327,7 +2327,7 @@ header{
   line-height: 1.63;
   letter-spacing: normal;
   text-align: center;
-  color: #727272;  
+  color: #727272;
   margin-left: auto;
   margin-right: auto;
   margin-top:0;
@@ -2335,52 +2335,52 @@ header{
 }
 
 @media (max-width:991px){
-    
+
 .tailor_your_loved_main_con h4{
   margin-left:-20px
 }
-      
+
 }
 
 @media (min-width:768px) and (max-width:850px){
-    
+
 .tailor_your_loved_main_con h4{
   margin-left:-30px
 }
-      
+
 }
 @media (max-width:767px){
-    
+
 .tailor_your_loved_main_con h4{
   width: 100%;
   margin-left:auto;
   margin-right: auto;
 }
-      
+
 }
 
 @media (max-width:660px){
-    
+
 .tailor_your_loved_main_con h4{
   margin-bottom:70px
 }
-      
+
 }
 
 @media (max-width:465px){
-    
+
 .tailor_your_loved_main_con h4{
   margin-bottom:90px
 }
-      
+
 }
 
 @media (max-width:369px){
-    
+
 .tailor_your_loved_main_con h4{
   margin-bottom:110px
 }
-      
+
 }
 
 .tailor_your_loved_main_con .tailor_your_loved_sub_con1{
@@ -2404,37 +2404,37 @@ header{
   margin-right: 29px
 }
 
-@media (max-width:1199px){ 
+@media (max-width:1199px){
 
 .tailor_your_loved_main_con .tailor_your_loved_sub_con1{
   width:22.5%;
 }
-     
+
 }
 
-@media (max-width:991px){ 
+@media (max-width:991px){
 
 .tailor_your_loved_main_con .tailor_your_loved_sub_con1{
   width:45%;
 }
-     
+
 }
 
-@media (max-width:767px){ 
+@media (max-width:767px){
 
 .tailor_your_loved_main_con .tailor_your_loved_sub_con1{
   width:100%;
   margin-bottom:30px;
 }
-     
+
 }
 
 @media (max-width:991px){
-    
+
 .tailor_your_loved_main_con h4{
   width:100%;
 }
-      
+
 }
 
 .tailor_your_loved_main_con .tailor_your_loved_sub_con1 img{
@@ -2474,7 +2474,7 @@ header{
   margin-top:0;
   margin-bottom:0
 }
- 
+
 .tailor_your_loved_main_con .tailor_your_loved_sub_con2{
   width: 22%;
   height: 210px;
@@ -2496,30 +2496,30 @@ header{
   margin-right:29px
 }
 
-@media (max-width:1199px){ 
+@media (max-width:1199px){
 
 .tailor_your_loved_main_con .tailor_your_loved_sub_con2{
   width:22.5%;
 }
-     
+
 }
 
-@media (max-width:991px){ 
+@media (max-width:991px){
 
 .tailor_your_loved_main_con .tailor_your_loved_sub_con2{
   width:45%;
   margin-bottom: 30px
 }
-     
+
 }
 
-@media (max-width:767px){ 
+@media (max-width:767px){
 
 .tailor_your_loved_main_con .tailor_your_loved_sub_con2{
   width:100%;
   margin-bottom: 122px
 }
-     
+
 }
 
 .tailor_your_loved_main_con .tailor_your_loved_sub_con2 img{
@@ -2581,30 +2581,30 @@ header{
   margin-right:29px
 }
 
-@media (max-width:1199px){ 
+@media (max-width:1199px){
 
 .tailor_your_loved_main_con .tailor_your_loved_sub_con3{
   width:22.5%;
 }
-     
+
 }
 
-@media (max-width:991px){ 
+@media (max-width:991px){
 
 .tailor_your_loved_main_con .tailor_your_loved_sub_con3{
   width:45%;
 }
-     
+
 }
 
-@media (max-width:767px){ 
+@media (max-width:767px){
 
 .tailor_your_loved_main_con .tailor_your_loved_sub_con3{
   width:100%;
   margin-top:-90px;
   margin-bottom:30px
 }
-     
+
 }
 
 .tailor_your_loved_main_con .tailor_your_loved_sub_con3 img{
@@ -2665,28 +2665,28 @@ header{
   padding-right:30px
 }
 
-@media (max-width:1199px){ 
+@media (max-width:1199px){
 
 .tailor_your_loved_main_con .tailor_your_loved_sub_con4{
   width:22.5%;
 }
-     
+
 }
 
-@media (max-width:991px){ 
+@media (max-width:991px){
 
 .tailor_your_loved_main_con .tailor_your_loved_sub_con4{
   width:45%;
 }
-     
+
 }
 
-@media (max-width:767px){ 
+@media (max-width:767px){
 
 .tailor_your_loved_main_con .tailor_your_loved_sub_con4{
   width:100%;
 }
-     
+
 }
 
 .tailor_your_loved_main_con .tailor_your_loved_sub_con4 img{
@@ -2757,28 +2757,28 @@ header{
   transition:.3s ease-in-out!important;
 }
 
-@media (min-width:1200px){ 
+@media (min-width:1200px){
 
 .tailor_your_loved_main_con  a{
   padding-right:40px;
 }
-     
+
 }
 
-@media (max-width:991px){ 
+@media (max-width:991px){
 
 .tailor_your_loved_main_con  a{
   padding-right:40px
 }
-     
+
 }
 
-@media (max-width:767px){ 
+@media (max-width:767px){
 
 .tailor_your_loved_main_con  a{
   padding-right:0px
 }
-     
+
 }
 
 
@@ -2794,10 +2794,10 @@ text-decoration: underline
 /*===================END OF TAILOR YOUR LOVED SECTION===================*/
 
 
- 
 
 
- 
+
+
 /*===================BEGINNING OF SMARTCARERS IS CHOSEN SECTION===================*/
 
 .smartcarers_is_chosen_main_con{
@@ -2821,7 +2821,7 @@ text-decoration: underline
   padding-right:15px;
 }
 
-@media (max-width:767px){ 
+@media (max-width:767px){
 
 .smartcarers_is_chosen_main_con h1{
   font-size:28px;
@@ -2829,16 +2829,16 @@ text-decoration: underline
   padding-left:5px;
   padding-right:5px;
 }
-  
+
 }
 
-@media (max-width:380px){ 
+@media (max-width:380px){
 
 .smartcarers_is_chosen_main_con h1{
   padding-left:12px;
   padding-right:12px;
 }
-  
+
 }
 
 .smartcarers_is_chosen_main_con h3{
@@ -2852,29 +2852,29 @@ text-decoration: underline
   line-height: 1.63;
   letter-spacing: normal;
   text-align: center;
-  color: #727272; 
+  color: #727272;
   margin-left: auto;
   margin-right: auto;
   margin-top:0;
   margin-bottom:99px
 }
 
-@media (max-width:1199px){ 
+@media (max-width:1199px){
 
 .smartcarers_is_chosen_main_con h3{
   width:100%;
   padding-left: 15px;
   padding-right:15px;
 }
-    
+
 }
 
-@media (max-width:767px){ 
+@media (max-width:767px){
 
 .smartcarers_is_chosen_main_con h3{
   margin-bottom: 40px
 }
-    
+
 }
 
 .smartcarers_is_chosen_main_con .smartcarers_is_chosen_inner_con1
@@ -2892,23 +2892,23 @@ text-decoration: underline
 }
 
 @media (max-width:767px){
-    
+
 .smartcarers_is_chosen_main_con .smartcarers_is_chosen_inner_con1
 .smartcarers_is_chosen_sub_con1 .smartcarers_is_chosen_sub_con_img1{
   width: 252px;
   height: 305px;
 }
-    
+
 }
 
 @media (max-width:450px){
-    
+
 .smartcarers_is_chosen_main_con .smartcarers_is_chosen_inner_con1
 .smartcarers_is_chosen_sub_con1 .smartcarers_is_chosen_sub_con_img1{
   width: 222px;
   height: 275px;
 }
-    
+
 }
 
 .smartcarers_is_chosen_main_con .smartcarers_is_chosen_inner_con1
@@ -2926,16 +2926,16 @@ text-decoration: underline
 }
 
 @media (max-width:991px){
-    
+
 .smartcarers_is_chosen_main_con .smartcarers_is_chosen_inner_con1
 .smartcarers_is_chosen_sub_con1 .smartcarers_is_chosen_sub_con_img2{
   right:80px;
 }
-    
+
 }
 
 @media (max-width:767px){
-    
+
 .smartcarers_is_chosen_main_con .smartcarers_is_chosen_inner_con1
 .smartcarers_is_chosen_sub_con1 .smartcarers_is_chosen_sub_con_img2{
   width: 314px;
@@ -2943,20 +2943,20 @@ text-decoration: underline
   top:-85px;
   left:160px;
 }
-    
+
 }
 
 @media (max-width:550px){
-    
+
 .smartcarers_is_chosen_main_con .smartcarers_is_chosen_inner_con1
 .smartcarers_is_chosen_sub_con1 .smartcarers_is_chosen_sub_con_img2{
   left:125px;
 }
-    
+
 }
 
 @media (max-width:450px){
-    
+
 .smartcarers_is_chosen_main_con .smartcarers_is_chosen_inner_con1
 .smartcarers_is_chosen_sub_con1 .smartcarers_is_chosen_sub_con_img2{
   width: 224px;
@@ -2964,16 +2964,16 @@ text-decoration: underline
   top:-85px;
   left:120px;
 }
-    
+
 }
 
 @media (max-width:370px){
-    
+
 .smartcarers_is_chosen_main_con .smartcarers_is_chosen_inner_con1
 .smartcarers_is_chosen_sub_con1 .smartcarers_is_chosen_sub_con_img2{
   left:70px;
 }
-    
+
 }
 
 .smartcarers_is_chosen_main_con .smartcarers_is_chosen_inner_con1
@@ -2982,32 +2982,32 @@ text-decoration: underline
   padding-left:70px
 }
 
-@media (max-width:991px){ 
-    
+@media (max-width:991px){
+
 .smartcarers_is_chosen_main_con .smartcarers_is_chosen_inner_con1
 .smartcarers_is_chosen_sub_con2{
   margin-top:500px;
   padding-left:15px
 }
-    
+
 }
 
-@media (max-width:767px){ 
-    
+@media (max-width:767px){
+
 .smartcarers_is_chosen_main_con .smartcarers_is_chosen_inner_con1
 .smartcarers_is_chosen_sub_con2{
   margin-top:420px;
 }
-    
+
 }
 
-@media (max-width:450px){ 
-    
+@media (max-width:450px){
+
 .smartcarers_is_chosen_main_con .smartcarers_is_chosen_inner_con1
 .smartcarers_is_chosen_sub_con2{
   margin-top:330px;
 }
-    
+
 }
 
 .smartcarers_is_chosen_main_con .smartcarers_is_chosen_inner_con1
@@ -3042,15 +3042,15 @@ text-decoration: underline
   margin-bottom:27px
 }
 
-@media (max-width:991px){ 
+@media (max-width:991px){
 .smartcarers_is_chosen_main_con .smartcarers_is_chosen_inner_con1
 .smartcarers_is_chosen_sub_con2 h4{
   width: 98%;
   height: auto
-} 
-    
 }
-    
+
+}
+
 .smartcarers_is_chosen_main_con .smartcarers_is_chosen_inner_con1
 .smartcarers_is_chosen_sub_con2 h6{
   position: absolute;
@@ -3075,13 +3075,13 @@ text-decoration: underline
   transition: .3s ease-in-out;
 }
 
-@media (max-width:991px){ 
-    
+@media (max-width:991px){
+
 .smartcarers_is_chosen_main_con .smartcarers_is_chosen_inner_con1
 .smartcarers_is_chosen_sub_con2 h6{
   left:15px;
 }
-   
+
 }
 
 .smartcarers_is_chosen_main_con .smartcarers_is_chosen_inner_con1
@@ -3155,54 +3155,54 @@ text-decoration: underline
   padding-left:15px;
 }
 
-@media (max-width:991px){ 
-    
+@media (max-width:991px){
+
 .smartcarers_is_chosen_main_con .smartcarers_is_chosen_inner_con2{
   margin-top:600px;
 }
-    
+
 }
 
-@media (max-width:767px){ 
-    
+@media (max-width:767px){
+
 .smartcarers_is_chosen_main_con .smartcarers_is_chosen_inner_con2{
   margin-top:520px;
 }
-    
+
 }
 
-@media (max-width:450px){ 
-    
+@media (max-width:450px){
+
 .smartcarers_is_chosen_main_con .smartcarers_is_chosen_inner_con2{
   margin-top:450px;
 }
-    
+
 }
 
-@media (max-width:395px){ 
-    
+@media (max-width:395px){
+
 .smartcarers_is_chosen_main_con .smartcarers_is_chosen_inner_con2{
   margin-top:420px;
 }
-    
+
 }
 
-@media (max-width:767px){ 
-    
+@media (max-width:767px){
+
 .smartcarers_is_chosen_main_con .smartcarers_is_chosen_inner_con2
 .smartcarers_is_chosen_sub_con2{
   margin-top:550px;
 }
-    
+
 }
 
-@media (max-width:450px){ 
-    
+@media (max-width:450px){
+
 .smartcarers_is_chosen_main_con .smartcarers_is_chosen_inner_con2
 .smartcarers_is_chosen_sub_con2{
   margin-top:450px;
 }
-    
+
 }
 
 .smartcarers_is_chosen_main_con .smartcarers_is_chosen_inner_con2
@@ -3220,7 +3220,7 @@ text-decoration: underline
   margin-bottom: 20px
 }
 
-@media (max-width:705px){ 
+@media (max-width:705px){
 
 .smartcarers_is_chosen_main_con .smartcarers_is_chosen_inner_con2
 .smartcarers_is_chosen_sub_con2 h2{
@@ -3246,15 +3246,15 @@ text-decoration: underline
   margin-bottom:25px
 }
 
-@media (max-width:991px){ 
+@media (max-width:991px){
 .smartcarers_is_chosen_main_con .smartcarers_is_chosen_inner_con2
 .smartcarers_is_chosen_sub_con2 h4{
   width: 98%;
   height: auto
-} 
-    
 }
-    
+
+}
+
 .smartcarers_is_chosen_main_con .smartcarers_is_chosen_inner_con2
 .smartcarers_is_chosen_sub_con2 h6{
   position: absolute;
@@ -3345,76 +3345,76 @@ text-decoration: underline
   padding-right: 20px
 }
 
-@media (max-width:991px){ 
-    
+@media (max-width:991px){
+
 .smartcarers_is_chosen_main_con .smartcarers_is_chosen_inner_con2 .smartcarers_is_chosen_sub_con1{
   margin-top:-650px;
 }
-    
+
 }
 
-@media (max-width:767px){ 
-    
+@media (max-width:767px){
+
 .smartcarers_is_chosen_main_con .smartcarers_is_chosen_inner_con2 .smartcarers_is_chosen_sub_con1{
   margin-top:-650px;
 }
-    
+
 }
 
-@media (max-width:551px){ 
-    
+@media (max-width:551px){
+
 .smartcarers_is_chosen_main_con .smartcarers_is_chosen_inner_con2 .smartcarers_is_chosen_sub_con1{
   margin-top:-690px;
 }
-    
+
 }
 
-@media (max-width:450px){ 
-    
+@media (max-width:450px){
+
 .smartcarers_is_chosen_main_con .smartcarers_is_chosen_inner_con2 .smartcarers_is_chosen_sub_con1{
   margin-top:-620px;
 }
-    
+
 }
 
-@media (max-width:398px){ 
-    
+@media (max-width:398px){
+
 .smartcarers_is_chosen_main_con .smartcarers_is_chosen_inner_con2 .smartcarers_is_chosen_sub_con1{
   margin-top:-640px;
 }
-    
+
 }
 
-@media (max-width:375px){ 
-    
+@media (max-width:375px){
+
 .smartcarers_is_chosen_main_con .smartcarers_is_chosen_inner_con2 .smartcarers_is_chosen_sub_con1{
   margin-top:-660px;
 }
-    
+
 }
 
-@media (max-width:334px){ 
-    
+@media (max-width:334px){
+
 .smartcarers_is_chosen_main_con .smartcarers_is_chosen_inner_con2 .smartcarers_is_chosen_sub_con1{
   margin-top:-680px;
 }
-    
+
 }
 
-@media (max-width:332px){ 
-    
+@media (max-width:332px){
+
 .smartcarers_is_chosen_main_con .smartcarers_is_chosen_inner_con2 .smartcarers_is_chosen_sub_con1{
   margin-top:-710px;
 }
-    
+
 }
 
-@media (max-width:318px){ 
-    
+@media (max-width:318px){
+
 .smartcarers_is_chosen_main_con .smartcarers_is_chosen_inner_con2 .smartcarers_is_chosen_sub_con1{
   margin-top:-740px;
 }
-    
+
 }
 
 .smartcarers_is_chosen_main_con .smartcarers_is_chosen_inner_con2
@@ -3432,7 +3432,7 @@ text-decoration: underline
 }
 
 @media (max-width:1199px){
- 
+
 .smartcarers_is_chosen_main_con .smartcarers_is_chosen_inner_con2
 .smartcarers_is_chosen_sub_con1 .smartcarers_is_chosen_sub_con_img1{
   right:-20px
@@ -3440,23 +3440,23 @@ text-decoration: underline
 
 }
 
-@media (max-width:991px){ 
+@media (max-width:991px){
 }
 
-@media (max-width:767px){ 
+@media (max-width:767px){
 }
 
-@media (max-width:550px){ 
+@media (max-width:550px){
 }
 
 @media (max-width:450px){
- 
+
 .smartcarers_is_chosen_main_con .smartcarers_is_chosen_inner_con2
 .smartcarers_is_chosen_sub_con1 .smartcarers_is_chosen_sub_con_img1{
   width: 209px;
   height: 152px;
 }
-    
+
 }
 
 @media (max-width:370px){
@@ -3479,45 +3479,45 @@ text-decoration: underline
 }
 
 @media (max-width:991px){
-  
+
 .smartcarers_is_chosen_main_con .smartcarers_is_chosen_inner_con2
 .smartcarers_is_chosen_sub_con1 .smartcarers_is_chosen_sub_con_img2{
   left:150px;
 }
-    
+
 }
 
-@media (max-width:767px){    
+@media (max-width:767px){
 }
 
 @media (max-width:650px){
-    
+
 .smartcarers_is_chosen_main_con .smartcarers_is_chosen_inner_con2
 .smartcarers_is_chosen_sub_con1 .smartcarers_is_chosen_sub_con_img2{
   left:50px;
 }
-    
+
 }
 
 @media (max-width:550px){
-    
+
 .smartcarers_is_chosen_main_con .smartcarers_is_chosen_inner_con2
 .smartcarers_is_chosen_sub_con1 .smartcarers_is_chosen_sub_con_img2{
   left:0px;
 }
-  
+
 }
 
 @media (max-width:450px){
- 
+
 .smartcarers_is_chosen_main_con .smartcarers_is_chosen_inner_con2
 .smartcarers_is_chosen_sub_con1 .smartcarers_is_chosen_sub_con_img2{
   width: 226px;
   height: 199px;
 }
-    
+
 }
-  
+
 @media (max-width:370px){
 }
 
@@ -3537,7 +3537,7 @@ text-decoration: underline
 }
 
 @media (max-width:1199px){
- 
+
 .smartcarers_is_chosen_main_con .smartcarers_is_chosen_inner_con2
 .smartcarers_is_chosen_sub_con1 .smartcarers_is_chosen_sub_con_img3{
   right:-20px
@@ -3545,7 +3545,7 @@ text-decoration: underline
 
 }
 
-@media (max-width:991px){    
+@media (max-width:991px){
 }
 
 @media (max-width:767px){
@@ -3555,38 +3555,38 @@ text-decoration: underline
 }
 
 @media (max-width:450px){
-    
+
 .smartcarers_is_chosen_main_con .smartcarers_is_chosen_inner_con2
 .smartcarers_is_chosen_sub_con1 .smartcarers_is_chosen_sub_con_img3{
   width: 209px;
   height: 152px;
   margin-top:170px
 }
-    
+
 }
 
 @media (max-width:370px){
-  
+
 }
 
 /*===================END OF SMARTCARERS IS CHOSEN SECTION===================*/
 
- 
 
 
 
- 
+
+
 /*===================BEGINNING OF EXPLORE CARERS SECTION===================*/
 
 .explore_carers_main_con{
-  margin-top:100px  
+  margin-top:100px
 }
 
 @media (max-width:991px){
-    
+
 .explore_carers_main_con{
-    margin-top:0px  
-}     
+    margin-top:0px
+}
 }
 
 .explore_carers_main_con .explore_carers_con{
@@ -3607,48 +3607,49 @@ text-decoration: underline
 }
 
 @media (max-width:500px){
- 
+
 .explore_carers_main_con .explore_carers_con h2{
   font-size:28px;
 }
-    
+
 }
 
 .explore_carers_main_con .explore_carers_con h2 span{
   color:#16b8e0;
+      position: relative;
 }
 
 .explore_carers_main_con .explore_carers_con h2 span::before{
   position: absolute;
   content: "";
-  width: 117px;
-  height:0px;
+  width: 100%;
+  height: 0px;
   border: 0px #ffffff;
   display: inline-block;
-  background-color:#16b8e0;
-  border-bottom:1.5px dashed #ffffff;
-  text-decoration:underline;
+  background-color: #16b8e0;
+  border-bottom: 1.5px dashed #ffffff;
+  text-decoration: underline;
   text-decoration-style: dashed;
-  margin-top:35px;
-  margin-left:-2.6px;
+  margin-top: 35px;
+  margin-left: -2.6px;
 }
 
 @media (max-width:500px){
- 
+
 .explore_carers_main_con .explore_carers_con h2 span::before{
   margin-top:30px;
   width: 105px
 }
-    
+
 }
 
 @media (max-width:350px){
- 
+
 .explore_carers_main_con .explore_carers_con h2 span::before{
   margin-top:65px;
   margin-left:-160px;
 }
-    
+
 }
 
 .explore_carers_main_con .explore_carers_con .explore_carers_smartcarers_con{
@@ -3674,7 +3675,7 @@ text-decoration: underline
   padding-left:15px;
   padding-right:15px
 }
-   
+
 }
 
 @media (max-width:767px){
@@ -3682,7 +3683,7 @@ text-decoration: underline
 .explore_carers_main_con .explore_carers_con .explore_carers_smartcarers_con{
   width:98%
 }
-   
+
 }
 
 @media (max-width:500px){
@@ -3690,7 +3691,7 @@ text-decoration: underline
 .explore_carers_main_con .explore_carers_con .explore_carers_smartcarers_con{
   width:94%
 }
-   
+
 }
 
 .explore_carers_main_con .explore_carers_con .explore_carers_smartcarers_con h3{
@@ -3726,20 +3727,20 @@ text-decoration: underline
 }
 
 @media (max-width:1199px){
- 
+
 .explore_carers_main_con .explore_carers_con .explore_carers_smartcarers_con h4{
   margin-bottom:30px
 }
-    
+
 }
 
 @media (max-width:767px){
- 
+
 .explore_carers_main_con .explore_carers_con .explore_carers_smartcarers_con h4{
   width:100%;
   height: auto;
 }
-    
+
 }
 
 .explore_carers_main_con .explore_carers_con .explore_carers_smartcarers_con .explore_carers_check_circle_con{
@@ -3759,88 +3760,88 @@ text-decoration: underline
   padding-left:1px;
   padding-right:1px;
 }
-    
+
 }
-    
+
 .explore_carers_main_con .explore_carers_con .explore_carers_smartcarers_con .explore_carers_check_circle_con img{
   display: inline-block;
   margin-right:15px;
 }
 
 @media (max-width:1199px){
-    
+
 .explore_carers_main_con .explore_carers_con .explore_carers_smartcarers_con .explore_carers_check_circle_con img{
   display: inline-block;
   margin-right:5px;
 }
-    
+
 }
 
 @media (max-width:767px){
 .explore_carers_main_con .explore_carers_con .explore_carers_smartcarers_con .explore_carers_check_circle_con img{
   margin-top:-3px;
 }
-    
+
 }
 
 @media (max-width:767px){
 .explore_carers_main_con .explore_carers_con .explore_carers_smartcarers_con .explore_carers_check_circle_con img{
   padding-left:220px!important;
 }
-    
+
 }
 @media (max-width:700px){
 .explore_carers_main_con .explore_carers_con .explore_carers_smartcarers_con .explore_carers_check_circle_con img{
   padding-left:190px!important;
 }
-    
+
 }
 @media (max-width:650px){
 .explore_carers_main_con .explore_carers_con .explore_carers_smartcarers_con .explore_carers_check_circle_con img{
   padding-left:170px!important;
 }
-    
+
 }
 @media (max-width:600px){
 .explore_carers_main_con .explore_carers_con .explore_carers_smartcarers_con .explore_carers_check_circle_con img{
   padding-left:150px!important;
 }
-    
+
 }
 
 @media (max-width:550px){
 .explore_carers_main_con .explore_carers_con .explore_carers_smartcarers_con .explore_carers_check_circle_con img{
   padding-left:120px!important;
 }
-    
+
 }
 
 @media (max-width:500px){
 .explore_carers_main_con .explore_carers_con .explore_carers_smartcarers_con .explore_carers_check_circle_con img{
   padding-left:90px!important;
 }
-    
+
 }
 
 @media (max-width:450px){
 .explore_carers_main_con .explore_carers_con .explore_carers_smartcarers_con .explore_carers_check_circle_con img{
   padding-left:50px!important;
 }
-    
+
 }
 @media (max-width:399px){
 .explore_carers_main_con .explore_carers_con .explore_carers_smartcarers_con .explore_carers_check_circle_con img{
   padding-left:30px!important;
   margin-left:0!important;
 }
-    
+
 }
 
 @media (max-width:350px){
 .explore_carers_main_con .explore_carers_con .explore_carers_smartcarers_con .explore_carers_check_circle_con img{
   padding-left:0px!important;
 }
-    
+
 }
 
 @media (min-width:992px) and (max-width:1199px){
@@ -3848,7 +3849,7 @@ text-decoration: underline
   margin-top:-0px;
   margin-left:-180px;
 }
-    
+
 }
 
 @media (min-width:992px) and (max-width:1199px){
@@ -3893,7 +3894,7 @@ text-decoration: underline
   margin-top:-24px;
   position: absolute;
 }
-    
+
 }
 
 @media (max-width:767px){
@@ -3902,100 +3903,100 @@ text-decoration: underline
   padding-left:15px;
   padding-right:15px;
 }
-    
+
 }
 
 @media (max-width:767px){
-    
+
 .explore_carers_main_con .explore_carers_con .explore_carers_smartcarers_con .explore_carers_check_circle_con{
   width:100%;
 }
-    
+
 .explore_carers_main_con .explore_carers_con .explore_carers_smartcarers_con .explore_carers_check_circle_con img{
   padding-left:70px
 }
-     
+
 .explore_carers_main_con .explore_carers_con .explore_carers_smartcarers_con .explore_carers_check_circle_con h5{
   display:block;
   width:100%;
   text-align: left;
 }
-    
+
 }
 
 @media (max-width:767px){
-     
+
 .explore_carers_main_con .explore_carers_con .explore_carers_smartcarers_con .explore_carers_check_circle_con img{
   padding-left:110px
 }
-    
+
 }
 
 @media (max-width:500px){
-     
+
 .explore_carers_main_con .explore_carers_con .explore_carers_smartcarers_con .explore_carers_check_circle_con img{
   padding-left:70px
 }
-    
+
 }
 
 @media (max-width:450px){
-     
+
 .explore_carers_main_con .explore_carers_con .explore_carers_smartcarers_con .explore_carers_check_circle_con img{
   padding-left:50px
 }
-    
+
 }
 
 @media (max-width:400px){
-     
+
 .explore_carers_main_con .explore_carers_con .explore_carers_smartcarers_con .explore_carers_check_circle_con img{
   padding-left:40px
 }
-    
+
 }
 
 @media (max-width:380px){
-     
+
 .explore_carers_main_con .explore_carers_con .explore_carers_smartcarers_con .explore_carers_check_circle_con img{
   margin-left:20px;
   padding-left:10px
 }
-    
+
 }
 
 @media (max-width:370px){
-     
+
 .explore_carers_main_con .explore_carers_con .explore_carers_smartcarers_con .explore_carers_check_circle_con img{
   margin-left:20px
 }
-    
+
 }
- 
+
 @media (max-width:360px){
-     
+
 .explore_carers_main_con .explore_carers_con .explore_carers_smartcarers_con .explore_carers_check_circle_con img{
   margin-left:15px
 }
-    
+
 }
 
 @media (max-width:340px){
-     
+
 .explore_carers_main_con .explore_carers_con .explore_carers_smartcarers_con .explore_carers_check_circle_con img{
   margin-left:10px
 }
-    
+
 }
 
 @media (max-width:330px){
-     
+
 .explore_carers_main_con .explore_carers_con .explore_carers_smartcarers_con .explore_carers_check_circle_con img{
   margin-left:5px
 }
-    
+
 }
-  
+
 .explore_carers_main_con .explore_carers_con .explore_carers_looking_for_job{
   width: 89%;
   height:85px;
@@ -4012,19 +4013,19 @@ text-decoration: underline
 }
 
 @media (max-width:767px){
-     
+
 .explore_carers_main_con .explore_carers_con .explore_carers_looking_for_job{
   width:98%;
   height:250px;
 }
-    
+
 }
 @media (max-width:767px){
-     
+
 .explore_carers_main_con .explore_carers_con .explore_carers_looking_for_job{
   width:94%;
 }
-    
+
 }
 
 .explore_carers_main_con .explore_carers_con .explore_carers_looking_for_job h3{
@@ -4047,8 +4048,8 @@ text-decoration: underline
  .explore_carers_main_con .explore_carers_con .explore_carers_looking_for_job h3{
   width: 120%;
   margin-left:0;
-}   
-    
+}
+
 }
 
 @media (max-width:767px){
@@ -4056,29 +4057,29 @@ text-decoration: underline
   width: 100%;
   margin-top:20px;
   margin-bottom:40px
-}   
-    
+}
+
 }
 
 .explore_carers_main_con .explore_carers_con .explore_carers_looking_for_job .explore_carers_looking_for_job_learn_more_btn_anchor_tag{
   margin-left:90px;
   margin-right:10px;
-} 
+}
 
 @media (max-width:1199px){
 
 .explore_carers_main_con .explore_carers_con .explore_carers_looking_for_job .explore_carers_looking_for_job_learn_more_btn_anchor_tag{
   margin-left:150px;
 }
-    
-}  
+
+}
 
 @media (max-width:991px){
 
 .explore_carers_main_con .explore_carers_con .explore_carers_looking_for_job .explore_carers_looking_for_job_learn_more_btn_anchor_tag{
   margin-left:22px;
 }
-    
+
 }
 
 @media (max-width:767px){
@@ -4088,7 +4089,7 @@ text-decoration: underline
   margin:0;
   margin-bottom:10px;
 }
-    
+
 }
 
 .explore_carers_main_con .explore_carers_con .explore_carers_looking_for_job .explore_carers_looking_for_job_learn_more_btn{
@@ -4114,7 +4115,7 @@ text-decoration: underline
   -ms-transition: .3s ease-in-out;
   -o-transition: .3s ease-in-out;
   transition: .3s ease-in-out;
-} 
+}
 
 @media (max-width:767px){
 
@@ -4123,14 +4124,14 @@ text-decoration: underline
   margin:0;
   margin-bottom:10px;
 }
-    
+
 }
 
 .explore_carers_main_con .explore_carers_con .explore_carers_looking_for_job .explore_carers_looking_for_job_learn_more_btn:hover{
   background-color:#ffffff;
   color:#000000;
 }
-  
+
 .explore_carers_main_con .explore_carers_con .explore_carers_looking_for_job .explore_carers_looking_for_job_beco_carer_btn{
   width: 180px;
   height: 55px;
@@ -4161,23 +4162,23 @@ text-decoration: underline
   color: #ffffff;
 }
 
-  
+
 .explore_carers_main_con .explore_carers_personal_profile_main_con .explore_carers_personal_profile_sub_con:hover .explore_carers_personal_profile_btn{
   border: solid 1px #16b8e0;
   background-color: rgba(12, 171, 211, 0.1);
 }
-  
+
 @media (max-width:767px){
 
 .explore_carers_main_con .explore_carers_con .explore_carers_looking_for_job .explore_carers_looking_for_job_beco_carer_btn{
   width:100%;
   margin:0;
 }
-    
+
 }
 
 .explore_carers_main_con .explore_carers_personal_profile_main_con{
-  margin-top:40px   
+  margin-top:40px
 }
 
 .explore_carers_main_con .explore_carers_personal_profile_main_con .explore_carers_personal_profile_sub_con{
@@ -4186,36 +4187,36 @@ text-decoration: underline
 }
 
 @media (max-width:991px){
-  
+
 .explore_carers_main_con .explore_carers_personal_profile_main_con .explore_carers_personal_profile_sub_con{
   margin-bottom:30px
 }
-    
+
 }
-  
+
 @media (min-width:768px) and (max-width:991px){
-  
+
 .explore_carers_main_con .explore_carers_personal_profile_main_con #explore_carers_personal_profile_sub_con1,.explore_carers_main_con .explore_carers_personal_profile_main_con #explore_carers_personal_profile_sub_con3{
   padding-left:120px
 }
-    
+
 }
-   
+
 @media (min-width:768px) and (max-width:991px){
-  
+
 .explore_carers_main_con .explore_carers_personal_profile_main_con #explore_carers_personal_profile_sub_con2,.explore_carers_main_con .explore_carers_personal_profile_main_con #explore_carers_personal_profile_sub_con4{
   padding-right:120px
 }
-    
+
 }
-  
+
 @media (max-width:500px){
-  
+
 .explore_carers_main_con .explore_carers_personal_profile_main_con .explore_carers_personal_profile_sub_con{
   width:100%;
   margin-bottom:30px
 }
-    
+
 }
 
 .explore_carers_main_con .explore_carers_personal_profile_main_con .explore_carers_personal_profile_sub_con .explore_carers_personal_profile_img{
@@ -4234,8 +4235,8 @@ text-decoration: underline
 @media (max-width:1199px){
 .explore_carers_main_con .explore_carers_personal_profile_main_con .explore_carers_personal_profile_sub_con .explore_carers_personal_profile_img{
   height: 300px;
-}  
-    
+}
+
 }
 
 @media (max-width:767px){
@@ -4245,8 +4246,8 @@ text-decoration: underline
   -ms-border-radius: 6px;
   -o-border-radius: 6px;
   border-radius: 6px;
-}  
-    
+}
+
 }
 
 @media (max-width:767px){
@@ -4258,15 +4259,15 @@ text-decoration: underline
   -ms-background-size:cover;
   -o-background-size:cover;
   background-size:cover;
-}  
-    
+}
+
 }
 
 @media (max-width:500px){
 .explore_carers_main_con .explore_carers_personal_profile_main_con .explore_carers_personal_profile_sub_con .explore_carers_personal_profile_img{
   height: 376px;
-}  
-    
+}
+
 }
 
 @media (max-width:319px){
@@ -4276,8 +4277,8 @@ text-decoration: underline
   -ms-background-size:cover;
   -o-background-size:cover;
   background-size:cover;
-}  
-    
+}
+
 }
 
 .explore_carers_main_con .explore_carers_personal_profile_main_con #explore_carers_personal_profile_sub_con1 .explore_carers_personal_profile_img{
@@ -4315,7 +4316,7 @@ text-decoration: underline
 .explore_carers_main_con .explore_carers_personal_profile_main_con .explore_carers_personal_profile_sub_con h3{
   padding-left:7px
 }
- 
+
 }
 
 @media (max-width:767px){
@@ -4323,7 +4324,7 @@ text-decoration: underline
 .explore_carers_main_con .explore_carers_personal_profile_main_con .explore_carers_personal_profile_sub_con h3{
   padding-left:0px
 }
- 
+
 }
 
 .explore_carers_main_con .explore_carers_personal_profile_main_con .explore_carers_personal_profile_sub_con h3 img{
@@ -4350,7 +4351,7 @@ text-decoration: underline
 .explore_carers_main_con .explore_carers_personal_profile_main_con .explore_carers_personal_profile_sub_con h4{
   padding-left:7px
 }
- 
+
 }
 
 @media (max-width:767px){
@@ -4358,7 +4359,7 @@ text-decoration: underline
 .explore_carers_main_con .explore_carers_personal_profile_main_con .explore_carers_personal_profile_sub_con h4{
   padding-left:0px
 }
- 
+
 }
 
 .explore_carers_main_con .explore_carers_personal_profile_main_con .explore_carers_personal_profile_sub_con h4 span{
@@ -4409,7 +4410,7 @@ text-decoration: underline
 .explore_carers_main_con .explore_carers_personal_profile_main_con .explore_carers_personal_profile_sub_con .explore_carers_personal_profile_btn{
   margin-left:7px
 }
- 
+
 }
 
 @media (max-width:767px){
@@ -4417,7 +4418,7 @@ text-decoration: underline
 .explore_carers_main_con .explore_carers_personal_profile_main_con .explore_carers_personal_profile_sub_con .explore_carers_personal_profile_btn{
   margin-left:0px
 }
- 
+
 }
 
 @media (max-width:500px){
@@ -4427,7 +4428,7 @@ text-decoration: underline
   margin-top: -55px;
   right:10px
 }
- 
+
 }
 
 @media (max-width:370px){
@@ -4437,7 +4438,7 @@ text-decoration: underline
   margin-top: 0;
   right:0
 }
- 
+
 }
 
 .explore_carers_main_con .explore_carers_personal_profile_main_con .explore_carers_personal_profile_sub_con .explore_carers_personal_profile_btn:hover{
@@ -4447,12 +4448,12 @@ text-decoration: underline
 
 /*===================END OF EXPLORE CARERS SECTION===================*/
 
- 
+
 
 
 
 /*===================BEGINNING OF HEAR WHAT PEOPLE (TESTIMONIAL) SECTION===================*/
- 
+
 .hear_what_people_slider_con{
   padding-top:1px;
   padding-bottom:72px;
@@ -4464,13 +4465,13 @@ text-decoration: underline
 .hear_what_people_slider_con{
   margin-top:20px;
 }
-    
+
 }
 
 .hear_what_people_slider_con .hear_what_people_header_con{
   margin-bottom:35px
 }
- 
+
 .hear_what_people_slider_con .hear_what_people_header_con{
   padding-left: 25px;
   padding-right: 25px
@@ -4490,13 +4491,13 @@ text-decoration: underline
 }
 
 @media (max-width:767px){
-    
+
 .hear_what_people_slider_con .hear_what_people_header_con h1{
   font-size:28px;
   margin-top:0;
   margin-bottom:0;
 }
-    
+
 }
 
 .hear_what_people_slider_con .hear_what_people_header_con h4{
@@ -4525,7 +4526,7 @@ text-decoration: underline
   color: #000000;
   margin-right:5px;
 }
- 
+
 .hear_what_people_slider_con .hear_what_people_header_con .hear_what_people_trust_pilot_green_icon{
   display:inline-block;
   width: 100px;
@@ -4533,7 +4534,7 @@ text-decoration: underline
   margin-bottom:5px;
   margin-right:5px;
 }
- 
+
 .hear_what_people_slider_con .hear_what_people_header_con h2{
   display:inline-block;
   font-family: ApercuPro;
@@ -4545,7 +4546,7 @@ text-decoration: underline
   letter-spacing: normal;
   color: #000000;
 }
- 
+
 .hear_what_people_slider_con .hear_what_people_header_con h5{
   display:inline-block;
   font-family: ApercuPro;
@@ -4577,9 +4578,9 @@ text-decoration: underline
   width: 90px;
   height: 22.2px;
 }
- 
+
 @media (max-width:767px){
-    
+
 .hear_what_people_slider_con .hear_what_people_header_con h4,
 .hear_what_people_slider_con .hear_what_people_header_con h3,
 .hear_what_people_slider_con .hear_what_people_header_con .hear_what_people_trust_pilot_green_icon,
@@ -4589,7 +4590,7 @@ text-decoration: underline
   margin-top:0;
   margin-bottom:5px;
 }
-    
+
 }
 
 .hear_what_people_slider_con .hear_what_people_slider_sub_con{
@@ -4610,67 +4611,67 @@ text-decoration: underline
 }
 
 @media (max-width:800px){
-    
+
 .hear_what_people_slider_con .hear_what_people_slider{
   height:710px
 }
-    
+
 }
 
 @media (max-width:767px){
-    
+
 .hear_what_people_slider_con .hear_what_people_slider{
   height:500px
 }
-    
+
 }
 
 @media (max-width:600px){
-    
+
 .hear_what_people_slider_con .hear_what_people_slider{
   height:540px
 }
-    
+
 }
 
 @media (max-width:420px){
-    
+
 .hear_what_people_slider_con .hear_what_people_slider{
   height:650px
 }
-    
+
 }
 
 @media (max-width:399px){
-    
+
 .hear_what_people_slider_con .hear_what_people_slider{
   height:700px
 }
-    
+
 }
 
 @media (max-width:364px){
-    
+
 .hear_what_people_slider_con .hear_what_people_slider{
   height:735px
 }
-    
+
 }
 
-.hear_what_people_slider_con .hear_what_people_slider .slick-list { 
+.hear_what_people_slider_con .hear_what_people_slider .slick-list {
   padding:0px !important;
   margin-left:-0px !important;
   max-height:580px;
 }
 
 @media (max-width:767px){
-    
- .hear_what_people_slider_con .hear_what_people_slider .slick-list { 
+
+ .hear_what_people_slider_con .hear_what_people_slider .slick-list {
   padding:0px !important;
   margin-left:-0px !important;
   max-height:650px
-}  
-    
+}
+
 }
 
 .hear_what_people_slider_item{
@@ -4686,7 +4687,7 @@ text-decoration: underline
   cursor: default
 }
 
-.hear_what_people_slider_item .hear_what_people_slider_item1_con,.hear_what_people_slider_item .hear_what_people_slider_item2_con,.hear_what_people_slider_item .hear_what_people_slider_item3_con,.hear_what_people_slider_item .hear_what_people_slider_item4_con,.hear_what_people_slider_item .hear_what_people_slider_item5_con,.hear_what_people_slider_item .hear_what_people_slider_item6_con,.hear_what_people_slider_item .hear_what_people_slider_item7_con,.hear_what_people_slider_item .hear_what_people_slider_item8_con{ 
+.hear_what_people_slider_item .hear_what_people_slider_item1_con,.hear_what_people_slider_item .hear_what_people_slider_item2_con,.hear_what_people_slider_item .hear_what_people_slider_item3_con,.hear_what_people_slider_item .hear_what_people_slider_item4_con,.hear_what_people_slider_item .hear_what_people_slider_item5_con,.hear_what_people_slider_item .hear_what_people_slider_item6_con,.hear_what_people_slider_item .hear_what_people_slider_item7_con,.hear_what_people_slider_item .hear_what_people_slider_item8_con{
   padding-left:71px;
   padding-right:71px;
   padding-top:110px;
@@ -4694,14 +4695,14 @@ text-decoration: underline
 }
 
 @media (max-width:767px){
-    
+
 .hear_what_people_slider_item .hear_what_people_slider_item1_con,.hear_what_people_slider_item .hear_what_people_slider_item2_con,.hear_what_people_slider_item .hear_what_people_slider_item3_con,.hear_what_people_slider_item .hear_what_people_slider_item4_con,.hear_what_people_slider_item .hear_what_people_slider_item5_con,.hear_what_people_slider_item .hear_what_people_slider_item6_con,.hear_what_people_slider_item .hear_what_people_slider_item7_con,.hear_what_people_slider_item .hear_what_people_slider_item8_con{
   padding-left:40px;
   padding-right:40px;
   padding-bottom: 30px;
   padding-top: 90px
-}  
-       
+}
+
 }
 
 .hear_what_people_slider_con .hear_what_people_slider .hear_what_people_starting_quote{
@@ -4710,24 +4711,24 @@ text-decoration: underline
 }
 
 @media (max-width:767px){
-    
+
 .hear_what_people_slider_con .hear_what_people_slider .hear_what_people_starting_quote{
   width: 20px;
   height: 16px;
   margin-top:-50px
 }
-  
+
 }
 
 .hear_what_people_slider_con .hear_what_people_slider .hear_what_people_rating_comment_stars{
-  margin-bottom: 35px   
+  margin-bottom: 35px
 }
 
 @media (max-width:767px){
-    
+
 .hear_what_people_slider_con .hear_what_people_slider .hear_what_people_rating_comment_stars{
   width: 154px;
-  height: 22px; 
+  height: 22px;
 }
 
 }
@@ -4760,15 +4761,15 @@ text-decoration: underline
 .hear_what_people_slider_con .hear_what_people_slider h4{
   -ms-overflow-style: none;
 }
-  
+
 @media (max-width:800px){
 
 .hear_what_people_slider_con .hear_what_people_slider h4{
   height:340px;
 }
-    
+
 }
-  
+
 @media (max-width:767px){
 
 .hear_what_people_slider_con .hear_what_people_slider h4{
@@ -4777,15 +4778,15 @@ text-decoration: underline
   font-size: 28px;
   line-height: 1.43;
 }
-    
+
 }
-  
+
 @media (max-width:600px){
 
 .hear_what_people_slider_con .hear_what_people_slider h4{
   height:305px;
 }
-    
+
 }
 
 @media (max-width:550px){
@@ -4793,7 +4794,7 @@ text-decoration: underline
 .hear_what_people_slider_con .hear_what_people_slider h4{
   height:300px;
 }
-    
+
 }
 
 @media (max-width:420px){
@@ -4801,7 +4802,7 @@ text-decoration: underline
 .hear_what_people_slider_con .hear_what_people_slider h4{
   height:450px;
 }
-    
+
 }
 
 @media (max-width:399px){
@@ -4809,7 +4810,7 @@ text-decoration: underline
 .hear_what_people_slider_con .hear_what_people_slider h4{
   height:500px;
 }
-    
+
 }
 
 .hear_what_people_slider_con .hear_what_people_slider h3{
@@ -4821,17 +4822,17 @@ text-decoration: underline
   line-height: normal;
   letter-spacing: normal;
   text-align: center;
-  color: #ffffff;  
+  color: #ffffff;
   margin-top:0;
   margin-bottom:4px
 }
 
 @media (max-width:767px){
-    
+
 .hear_what_people_slider_con .hear_what_people_slider h3{
   display: none
 }
-    
+
 }
 
 .hear_what_people_slider_con .hear_what_people_slider h5{
@@ -4851,11 +4852,11 @@ text-decoration: underline
 }
 
 @media (max-width:767px){
-    
+
 .hear_what_people_slider_con .hear_what_people_slider h5{
   display: none
 }
-    
+
 }
 
 .hear_what_people_slider_con .hear_what_people_slider .hear_what_people_end_quote{
@@ -4864,36 +4865,36 @@ text-decoration: underline
 }
 
 @media (max-width:767px){
-    
+
 .hear_what_people_slider_con .hear_what_people_slider .hear_what_people_end_quote{
   width: 20px;
   height: 16px;
 }
-  
+
 }
 
 @media (max-width:420px){
-    
+
 .hear_what_people_slider_con .hear_what_people_slider .hear_what_people_end_quote{
   margin-top:-45px
 }
-  
+
 }
 @media (max-width:399px){
-    
+
 .hear_what_people_slider_con .hear_what_people_slider .hear_what_people_end_quote{
   margin-top:-50px
 }
-  
+
 }
  @media (max-width:364px){
-    
+
 .hear_what_people_slider_con .hear_what_people_slider .hear_what_people_end_quote{
   margin-top:-15px
 }
-  
+
 }
- 
+
 .hear_what_people_slider_con .slick-prev.slick-disabled,
 .hear_what_people_slider_con .slick-next.slick-disabled {
   -webkit-opacity: 1;
@@ -4952,15 +4953,15 @@ text-decoration: underline
 .hear_what_people_slider_con .slick-next {
   top:45%;
   right:3px;
-  position: absolute; 
-} 
+  position: absolute;
+}
 
 @media (max-width:767px){
 
 .hear_what_people_slider_con .slick-next {
-  display: none!important    
-} 
-    
+  display: none!important
+}
+
 }
 
 .hear_what_people_slider_con .slick-prev {
@@ -4969,7 +4970,7 @@ text-decoration: underline
   region-break-after:8px!important;
   left:-3px;
   position:relative;
-    
+
   display: none!important
 }
 
@@ -4977,8 +4978,8 @@ text-decoration: underline
 
 .hear_what_people_slider_con .slick-prev {
   left:3px;
-} 
-    
+}
+
 }
 
 .hear_what_people_slider_con .slick-dots {
@@ -4996,7 +4997,7 @@ text-decoration: underline
 .hear_what_people_slider_con .slick-dots {
   padding-right:50px
 }
-    
+
 }
 
 .hear_what_people_slider_con .slick-dots li {
@@ -5052,10 +5053,10 @@ text-decoration: underline
 
 /*===================END OF HEAR WHAT PEOPLE (TESTIMONIAL) SECTION===================*/
 
- 
 
 
- 
+
+
 /*===================END OF GET THE LATEST SECTION===================*/
 
 .get_the_latest_main_con{
@@ -5087,9 +5088,9 @@ text-decoration: underline
   font-size: 28px;
   line-height: 1.43;
 }
-    
+
 }
-    
+
 .get_the_latest_main_con h4{
   width: 585px;
   height: 78px;
@@ -5113,7 +5114,7 @@ text-decoration: underline
 .get_the_latest_main_con h4{
   width:100%;
 }
-  
+
 }
 
 @media (max-width:564px){
@@ -5121,7 +5122,7 @@ text-decoration: underline
 .get_the_latest_main_con h4{
   margin-bottom:90px
 }
-  
+
 }
 
 @media (max-width:423px){
@@ -5129,7 +5130,7 @@ text-decoration: underline
 .get_the_latest_main_con h4{
   margin-bottom:100px
 }
-  
+
 }
 
 @media (max-width:364px){
@@ -5137,7 +5138,7 @@ text-decoration: underline
 .get_the_latest_main_con h4{
   margin-bottom:115px
 }
-  
+
 }
 
 @media (max-width:309px){
@@ -5145,11 +5146,11 @@ text-decoration: underline
 .get_the_latest_main_con h4{
   margin-bottom:135px
 }
-  
+
 }
 
 .get_the_latest_main_con .get_the_latest_inner_main_con{
-  margin-top:40px   
+  margin-top:40px
 }
 
 .get_the_latest_main_con .get_the_latest_inner_main_con .get_the_latest_sub_con{
@@ -5158,15 +5159,15 @@ text-decoration: underline
 }
 
 @media (max-width:991px){
-  
+
 .get_the_latest_main_con .get_the_latest_inner_main_con .get_the_latest_sub_con{
   margin-bottom:20px
 }
-    
+
 }
 
 @media (max-width:600px){
-  
+
 .get_the_latest_main_con .get_the_latest_inner_main_con .get_the_latest_sub_con{
   -webkit-width: calc(100% + 20px + 20px);
   -moz-width: calc(100% + 20px + 20px);
@@ -5178,7 +5179,7 @@ text-decoration: underline
   padding-left:5px;
   padding-right:5px
 }
-    
+
 }
 
 .get_the_latest_main_con .get_the_latest_inner_main_con .get_the_latest_sub_con .get_the_latest_img_con{
@@ -5202,16 +5203,16 @@ text-decoration: underline
 
 .get_the_latest_main_con .get_the_latest_inner_main_con .get_the_latest_sub_con .get_the_latest_img_con{
   height:250px;
-}  
-    
+}
+
 }
 
 @media (max-width:399px){
 
 .get_the_latest_main_con .get_the_latest_inner_main_con .get_the_latest_sub_con .get_the_latest_img_con{
   height:194px;
-}  
-    
+}
+
 }
 
 .get_the_latest_main_con .get_the_latest_inner_main_con #get_the_latest_sub_con1 .get_the_latest_img_con{
@@ -5311,7 +5312,7 @@ text-decoration: underline
   height:40px;
   margin-bottom:10px;
 }
-    
+
 }
 
 @media (min-width:601px) and (max-width:991px){
@@ -5319,7 +5320,7 @@ text-decoration: underline
 .get_the_latest_main_con .get_the_latest_inner_main_con .get_the_latest_sub_con .get_the_latest_text_con  h2{
   height: 35px;
 }
-    
+
 }
 
 .get_the_latest_main_con .get_the_latest_inner_main_con .get_the_latest_sub_con .get_the_latest_text_con  h5{
@@ -5347,16 +5348,16 @@ text-decoration: underline
   color: #727272;
   margin-bottom:29px;
   margin-top:0;
-  overflow: scroll
+  overflow: auto;
 }
 
 @media (max-width:991px){
- 
+
 .get_the_latest_main_con .get_the_latest_inner_main_con .get_the_latest_sub_con .get_the_latest_text_con  h6{
   height:100px;
   margin-bottom:10px;
 }
-    
+
 }
 
 .get_the_latest_main_con .get_the_latest_inner_main_con .get_the_latest_sub_con .get_the_latest_text_con a{
@@ -5437,19 +5438,19 @@ text-decoration: underline
 }
 
 @media (max-width:1199px){
- 
+
 .get_the_latest_main_con .get_the_latest_view_archive_btn{
   margin-top:37px;
 }
-   
+
 }
 
 @media (max-width:450px){
- 
+
 .get_the_latest_main_con .get_the_latest_view_archive_btn{
   margin-top:20px;
 }
-   
+
 }
 
 .get_the_latest_main_con .get_the_latest_view_archive_btn:hover{
@@ -5458,7 +5459,7 @@ text-decoration: underline
 
 /*===================END OF GET THE LATEST SECTION===================*/
 
- 
+
 
 
 /*===================BEGINNING OF FOOTER SECTION===================*/
@@ -5506,8 +5507,8 @@ footer .footer_main_sub_con1 ul{
 
 footer .footer_main_sub_con1 ul{
   margin-bottom:60px
-} 
-    
+}
+
 }
 
 footer .footer_main_sub_con1 ul li{
@@ -5516,7 +5517,7 @@ footer .footer_main_sub_con1 ul li{
 }
 
 footer .footer_main_sub_con2{
-    
+
 }
 
 footer .footer_main_sub_con2 h4{
@@ -5537,80 +5538,80 @@ footer .footer_sub_con1 h4{
 }
 
 @media (max-width:767px){
-    
+
 footer .footer_sub_con1{
   margin-bottom:40px;
   padding-left:0;
-}  
-    
+}
+
 }
 
 @media (max-width:499px){
-    
+
 footer .footer_sub_con1{
   width: 100%
-}  
-    
+}
+
 }
 
 @media (min-width:768px) and (max-width:991px){
-    
+
 footer .footer_sub_con2{
   padding-left:0
-}  
-    
+}
+
 }
 
 @media (max-width:767px){
-    
+
 footer .footer_sub_con2{
   margin-bottom:40px;
   padding-left:0;
   padding-right:15px
-}  
-    
+}
+
 }
 
 @media (max-width:499px){
-    
+
 footer .footer_sub_con2{
   width: 100%
-}  
-    
+}
+
 }
 
 @media (min-width:992px) and (max-width:1199px){
-    
+
 footer .footer_sub_con3 {
   padding-right:6px;
-}  
-    
+}
+
 }
 @media (min-width:768px) and (max-width:991px){
-    
+
 footer .footer_sub_con3 {
   padding-left:0;
   padding-right:0
-}  
-    
+}
+
 }
 
 @media (max-width:767px){
-    
+
 footer .footer_sub_con3 {
   padding-left:0;
   padding-right:15px
-}  
-    
+}
+
 }
 
 @media (max-width:499px){
-    
+
 footer .footer_sub_con3{
   width: 100%;
   margin-bottom:40px
-}  
-    
+}
+
 }
 
 footer .footer_sub_con3 h4{
@@ -5618,36 +5619,36 @@ footer .footer_sub_con3 h4{
 }
 
 @media (max-width:1199px){
-    
+
 footer .footer_sub_con3 h4{
   padding-left:0
 }
-    
+
 }
 
 @media (min-width:768px) and (max-width:991px){
-    
+
 footer .footer_sub_con4{
   padding-right:0
-}  
-    
+}
+
 }
 
 @media (max-width:767px){
-    
+
 footer .footer_sub_con4 {
   padding-left:0;
   padding-right:15px
-}  
-    
+}
+
 }
 
 @media (max-width:499px){
-    
+
 footer .footer_sub_con4{
   width: 100%
-}  
-    
+}
+
 }
 
 footer .footer_sub_con4 h4{
@@ -5655,11 +5656,11 @@ footer .footer_sub_con4 h4{
 }
 
 @media (max-width:1199px){
-    
+
 footer .footer_sub_con4 h4{
   padding-left:0
 }
-    
+
 }
 
 footer .footer_sub_con1 ul{
@@ -5690,11 +5691,11 @@ footer .footer_sub_con3 ul{
 }
 
 @media (max-width:1199px){
-    
+
 footer .footer_sub_con3 ul{
-  padding-left:0  
+  padding-left:0
 }
-    
+
 }
 
 footer .footer_sub_con4 ul{
@@ -5711,7 +5712,7 @@ footer .footer_sub_con4 ul{
 footer .footer_sub_con4 ul{
   padding-left:0px;
 }
-    
+
 }
 
 footer .footer_main_sub_con2 ul li {
@@ -5747,16 +5748,16 @@ footer ul li a{
 }
 
 .footer_copyright_con{
-  margin-top:170px 
+  margin-top:170px
 }
 
 @media (max-width:767px){
-    
+
 
 .footer_copyright_con{
- margin-top:350px 
+ margin-top:350px
 }
-   
+
 }
 
 footer .footer_copyright_con::before{
@@ -5777,32 +5778,32 @@ footer .footer_copyright_con::before{
 }
 
 @media (max-width:1199px){
-    
+
 footer .footer_copyright_con::before{
   margin-top:230px;
-}  
-    
+}
+
 }
 @media (max-width:991px){
-    
+
 footer .footer_copyright_con::before{
   margin-top:200px;
-}  
-    
+}
+
 }
 @media (max-width:767px){
-    
+
 footer .footer_copyright_con::before{
   margin-top:600px;
-}  
-    
+}
+
 }
 @media (max-width:499px){
-    
+
 footer .footer_copyright_con::before{
   margin-top:890px;
-}  
-    
+}
+
 }
 
 footer .footer_copyright_con h5{
@@ -5828,7 +5829,7 @@ footer .footer_copyright_con h5{
 
 
 
- 
+
 
 
 
@@ -5845,7 +5846,7 @@ footer .footer_copyright_con h5{
 .we_will_help_main_con{
   margin-top:100px
 }
- 
+
 .we_will_help_main_con h2{
   font-family: ApercuPro;
   font-size: 40px;
@@ -5866,13 +5867,13 @@ footer .footer_copyright_con h5{
   margin-bottom:20px;
 }
 }
- 
+
 @media (max-width:767px){
 .we_will_help_main_con h2{
   font-size:28px;
 }
 }
- 
+
 .we_will_help_main_con h4{
   width: 778px;
   height: 104px;
@@ -5892,21 +5893,21 @@ footer .footer_copyright_con h5{
 }
 
 @media (max-width:991px){
-    
+
 .we_will_help_main_con h4{
   width:100%;
   height:auto;
 }
-    
+
 }
 @media (max-width:767px){
-    
+
 .we_will_help_main_con h4{
   margin-bottom:20px;
 }
-    
+
 }
- 
+
 .we_will_help_main_con .we_will_help_we_cared_img{
   height: 510px;
   background-image: url(../images/we-will-help-we-cared.jpg);
@@ -5927,7 +5928,7 @@ footer .footer_copyright_con h5{
 }
 
 @media (max-width:1199px){
- 
+
 .we_will_help_main_con .we_will_help_we_cared_img{
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -5935,17 +5936,17 @@ footer .footer_copyright_con h5{
   -o-background-size: cover;
   background-size: cover;
 }
- 
+
 }
 
 @media (max-width:767px){
- 
+
 .we_will_help_main_con .we_will_help_we_cared_img{
   height: 400px
 }
- 
+
 }
- 
+
 .we_will_help_main_con .we_will_help_inner_con{
   margin-bottom: 50px;
   margin-top:0
@@ -5968,9 +5969,9 @@ footer .footer_copyright_con h5{
 .we_will_help_main_con .we_will_help_inner_con h5{
   margin-bottom:10px;
 }
-    
+
 }
- 
+
 .we_will_help_main_con .we_will_help_inner_con h6{
   width: 343px;
   height:auto;
@@ -5984,15 +5985,15 @@ footer .footer_copyright_con h5{
   color: #000000;
   margin-bottom: 20px;
   margin-top:0
-} 
+}
 
 @media (max-width:991px){
 .we_will_help_main_con .we_will_help_sub_con1 h6{
   margin-bottom:40px;
 }
-    
+
 }
- 
+
 .we_will_help_main_con .we_will_help_sub_con2 h6{
   width: 421px;
   height:auto;
@@ -6005,9 +6006,9 @@ footer .footer_copyright_con h5{
   width:100%;
   margin-bottom:30px
 }
- 
+
 }
- 
+
 .we_will_help_main_con .we_will_help_sub_con2 .we_will_help_find_your_carer_btn{
   width: 150px;
   height: 45px;
@@ -6033,11 +6034,11 @@ footer .footer_copyright_con h5{
   -o-transition: .3s ease-in-out;
   transition: .3s ease-in-out;
 }
- 
+
 .we_will_help_main_con .we_will_help_sub_con2 .we_will_help_find_your_carer_btn:hover{
   background-color:#0cabd3;
 }
-  
+
 /*===================END OF WE WILL HELP SECTION===================*/
 
 
@@ -6045,7 +6046,7 @@ footer .footer_copyright_con h5{
 
 
 
-  
+
 
 /*===================BEGINNING OF CARE HUB, PLAN, LIBRARY & JOURNAL SECTION===================*/
 
@@ -6056,11 +6057,11 @@ footer .footer_copyright_con h5{
 }
 
 @media (max-width:991px){
-    
+
 .we_will_help_care_hub_plan_library_journal_main_con{
   margin-top:50px
 }
- 
+
 }
 
 .we_will_help_care_hub_plan_library_journal_main_con .we_will_help_care_hub_plan_library_journal_con .we_will_help_care_hub_plan_library_journal_sub_con1,.we_will_help_care_hub_plan_library_journal_sub_con2,.we_will_help_care_hub_plan_library_journal_sub_con3,.we_will_help_care_hub_plan_library_journal_sub_con4{
@@ -6088,7 +6089,7 @@ footer .footer_copyright_con h5{
   width:100%;
   margin-right: 0px
 }
-    
+
 }
 
 @media (max-width:499px){
@@ -6096,7 +6097,7 @@ footer .footer_copyright_con h5{
   padding-left:20px;
   padding-right:20px
 }
-    
+
 }
 
 .we_will_help_care_hub_plan_library_journal_main_con .we_will_help_care_hub_plan_library_journal_con .we_will_help_care_hub_plan_library_journal_sub_con1,.we_will_help_care_hub_plan_library_journal_sub_con3{
@@ -6106,7 +6107,7 @@ footer .footer_copyright_con h5{
 @media (max-width:991px){
 .we_will_help_care_hub_plan_library_journal_main_con .we_will_help_care_hub_plan_library_journal_con .we_will_help_care_hub_plan_library_journal_sub_con1,.we_will_help_care_hub_plan_library_journal_sub_con3{
   margin-right:0px
-}  
+}
 }
 
 .we_will_help_care_hub_plan_library_journal_main_con .we_will_help_care_hub_plan_library_journal_con .we_will_help_care_hub_plan_library_journal_sub_con1 .we_will_help_care_hub_icon{
@@ -6267,7 +6268,7 @@ footer .footer_copyright_con h5{
 .our_many_years_of_experience_main_con{
   margin-top:40px;
 }
-    
+
 }
 
 .our_many_years_of_experience_main_con .our_many_years_of_experience_con h2{
@@ -6287,7 +6288,7 @@ footer .footer_copyright_con h5{
  .our_many_years_of_experience_main_con .our_many_years_of_experience_con h4{
   font-size:28px
 }
-   
+
 }
 
 .our_many_years_of_experience_main_con .our_many_years_of_experience_con h4{
@@ -6313,7 +6314,7 @@ footer .footer_copyright_con h5{
   width:100%;
   height:auto;
 }
-   
+
 }
 
 .our_many_years_of_experience_main_con .our_many_years_of_experience_con
@@ -6336,10 +6337,10 @@ footer .footer_copyright_con h5{
 .our_many_years_of_experience_main_con .our_many_years_of_experience_con
 .our_many_years_of_experience_img1{
   width: 100%;
-  height:300px; 
+  height:300px;
   margin-bottom:20px;
 }
-    
+
 }
 
 @media (min-width:500px){
@@ -6347,7 +6348,7 @@ footer .footer_copyright_con h5{
 .our_many_years_of_experience_img1{
   width: 104%;
 }
-    
+
 }
 
 @media (min-width:992px){
@@ -6355,7 +6356,7 @@ footer .footer_copyright_con h5{
 .our_many_years_of_experience_img1{
   width: 103%;
 }
-    
+
 }
 .our_many_years_of_experience_main_con .our_many_years_of_experience_con
 .our_many_years_of_experience_img2{
@@ -6377,10 +6378,10 @@ footer .footer_copyright_con h5{
 .our_many_years_of_experience_main_con .our_many_years_of_experience_con
 .our_many_years_of_experience_img2{
   width: 100%;
-  height:300px; 
+  height:300px;
   margin-bottom:20px;
 }
-    
+
 }
 .our_many_years_of_experience_main_con .our_many_years_of_experience_con
 .our_many_years_of_experience_img3{
@@ -6407,16 +6408,16 @@ footer .footer_copyright_con h5{
 .our_many_years_of_experience_img3{
   width:47.5%;
 }
-    
+
 }
 @media (max-width:499px){
 .our_many_years_of_experience_main_con .our_many_years_of_experience_con
 .our_many_years_of_experience_img3{
   width: 100%;
-  height:300px; 
+  height:300px;
   margin-bottom:20px;
 }
-    
+
 }
 .our_many_years_of_experience_main_con .our_many_years_of_experience_con
 .our_many_years_of_experience_img4{
@@ -6444,16 +6445,16 @@ footer .footer_copyright_con h5{
 .our_many_years_of_experience_img4{
   width:47.5%;
 }
-    
+
 }
 @media (max-width:499px){
 .our_many_years_of_experience_main_con .our_many_years_of_experience_con
 .our_many_years_of_experience_img4{
   width: 100%;
-  height:300px; 
+  height:300px;
   margin-bottom:20px;
 }
-    
+
 }
 
 /*===================END OF OUR MANY YEARS OF EXPERIENCE SECTION===================*/
@@ -6475,7 +6476,7 @@ footer .footer_copyright_con h5{
 
 
 
- 
+
 /*===================BEGINNING OF HOW SMART CARERS WORK PAGE===================*/
 
 
@@ -6505,13 +6506,13 @@ footer .footer_copyright_con h5{
 .how_smart_carers_work_main_con{
   background-position:-550px;
   margin-top:50px;
-}   
+}
 }
 
 @media (max-width:499px){
 .how_smart_carers_work_main_con{
   background-position:-650px;
-}   
+}
 }
 
 .how_smart_carers_work_main_con span{
@@ -6529,14 +6530,14 @@ footer .footer_copyright_con h5{
 .how_smart_carers_work_main_con span{
   height:150px;
   bottom:-150px;
-}  
+}
 }
 
 @media (max-width:767px){
 .how_smart_carers_work_main_con span{
   height:200px;
   bottom:-200px;
-}  
+}
 }
 
 .how_smart_carers_work_main_con .how_smart_carers_work_con{
@@ -6564,7 +6565,7 @@ footer .footer_copyright_con h5{
 }
 
 @media (max-width:1199px){
-  
+
 .how_smart_carers_work_main_con .how_smart_carers_work_con{
   padding-top: 30px;
   padding-bottom:30px;
@@ -6572,59 +6573,59 @@ footer .footer_copyright_con h5{
   padding-right:50px;
   bottom:-100px
 }
-    
+
 }
 
 @media (max-width:767px){
-  
+
 .how_smart_carers_work_main_con .how_smart_carers_work_con{
   width:95%;
   padding-left:30px;
   padding-right:30px;
   bottom:-150px
 }
-    
+
 }
 
 @media (max-width:399px){
-  
+
 .how_smart_carers_work_main_con .how_smart_carers_work_con{
   padding-left:20px;
   padding-right:20px;
 }
-    
+
 }
 
 @media (min-width:1400px){
-  
+
 .how_smart_carers_work_main_con .how_smart_carers_work_con{
   width: 75%;
 }
-    
+
 }
 
 @media (min-width:1550px){
-  
+
 .how_smart_carers_work_main_con .how_smart_carers_work_con{
   width: 64.5%;
 }
-    
+
 }
 
 @media (min-width:1800px){
-  
+
 .how_smart_carers_work_main_con .how_smart_carers_work_con{
   width:55%;
 }
-    
+
 }
 
 @media (min-width:2000px){
-  
+
 .how_smart_carers_work_main_con .how_smart_carers_work_con{
   width:50%;
 }
-    
+
 }
 
 .how_smart_carers_work_main_con .how_smart_carers_work_con h2{
@@ -6639,34 +6640,34 @@ footer .footer_copyright_con h5{
   letter-spacing: normal;
   margin-top:0;
   margin-bottom:0;
-  color: #000000;  
+  color: #000000;
 }
 
 @media (max-width:1199px){
-  
+
 .how_smart_carers_work_main_con .how_smart_carers_work_con h2{
   width:100%;
   height:auto;
   font-size:55px;
   margin-bottom:20px;
 }
-  
+
 }
 
 @media (max-width:991px){
-  
+
 .how_smart_carers_work_main_con .how_smart_carers_work_con h2{
   font-size:35px;
 }
-  
+
 }
 
 @media (max-width:767px){
-  
+
 .how_smart_carers_work_main_con .how_smart_carers_work_con h2{
   font-size:28px;
 }
-  
+
 }
 
 .how_smart_carers_work_main_con .how_smart_carers_work_con h4{
@@ -6685,21 +6686,21 @@ footer .footer_copyright_con h5{
 }
 
 @media (max-width:991px){
-  
+
 .how_smart_carers_work_main_con .how_smart_carers_work_con h4{
   width:100%;
   height:auto;
 }
-  
+
 }
 
 @media (max-width:767px){
-  
+
 .how_smart_carers_work_main_con .how_smart_carers_work_con h4{
   line-height:normal;
   font-size: 20px;
 }
-  
+
 }
 
 .how_smart_carers_work_main_con .how_smart_carers_work_con .how_it_works_find_your_carer_btn{
@@ -6727,60 +6728,60 @@ footer .footer_copyright_con h5{
   -o-transition: .3s ease-in-out;
   transition: .3s ease-in-out;
 }
- 
+
 .how_smart_carers_work_main_con .how_smart_carers_work_con .how_it_works_find_your_carer_btn:hover{
   background-color:#0cabd3;
 }
 
-.how_smart_carers_work_main_con .how_smart_carers_work_con .how_smart_carers_work_sub_con1{  
+.how_smart_carers_work_main_con .how_smart_carers_work_con .how_smart_carers_work_sub_con1{
 }
 
 /*===================END OF HOW IT WORKS HERO SECTION===================*/
- 
-
- 
 
 
- 
- 
+
+
+
+
+
 /*===================BEGINNING OF SMARTCARERS CARES BETTER SECTION===================*/
 
 .how_smart_carers_work_smartcarers_cares_better_main_con{
-  margin-top:380px  
+  margin-top:380px
 }
 
 @media (max-width:1200px){
 .how_smart_carers_work_smartcarers_cares_better_main_con{
-  margin-top:350px  
+  margin-top:350px
 }
 }
 
 @media (max-width:1200px){
 .how_smart_carers_work_smartcarers_cares_better_main_con{
-  margin-top:350px  
+  margin-top:350px
 }
 }
 
 @media (max-width:1199px){
 .how_smart_carers_work_smartcarers_cares_better_main_con{
-  margin-top:250px  
+  margin-top:250px
 }
 }
 
 @media (max-width:991px){
 .how_smart_carers_work_smartcarers_cares_better_main_con{
-  margin-top:220px  
+  margin-top:220px
 }
 }
 
 @media (max-width:767px){
 .how_smart_carers_work_smartcarers_cares_better_main_con{
-  margin-top:250px  
+  margin-top:250px
 }
 }
 
 .how_smart_carers_work_smartcarers_cares_better_main_con .smartcarers_cares_better_sub_con1{
-    
+
 }
 
 .how_smart_carers_work_smartcarers_cares_better_main_con .smartcarers_cares_better_sub_con1 h2{
@@ -6791,7 +6792,7 @@ footer .footer_copyright_con h5{
   font-style: normal;
   line-height: 1.15;
   letter-spacing: normal;
-  color: #000000;  
+  color: #000000;
   margin-top:0;
   margin-bottom:30px
 }
@@ -6811,7 +6812,7 @@ footer .footer_copyright_con h5{
   font-style: normal;
   line-height: 1.56;
   letter-spacing: normal;
-  color: #000000;   
+  color: #000000;
 }
 
 @media (max-width:991px){
@@ -6863,34 +6864,34 @@ footer .footer_copyright_con h5{
   margin-top:-40px
 }
 }
- 
+
 /*===================END OF SMARTCARERS CARES BETTER SECTION===================*/
 
 
 
- 
- 
+
+
 
 /*===================BEGINNING OF OUR BENEFITS SECTION===================*/
 
 .how_smart_carers_work_our_benefits_main_con{
   margin-top:135px
-} 
+}
 @media (max-width:520px){
 .how_smart_carers_work_our_benefits_main_con{
   margin-top:80px
-}   
+}
 }
 @media (max-width:450px){
 .how_smart_carers_work_our_benefits_main_con{
   margin-top:60px
-}   
+}
 }
 @media (max-width:399px){
 .how_smart_carers_work_our_benefits_main_con{
   margin-top:40px;
   margin-bottom:-100px
-}   
+}
 }
 
 .how_smart_carers_work_our_benefits_main_con h4{
@@ -6905,7 +6906,7 @@ footer .footer_copyright_con h5{
   color: #727272;
   margin-top:0;
   margin-bottom:7px
-} 
+}
 
 .how_smart_carers_work_our_benefits_main_con h2{
   font-family: ApercuPro;
@@ -6925,7 +6926,7 @@ footer .footer_copyright_con h5{
 .how_smart_carers_work_our_benefits_main_con h2{
   font-size:28px;
   margin-bottom:50px
-}   
+}
 }
 
 #how_smart_carers_work_our_benefits_sub_con1{
@@ -6941,7 +6942,7 @@ footer .footer_copyright_con h5{
   -ms-box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.1);
   -o-box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.1);
   box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.1);
-  background-color: #ffffff; 
+  background-color: #ffffff;
   text-align: center;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -7033,7 +7034,7 @@ footer .footer_copyright_con h5{
   -ms-box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.1);
   -o-box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.1);
   box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.1);
-  background-color: #ffffff; 
+  background-color: #ffffff;
   text-align: center;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -7159,17 +7160,17 @@ footer .footer_copyright_con h5{
   width: 386px;
   height:auto;
 }
- 
+
 @media (max-width:1199px){
-    
+
 .how_smart_carers_work_our_benefits_sub_con h5{
   width:100%!important
 }
-    
+
 .how_smart_carers_work_our_benefits_main_con #how_smart_carers_work_our_benefits_icon_con1{
   margin-left:210px;
 }
-    
+
 .how_smart_carers_work_our_benefits_main_con #how_smart_carers_work_our_benefits_icon_con2{
   margin-right:210px;
 }
@@ -7177,42 +7178,42 @@ footer .footer_copyright_con h5{
 }
 
 @media (max-width:991px){
-    
+
 .how_smart_carers_work_our_benefits_main_con .how_smart_carers_work_our_benefits_sub_con3{
   margin-top:105px;
 }
 .how_smart_carers_work_our_benefits_main_con .how_smart_carers_work_our_benefits_sub_con5{
   margin-top:80px;
 }
-    
+
 .how_smart_carers_work_our_benefits_main_con #how_smart_carers_work_our_benefits_icon_con1::after{
   height: 190px;
 }
-    
+
 .how_smart_carers_work_our_benefits_main_con #how_smart_carers_work_our_benefits_icon_con2::after{
   height: 190px;
 }
-    
+
 .how_smart_carers_work_our_benefits_sub_con h5{
    width:100%!important
 }
-    
+
 .how_smart_carers_work_our_benefits_main_con #how_smart_carers_work_our_benefits_icon_con1{
   margin-left:110px;
 }
-    
+
 .how_smart_carers_work_our_benefits_main_con #how_smart_carers_work_our_benefits_icon_con2{
   margin-right:110px;
 }
-   
+
 }
 
 @media (max-width:767px){
-    
+
 .how_smart_carers_work_our_benefits_main_con .how_smart_carers_work_our_benefits_sub_con3{
   margin-top:80px;
 }
-    
+
 .how_smart_carers_work_our_benefits_main_con .how_smart_carers_work_our_benefits_sub_con5{
   margin-top:60px;
 }
@@ -7220,42 +7221,42 @@ footer .footer_copyright_con h5{
 .how_smart_carers_work_our_benefits_main_con #how_smart_carers_work_our_benefits_icon_con1::after{
   height: 175px;
 }
-    
+
 .how_smart_carers_work_our_benefits_main_con #how_smart_carers_work_our_benefits_icon_con2::after{
   height: 150px;
 }
-    
+
 .how_smart_carers_work_our_benefits_main_con .how_smart_carers_work_our_benefits_sub_con1 img{
   width: 30px;
   height: 30px;
   margin-top:30px!important;
-}        
+}
 .how_smart_carers_work_our_benefits_main_con .how_smart_carers_work_our_benefits_sub_con2 img{
   width: 30px;
   height: 30px;
   margin-top:25px!important;
-}    
+}
 .how_smart_carers_work_our_benefits_main_con .how_smart_carers_work_our_benefits_sub_con3 img{
   width: 30px;
   height: 30px;
   margin-top:27px!important;
-}    
+}
 .how_smart_carers_work_our_benefits_main_con .how_smart_carers_work_our_benefits_sub_con4 img{
   width: 30px;
   height: 30px;
   margin-top:25px!important;
-}    
+}
 .how_smart_carers_work_our_benefits_main_con .how_smart_carers_work_our_benefits_sub_con5 img{
   width: 30px;
   height: 30px;
   margin-top:26px!important;
-}    
+}
 .how_smart_carers_work_our_benefits_main_con .how_smart_carers_work_our_benefits_sub_con6 img{
   width: 32px;
   height: 30px;
   margin-top:27px!important;
-}    
-    
+}
+
 .how_smart_carers_work_our_benefits_main_con #how_smart_carers_work_our_benefits_icon_con1{
   display: inline-block;
   width: 80px;
@@ -7267,19 +7268,19 @@ footer .footer_copyright_con h5{
   width: 80px;
   height: 80px;
 }
-   
+
 }
 
 @media (max-width:706px){
 .how_smart_carers_work_our_benefits_main_con .how_smart_carers_work_our_benefits_sub_con3{
   margin-top:60px;
-}   
+}
 }
 @media (min-width:400px) and (max-width:767px){
 .how_smart_carers_work_our_benefits_sub_con h5{
   line-height: normal!important
-} 
-}   
+}
+}
 @media (max-width:649px){
 .how_smart_carers_work_our_benefits_main_con .how_smart_carers_work_our_benefits_sub_con2{
   margin-top:-20px;
@@ -7287,66 +7288,66 @@ footer .footer_copyright_con h5{
 .how_smart_carers_work_our_benefits_main_con .how_smart_carers_work_our_benefits_sub_con5{
   margin-top:40px;
 }
-}   
-    
+}
+
 @media (max-width:645px){
 .how_smart_carers_work_our_benefits_main_con .how_smart_carers_work_our_benefits_sub_con6{
   margin-top:-20px;
 }
-}   
-      
+}
+
 @media (max-width:629px){
 .how_smart_carers_work_our_benefits_main_con .how_smart_carers_work_our_benefits_sub_con4{
   margin-top:-20px;
 }
-}   
-    
+}
+
 @media (max-width:606px){
 .how_smart_carers_work_our_benefits_main_con .how_smart_carers_work_our_benefits_sub_con5{
   margin-top:20px;
 }
-}   
-    
+}
+
 @media (max-width:579px){
 .how_smart_carers_work_our_benefits_main_con .how_smart_carers_work_our_benefits_sub_con3{
   margin-top:40px;
 }
-}   
+}
 @media (max-width:545px){
 .how_smart_carers_work_our_benefits_main_con .how_smart_carers_work_our_benefits_sub_con6{
   margin-top:-40px;
 }
-} 
+}
 @media (max-width:531px){
 .how_smart_carers_work_our_benefits_main_con .how_smart_carers_work_our_benefits_sub_con4{
   margin-top:-40px;
 }
-}   
+}
 @media (max-width:520px){
 .how_smart_carers_work_our_benefits_main_con .how_smart_carers_work_our_benefits_sub_con2{
   margin-top:-40px;
 }
-}     
+}
 @media (max-width:501px){
 .how_smart_carers_work_our_benefits_main_con .how_smart_carers_work_our_benefits_sub_con6{
   margin-top:-60px;
 }
-}    
+}
 @media (max-width:488px){
 .how_smart_carers_work_our_benefits_main_con .how_smart_carers_work_our_benefits_sub_con5{
   margin-top:0px;
 }
-}       
+}
 @media (max-width:485px){
 .how_smart_carers_work_our_benefits_main_con .how_smart_carers_work_our_benefits_sub_con3{
   margin-top:20px;
 }
-}   
+}
 @media (max-width:468px){
 .how_smart_carers_work_our_benefits_main_con .how_smart_carers_work_our_benefits_sub_con2{
   margin-top:-60px;
 }
-}   
+}
 @media (max-width:453px){
 .how_smart_carers_work_our_benefits_main_con .how_smart_carers_work_our_benefits_sub_con2{
   margin-top:-30px;
@@ -7360,15 +7361,15 @@ footer .footer_copyright_con h5{
 .how_smart_carers_work_our_benefits_main_con .how_smart_carers_work_our_benefits_sub_con5{
   margin-top:30px;
 }
-   
+
 .how_smart_carers_work_our_benefits_main_con .how_smart_carers_work_our_benefits_sub_con6{
   margin-top:-30px;
 }
-    
+
 .how_smart_carers_work_our_benefits_main_con #how_smart_carers_work_our_benefits_icon_con1::after{
   height: 205px;
 }
-    
+
 .how_smart_carers_work_our_benefits_main_con #how_smart_carers_work_our_benefits_icon_con2::after{
   height: 180px;
 }
@@ -7385,49 +7386,49 @@ footer .footer_copyright_con h5{
 }
 .how_smart_carers_work_our_benefits_main_con .how_smart_carers_work_our_benefits_sub_con5{
   margin-top:30px;
-}  
+}
 .how_smart_carers_work_our_benefits_main_con .how_smart_carers_work_our_benefits_sub_con6{
   margin-top:-10px;
-}   
+}
 .how_smart_carers_work_our_benefits_main_con #how_smart_carers_work_our_benefits_icon_con1::after{
   height: 225px;
-}   
+}
 .how_smart_carers_work_our_benefits_main_con #how_smart_carers_work_our_benefits_icon_con2::after{
   height:200px;
 }
-}   
+}
 @media (max-width:435px){
 .how_smart_carers_work_our_benefits_main_con .how_smart_carers_work_our_benefits_sub_con6{
   margin-top:-30px;
 }
-}    
+}
 @media (max-width:425px){
 .how_smart_carers_work_our_benefits_main_con .how_smart_carers_work_our_benefits_sub_con3{
   margin-top:50px;
 }
-}    
+}
 @media (max-width:423px){
 .how_smart_carers_work_our_benefits_main_con .how_smart_carers_work_our_benefits_sub_con4{
   margin-top:-50px;
 }
-}    
+}
 @media (max-width:418px){
 .how_smart_carers_work_our_benefits_main_con .how_smart_carers_work_our_benefits_sub_con3{
   margin-top:30px;
 }
-}     
+}
 @media (max-width:416px){
 .how_smart_carers_work_our_benefits_main_con .how_smart_carers_work_our_benefits_sub_con5{
   margin-top:10px;
 }
-}     
+}
 @media (max-width:401px){
 .how_smart_carers_work_our_benefits_main_con .how_smart_carers_work_our_benefits_sub_con6{
   margin-top:-50px;
 }
 }
 @media (max-width:599px){
-    
+
 .how_smart_carers_work_our_benefits_main_con #how_smart_carers_work_our_benefits_icon_con1{
   margin-left:20px
 }
@@ -7437,7 +7438,7 @@ footer .footer_copyright_con h5{
 }
 }
 @media (max-width:480px){
-    
+
 .how_smart_carers_work_our_benefits_main_con #how_smart_carers_work_our_benefits_icon_con1{
   margin-left:0px
 }
@@ -7448,38 +7449,38 @@ footer .footer_copyright_con h5{
 }
 
 @media (max-width:399px){
-  
+
 .how_smart_carers_work_our_benefits_main_con .how_smart_carers_work_our_benefits_sub_con1{
   width: 100%;
   display: inline-grid;
   margin-top:100px!important;
   margin-bottom:90px!important;
 }
- 
+
 .how_smart_carers_work_our_benefits_main_con .how_smart_carers_work_our_benefits_sub_con2{
   width: 100%;
   display: inline-grid;
   margin-bottom:50px!important
 }
- 
+
 .how_smart_carers_work_our_benefits_main_con .how_smart_carers_work_our_benefits_sub_con3{
   width: 100%;
   display: inline-grid;
   margin-bottom:130px!important
 }
- 
+
 .how_smart_carers_work_our_benefits_main_con .how_smart_carers_work_our_benefits_sub_con4{
   width: 100%;
   display: inline-grid;
   margin-bottom:70px!important
 }
- 
+
 .how_smart_carers_work_our_benefits_main_con .how_smart_carers_work_our_benefits_sub_con5{
   width: 100%;
   display: inline-grid;
   margin-bottom:130px!important
 }
- 
+
 .how_smart_carers_work_our_benefits_main_con .how_smart_carers_work_our_benefits_sub_con6{
   width: 100%;
   display: inline-grid;
@@ -7509,9 +7510,9 @@ footer .footer_copyright_con h5{
   text-align:left;
   padding-left:0px;
   margin-right:auto!important;
-  margin-left: auto!important; 
+  margin-left: auto!important;
 }
-    
+
 .how_smart_carers_work_our_benefits_main_con .how_smart_carers_work_our_benefits_text_con1 h4{
   width:220%!important;
   height:auto;
@@ -7519,7 +7520,7 @@ footer .footer_copyright_con h5{
   padding-left:40px;
   float:none!important;
   margin-right:auto!important;
-  margin-left: auto!important; 
+  margin-left: auto!important;
 }
 
 .how_smart_carers_work_our_benefits_main_con .how_smart_carers_work_our_benefits_text_con1 h5{
@@ -7534,7 +7535,7 @@ footer .footer_copyright_con h5{
 
 .how_smart_carers_work_our_benefits_main_con #how_smart_carers_work_our_benefits_icon_con1::after{
   display:none
-}   
+}
 .how_smart_carers_work_our_benefits_main_con #how_smart_carers_work_our_benefits_icon_con2::after{
   display:none
 }
@@ -7543,7 +7544,7 @@ footer .footer_copyright_con h5{
   width: 100%;
   display: inline-grid
 }
- 
+
 .how_smart_carers_work_our_benefits_main_con #how_smart_carers_work_our_benefits_icon_con2{
   position: absolute;
   margin-top:-280px;
@@ -7565,9 +7566,9 @@ footer .footer_copyright_con h5{
   text-align:left;
   padding-left:15px;
   margin-right:auto!important;
-  margin-left: auto!important; 
+  margin-left: auto!important;
 }
-    
+
 .how_smart_carers_work_our_benefits_main_con .how_smart_carers_work_our_benefits_text_con2 h4{
   width:220%!important;
   height:auto;
@@ -7575,7 +7576,7 @@ footer .footer_copyright_con h5{
   padding-left:40px;
   float:none!important;
   margin-right:auto!important;
-  margin-left: auto!important; 
+  margin-left: auto!important;
 }
 
 .how_smart_carers_work_our_benefits_main_con .how_smart_carers_work_our_benefits_text_con2 h5{
@@ -7584,65 +7585,65 @@ footer .footer_copyright_con h5{
   text-align:left;
   float:none!important;
   margin-right:auto!important;
-  margin-left: auto!important; 
+  margin-left: auto!important;
   margin-bottom:70px;
 }
-   
+
 .how_smart_carers_work_our_benefits_main_con #how_smart_carers_work_our_benefits_icon_con1::after{
   display:none
-}   
+}
 .how_smart_carers_work_our_benefits_main_con #how_smart_carers_work_our_benefits_icon_con2::after{
   display:none
-}   
+}
 .how_smart_carers_work_our_benefits_icon_con2{
   top:-20px
-}    
-  
-.how_smart_carers_work_our_benefits_icon_con4{
-  top:-40px   
-}    
-    
-.how_smart_carers_work_our_benefits_icon_con6{
-  top:-40px   
 }
-    
+
+.how_smart_carers_work_our_benefits_icon_con4{
+  top:-40px
+}
+
+.how_smart_carers_work_our_benefits_icon_con6{
+  top:-40px
+}
+
 }
 
 @media (max-width:386px){
-    
+
 .how_smart_carers_work_our_benefits_icon_con2{
   top:-40px
-} 
+}
 }
 @media (max-width:324px){
-    
+
 .how_smart_carers_work_our_benefits_icon_con2{
   top:-64px
-} 
+}
 }
 @media (max-width:360px){
-    
+
 .how_smart_carers_work_our_benefits_icon_con4{
   top:-64px
-} 
+}
 }
 @media (max-width:341px){
-    
+
 .how_smart_carers_work_our_benefits_icon_con4{
   top:-87px
-} 
+}
 }
 @media (max-width:383px){
-    
+
 .how_smart_carers_work_our_benefits_icon_con6{
   top:-64px
-} 
+}
 }
 @media (max-width:333px){
-    
+
 .how_smart_carers_work_our_benefits_icon_con6{
   top:-86px
-} 
+}
 }
 
 /*===================END OF OUR BENEFITS SECTION===================*/
@@ -7652,7 +7653,7 @@ footer .footer_copyright_con h5{
 
 
 
- 
+
 
 /*===================BEGINNING OF OUR PROCESS SECTION===================*/
 
@@ -7667,7 +7668,7 @@ footer .footer_copyright_con h5{
 .how_smart_carers_work_our_process_main_con{
   margin-top:80px
 }
- 
+
 }
 
 .how_smart_carers_work_our_process_main_con h4{
@@ -7701,7 +7702,7 @@ footer .footer_copyright_con h5{
 @media (max-width:767px){
 .how_smart_carers_work_our_process_main_con h2{
   font-size:28px;
-}  
+}
 }
 
 .how_smart_carers_work_our_process_main_con h5{
@@ -7734,13 +7735,13 @@ footer .footer_copyright_con h5{
   margin-left:15px
 }
 
-@media (max-width:550px){  
+@media (max-width:550px){
 .how_smart_carers_work_our_process_slide_con .how_smart_carers_work_our_process_inner_slide_con{
  width:300px
 }
 }
 
-@media (max-width:399px){  
+@media (max-width:399px){
 .how_smart_carers_work_our_process_slide_con .how_smart_carers_work_our_process_inner_slide_con{
   width:250px
 }
@@ -7764,13 +7765,13 @@ footer .footer_copyright_con h5{
   margin-right:15px;
 }
 
-@media (max-width:550px){  
+@media (max-width:550px){
 .how_smart_carers_work_our_process_slide_con .how_smart_carers_work_our_process_inner_slide_con .how_smart_carers_work_our_process_img_con{
   width:300px;
   height:200px;
 }
 }
-@media (max-width:399px){  
+@media (max-width:399px){
 .how_smart_carers_work_our_process_slide_con .how_smart_carers_work_our_process_inner_slide_con .how_smart_carers_work_our_process_img_con{
   width:250px;
 }
@@ -7791,7 +7792,7 @@ footer .footer_copyright_con h5{
 .how_smart_carers_work_our_process_slide_con .how_smart_carers_work_our_process_inner_slide_con .how_smart_carers_work_our_process_img_con4{
   background-image: url(../images/how-smart-carers-work-our-process-img4.jpg);
 }
-  
+
 .how_smart_carers_work_our_process_slide_con .how_smart_carers_work_our_process_inner_slide_con .how_smart_carers_work_our_process_text_con{
   width: 435px;
   min-height:193px;
@@ -7808,7 +7809,7 @@ footer .footer_copyright_con h5{
   padding-right:20px;
 }
 
-@media (max-width:550px){  
+@media (max-width:550px){
 .how_smart_carers_work_our_process_slide_con .how_smart_carers_work_our_process_inner_slide_con .how_smart_carers_work_our_process_text_con{
   width:300px;
   min-height:255px;
@@ -7819,7 +7820,7 @@ footer .footer_copyright_con h5{
 }
 }
 
-@media (max-width:399px){  
+@media (max-width:399px){
 .how_smart_carers_work_our_process_slide_con .how_smart_carers_work_our_process_inner_slide_con .how_smart_carers_work_our_process_text_con{
   width:250px;
   min-height:300px;
@@ -7835,7 +7836,7 @@ footer .footer_copyright_con h5{
   box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.1);
 }
 
-@media (max-width:550px){  
+@media (max-width:550px){
 .how_smart_carers_work_our_process_slide_con .is-selected{
   width:;
   -webkit-box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.1);
@@ -7846,7 +7847,7 @@ footer .footer_copyright_con h5{
 }
 }
 
-@media (max-width:399px){  
+@media (max-width:399px){
 .how_smart_carers_work_our_process_slide_con .is-selected{
   width:;
   -webkit-box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.1);
@@ -7899,7 +7900,7 @@ footer .footer_copyright_con h5{
   margin-bottom:9px;
 }
 
-@media (max-width:550px){  
+@media (max-width:550px){
 .how_smart_carers_work_our_process_slide_con .how_smart_carers_work_our_process_inner_slide_con .how_smart_carers_work_our_process_text_con h2{
   font-size: 20px;
   margin-top:6px
@@ -7921,7 +7922,7 @@ footer .footer_copyright_con h5{
   margin-top:0;
 }
 
-@media (max-width:550px){  
+@media (max-width:550px){
 .how_smart_carers_work_our_process_slide_con .how_smart_carers_work_our_process_inner_slide_con .how_smart_carers_work_our_process_text_con h4{
   padding-left:0px;
 }
@@ -7965,11 +7966,11 @@ footer .footer_copyright_con h5{
 /*===================END OF OUR PROCESS SECTION===================*/
 
 
- 
 
- 
 
-  
+
+
+
 /*===================BEGINNING OF OUR PRICING SECTION===================*/
 
 #how_smart_carers_work_our_pricing_main_con{
@@ -7981,10 +7982,10 @@ footer .footer_copyright_con h5{
   margin-bottom:67px;
 }
 
-@media (max-width:767px){ 
+@media (max-width:767px){
 .how_smart_carers_work_our_pricing_main_con{
   margin-bottom:50px
-}  
+}
 }
 
 .how_smart_carers_work_our_pricing_con{
@@ -8021,13 +8022,13 @@ footer .footer_copyright_con h5{
   margin-top:0;
   margin-bottom:60px
 }
-@media (max-width:767px){ 
+@media (max-width:767px){
 .how_smart_carers_work_our_pricing_main_con h2{
   font-size:28px;
   margin-bottom:20px
 }
 }
-  
+
 .how_smart_carers_work_our_pricing_main_con .how_smart_carers_work_our_pricing_con .how_smart_carers_work_our_pricing_sub_con1,.how_smart_carers_work_our_pricing_main_con .how_smart_carers_work_our_pricing_con .how_smart_carers_work_our_pricing_sub_con2,.how_smart_carers_work_our_pricing_main_con .how_smart_carers_work_our_pricing_con .how_smart_carers_work_our_pricing_sub_con3{
   width:28.5%;
   height:auto;
@@ -8037,33 +8038,33 @@ footer .footer_copyright_con h5{
   -o-border-radius: 6px;
   border-radius: 6px;
   padding-top:37px;
-  padding-bottom: 20px; 
+  padding-bottom: 20px;
   padding-left:20px;
   padding-right:20px
 }
 
-@media (max-width:1199px){  
+@media (max-width:1199px){
 .how_smart_carers_work_our_pricing_main_con .how_smart_carers_work_our_pricing_con .how_smart_carers_work_our_pricing_sub_con1,.how_smart_carers_work_our_pricing_main_con .how_smart_carers_work_our_pricing_con .how_smart_carers_work_our_pricing_sub_con2,.how_smart_carers_work_our_pricing_main_con .how_smart_carers_work_our_pricing_con .how_smart_carers_work_our_pricing_sub_con3{
   width:31.9%;
 
-}      
 }
-@media (max-width:767px){  
+}
+@media (max-width:767px){
 .how_smart_carers_work_our_pricing_main_con .how_smart_carers_work_our_pricing_con .how_smart_carers_work_our_pricing_sub_con1,.how_smart_carers_work_our_pricing_main_con .how_smart_carers_work_our_pricing_con .how_smart_carers_work_our_pricing_sub_con2,.how_smart_carers_work_our_pricing_main_con .how_smart_carers_work_our_pricing_con .how_smart_carers_work_our_pricing_sub_con3{
   width:100%;
   margin-bottom:20px
-}      
+}
 }
 
- 
+
 .how_smart_carers_work_our_pricing_main_con .how_smart_carers_work_our_pricing_con .how_smart_carers_work_our_pricing_sub_con1{
   margin-left:60px;
 }
 
-@media (max-width:1199px){  
+@media (max-width:1199px){
 .how_smart_carers_work_our_pricing_main_con .how_smart_carers_work_our_pricing_con .how_smart_carers_work_our_pricing_sub_con1{
   margin-left:0px;
-}       
+}
 }
 
 .how_smart_carers_work_our_pricing_main_con .how_smart_carers_work_our_pricing_con .how_smart_carers_work_our_pricing_sub_con2{
@@ -8071,18 +8072,18 @@ footer .footer_copyright_con h5{
   margin-right:20px;
 }
 
-@media (max-width:991px){  
+@media (max-width:991px){
 .how_smart_carers_work_our_pricing_main_con .how_smart_carers_work_our_pricing_con .how_smart_carers_work_our_pricing_sub_con2{
   margin-left:15px;
   margin-right:15px;
-}      
+}
 }
 
-@media (max-width:767px){  
+@media (max-width:767px){
 .how_smart_carers_work_our_pricing_main_con .how_smart_carers_work_our_pricing_con .how_smart_carers_work_our_pricing_sub_con2{
   margin-left:0px;
   margin-right:0px;
-}      
+}
 }
 
 .how_smart_carers_work_our_pricing_main_con .how_smart_carers_work_our_pricing_con .how_smart_carers_work_our_pricing_sub_con1{
@@ -8096,8 +8097,8 @@ footer .footer_copyright_con h5{
   -ms-opacity:0.8;
   -o-opacity:0.8;
   opacity:0.8;
-}      
-  
+}
+
 .how_smart_carers_work_our_pricing_main_con .how_smart_carers_work_our_pricing_con .how_smart_carers_work_our_pricing_sub_con2{
   -webkit-background-image: linear-gradient(149deg, #16b8e0, #16b8e0 -60%, #e016b5);
   -moz-background-image: linear-gradient(149deg, #16b8e0, #16b8e0 -60%, #e016b5);
@@ -8109,7 +8110,7 @@ footer .footer_copyright_con h5{
   -ms-opacity:0.8;
   -o-opacity:0.8;
   opacity:0.8;
-}      
+}
 
 .how_smart_carers_work_our_pricing_main_con .how_smart_carers_work_our_pricing_con .how_smart_carers_work_our_pricing_sub_con3{
   -webkit-background-image: linear-gradient(148deg, #f64657, #f64657 -60%, #29f472);
@@ -8122,8 +8123,8 @@ footer .footer_copyright_con h5{
   -ms-opacity:0.8;
   -o-opacity:0.8;
   opacity:0.8;
-}      
- 
+}
+
 .how_smart_carers_work_our_pricing_main_con .how_smart_carers_work_our_pricing_con .how_smart_carers_work_our_pricing_sub_con1 h3,.how_smart_carers_work_our_pricing_main_con .how_smart_carers_work_our_pricing_con .how_smart_carers_work_our_pricing_sub_con2 h3,.how_smart_carers_work_our_pricing_main_con .how_smart_carers_work_our_pricing_con .how_smart_carers_work_our_pricing_sub_con3 h3{
   height: 21px;
   font-family: ApercuPro;
@@ -8143,13 +8144,13 @@ footer .footer_copyright_con h5{
   margin-top:0;
   margin-bottom:40px
 }
-  
+
 .how_smart_carers_work_our_pricing_main_con .how_smart_carers_work_our_pricing_con .how_smart_carers_work_our_pricing_sub_con2 .how_smartcarers_works_our_pricing_yellow_star{
   position: absolute;
   left: 15px;
   top:15px
 }
- 
+
 .how_smart_carers_work_our_pricing_main_con .how_smart_carers_work_our_pricing_con .how_smart_carers_work_our_pricing_sub_con1 h4,.how_smart_carers_work_our_pricing_main_con .how_smart_carers_work_our_pricing_con .how_smart_carers_work_our_pricing_sub_con2 h4,.how_smart_carers_work_our_pricing_main_con .how_smart_carers_work_our_pricing_con .how_smart_carers_work_our_pricing_sub_con3 h4{
   -webkit-mix-blend-mode: soft-light;
   -moz-mix-blend-mode: soft-light;
@@ -8174,12 +8175,12 @@ footer .footer_copyright_con h5{
   margin-bottom:70px
 }
 
-@media (max-width:991px){ 
+@media (max-width:991px){
 .how_smart_carers_work_our_pricing_main_con .how_smart_carers_work_our_pricing_con .how_smart_carers_work_our_pricing_sub_con1 h4,.how_smart_carers_work_our_pricing_main_con .how_smart_carers_work_our_pricing_con .how_smart_carers_work_our_pricing_sub_con2 h4,.how_smart_carers_work_our_pricing_main_con .how_smart_carers_work_our_pricing_con .how_smart_carers_work_our_pricing_sub_con3 h4{
   margin-bottom:30px
-}   
 }
- 
+}
+
 .how_smart_carers_work_our_pricing_main_con .how_smart_carers_work_our_pricing_con .how_smart_carers_work_our_pricing_sub_con1 h5,.how_smart_carers_work_our_pricing_main_con .how_smart_carers_work_our_pricing_con .how_smart_carers_work_our_pricing_sub_con2 h5,.how_smart_carers_work_our_pricing_main_con .how_smart_carers_work_our_pricing_con .how_smart_carers_work_our_pricing_sub_con3 h5{
   display: inline-block;
   -webkit-opacity: 0.5;
@@ -8210,7 +8211,7 @@ footer .footer_copyright_con h5{
   transform:translateX(-10%) translateY(-30%);
 }
 
-@media (max-width:991px){ 
+@media (max-width:991px){
 .how_smart_carers_work_our_pricing_main_con .how_smart_carers_work_our_pricing_con .how_smart_carers_work_our_pricing_sub_con1 h5,.how_smart_carers_work_our_pricing_main_con .how_smart_carers_work_our_pricing_con .how_smart_carers_work_our_pricing_sub_con2 h5,.how_smart_carers_work_our_pricing_main_con .how_smart_carers_work_our_pricing_con .how_smart_carers_work_our_pricing_sub_con3 h5{
   font-size:30px;
   -webkit-transform:translateX(-10%) translateY(-40%);
@@ -8218,19 +8219,19 @@ footer .footer_copyright_con h5{
   -ms-transform:translateX(-10%) translateY(-40%);
   -o-transform:translateX(-10%) translateY(-40%);
   transform:translateX(-10%) translateY(-40%);
-}     
+}
 }
 
-@media (max-width:767px){ 
+@media (max-width:767px){
 .how_smart_carers_work_our_pricing_main_con .how_smart_carers_work_our_pricing_con .how_smart_carers_work_our_pricing_sub_con1 h5,.how_smart_carers_work_our_pricing_main_con .how_smart_carers_work_our_pricing_con .how_smart_carers_work_our_pricing_sub_con2 h5,.how_smart_carers_work_our_pricing_main_con .how_smart_carers_work_our_pricing_con .how_smart_carers_work_our_pricing_sub_con3 h5{
   -webkit-transform:translateX(-20%) translateY(-30%);
   -moz-transform:translateX(-20%) translateY(-30%);
   -ms-transform:translateX(-20%) translateY(-30%);
   -o-transform:translateX(-20%) translateY(-30%);
   transform:translateX(-20%) translateY(-30%);
-}     
 }
- 
+}
+
 .how_smart_carers_work_our_pricing_main_con .how_smart_carers_work_our_pricing_con .how_smart_carers_work_our_pricing_sub_con1 h2,.how_smart_carers_work_our_pricing_main_con .how_smart_carers_work_our_pricing_con .how_smart_carers_work_our_pricing_sub_con2 h2,.how_smart_carers_work_our_pricing_main_con .how_smart_carers_work_our_pricing_con .how_smart_carers_work_our_pricing_sub_con3 h2{
   display: inline-block;
   -webkit-mix-blend-mode: soft-light;
@@ -8251,12 +8252,12 @@ footer .footer_copyright_con h5{
   margin-bottom:10px;
 }
 
-@media (max-width:991px){ 
+@media (max-width:991px){
 .how_smart_carers_work_our_pricing_main_con .how_smart_carers_work_our_pricing_con .how_smart_carers_work_our_pricing_sub_con1 h2,.how_smart_carers_work_our_pricing_main_con .how_smart_carers_work_our_pricing_con .how_smart_carers_work_our_pricing_sub_con2 h2,.how_smart_carers_work_our_pricing_main_con .how_smart_carers_work_our_pricing_con .how_smart_carers_work_our_pricing_sub_con3 h2{
   font-size:50px;
-}     
 }
- 
+}
+
 .how_smart_carers_work_our_pricing_main_con .how_smart_carers_work_our_pricing_con .how_smart_carers_work_our_pricing_sub_con1 h6,.how_smart_carers_work_our_pricing_main_con .how_smart_carers_work_our_pricing_con .how_smart_carers_work_our_pricing_sub_con2 h6,.how_smart_carers_work_our_pricing_main_con .how_smart_carers_work_our_pricing_con .how_smart_carers_work_our_pricing_sub_con3 h6{
   -webkit-mix-blend-mode: soft-light;
   -moz-mix-blend-mode: soft-light;
@@ -8336,57 +8337,57 @@ footer .footer_copyright_con h5{
 
 /*===================END OF OUR PRICING SECTION===================*/
 
- 
 
 
- 
+
+
 /*===================END OF HOW SMART CARERS WORK PAGE===================*/
 
- 
-
-
- 
-
-
- 
-
- 
-
-
- 
 
 
 
- 
-
-
- 
-
- 
-
-
- 
 
 
 
- 
-
-
- 
-
- 
-
-
- 
 
 
 
- 
 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -8404,14 +8405,14 @@ footer .footer_copyright_con h5{
   padding-top:39px;
   padding-bottom:51px;
 }
-@media (max-width:991px){  
+@media (max-width:991px){
 .reg_form {
   margin-top:50px
-}  
+}
 }
 
 .reg_form .sign_up_form_con {
-  position: relative;  
+  position: relative;
   width: 550px;
   height: auto;
   -webkit-border-radius: 6px;
@@ -8427,12 +8428,12 @@ footer .footer_copyright_con h5{
   margin-right:20px;
   margin-left:15px
 }
-@media (min-width:992px) and (max-width:1199px){  
+@media (min-width:992px) and (max-width:1199px){
 .reg_form .sign_up_form_con {
   width:50%
-}   
 }
-@media (max-width:991px){  
+}
+@media (max-width:991px){
 .reg_form .sign_up_form_con {
   width: 100%;
   margin-right:0px;
@@ -8441,7 +8442,7 @@ footer .footer_copyright_con h5{
   margin-top:30px;
   padding-left:15px;
   padding-right:15px;
-}   
+}
 }
 
 .reg_form .sign_up_form_con h2 {
@@ -8458,7 +8459,7 @@ footer .footer_copyright_con h5{
   margin-bottom:9px;
   margin-top:0
 }
-@media (max-width:767px){   
+@media (max-width:767px){
 .reg_form .sign_up_form_con h2 {
   font-size:28px;
 }
@@ -8501,7 +8502,7 @@ footer .footer_copyright_con h5{
   left: 0;
 }
 
-@media (max-width:991px){    
+@media (max-width:991px){
 .reg_form #first_name{
   width:104.5%;
   height:48px;
@@ -8511,32 +8512,32 @@ footer .footer_copyright_con h5{
   margin-bottom:20px;
 }
 }
-@media (max-width:767px){   
+@media (max-width:767px){
 .reg_form #first_name{
   width:105%;
 }
 }
-@media (max-width:650px){   
+@media (max-width:650px){
 .reg_form #first_name{
   width:106%;
 }
 }
-@media (max-width:550px){   
+@media (max-width:550px){
 .reg_form #first_name{
   width:107%;
 }
 }
-@media (max-width:450px){    
+@media (max-width:450px){
 .reg_form #first_name{
   width:110%;
 }
 }
-@media (max-width:350px){  
+@media (max-width:350px){
 .reg_form #first_name{
   width:112%;
 }
 }
-@media (max-width:330px){  
+@media (max-width:330px){
 .reg_form #first_name{
   width:113%;
 }
@@ -8557,7 +8558,7 @@ footer .footer_copyright_con h5{
   margin-bottom:0
 }
 
-@media (max-width:991px){  
+@media (max-width:991px){
 .reg_form #sign_up_first_name{
   margin-left:-5px;
 }
@@ -8587,7 +8588,7 @@ footer .footer_copyright_con h5{
   margin-bottom:10px;
 }
 
-@media (max-width:991px){  
+@media (max-width:991px){
 .reg_form #last_name{
   width:104.5%;
   height:48px;
@@ -8597,39 +8598,39 @@ footer .footer_copyright_con h5{
   margin-bottom:10px;
 }
 }
-@media (max-width:767px){   
+@media (max-width:767px){
 .reg_form #last_name{
   width:105%;
 }
 }
-@media (max-width:650px){   
+@media (max-width:650px){
 .reg_form #last_name{
   width:106%;
 }
 }
-@media (max-width:550px){   
+@media (max-width:550px){
 .reg_form #last_name{
   width:107%;
 }
 }
-@media (max-width:450px){    
+@media (max-width:450px){
 .reg_form #last_name{
   width:110%;
 }
 }
-@media (max-width:350px){  
- 
+@media (max-width:350px){
+
 .reg_form #last_name{
   width:112%;
 }
 }
-@media (max-width:330px){  
- 
+@media (max-width:330px){
+
 .reg_form #last_name{
   width:113%;
 }
 }
-   
+
 .reg_form #sign_up_last_name{
   font-family: ApercuProMono;
   font-size: 12px;
@@ -8645,7 +8646,7 @@ footer .footer_copyright_con h5{
   margin-bottom: 0
 }
 
-@media (max-width:991px){  
+@media (max-width:991px){
 .reg_form #sign_up_last_name{
   margin-left:-5px;
 }
@@ -8668,7 +8669,7 @@ footer .footer_copyright_con h5{
   margin-top:-10px
 }
 
-@media (max-width:991px){  
+@media (max-width:991px){
 .reg_form .sign_up_your_postcode_con{
   margin-top:-10px;
   margin-bottom:10px;
@@ -8681,7 +8682,7 @@ footer .footer_copyright_con h5{
   margin-bottom:0!important;
 }
 
-@media (max-width:991px){  
+@media (max-width:991px){
 .reg_form .sign_up_your_postcode_con h5{
   margin-left:25px!important;
 }
@@ -8807,7 +8808,7 @@ footer .footer_copyright_con h5{
   -moz-border-radius: 6px;
   -ms-border-radius: 6px;
   -o-border-radius: 6px;
-  border-radius: 6px; 
+  border-radius: 6px;
   border: solid 0.7px #000000!important;
   background-color: #ffffff;
   position: absolute;
@@ -8828,51 +8829,51 @@ footer .footer_copyright_con h5{
 
 @media (max-width:1199px){
 .reg_form .sign_up_form_main_con .autocomplete-items{
-   width:85.3%  
-}    
+   width:85.3%
+}
 }
 @media (max-width:991px){
 .reg_form .sign_up_form_main_con .autocomplete-items{
-   width:96%  
-}   
+   width:96%
+}
 }
 @media (max-width:700px){
 .reg_form .sign_up_form_main_con .autocomplete-items{
-   width:95.5%  
-}   
+   width:95.5%
+}
 }
 @media (max-width:600px){
 .reg_form .sign_up_form_main_con .autocomplete-items{
-   width:94.5%  
-}   
+   width:94.5%
+}
 }
 @media (max-width:500px){
 
 .reg_form .sign_up_form_main_con .autocomplete-items{
-   width:93.5%  
-}    
+   width:93.5%
+}
 }
 @media (max-width:450px){
 
 .reg_form .sign_up_form_main_con .autocomplete-items{
-   width:92.5%  
-}   
+   width:92.5%
+}
 }
 @media (max-width:400px){
 .reg_form .sign_up_form_main_con .autocomplete-items{
-   width:91.5%  
+   width:91.5%
 }
-    
+
 }
 @media (max-width:360px){
 .reg_form .sign_up_form_main_con .autocomplete-items{
-   width:91%  
-}    
+   width:91%
+}
 }
 @media (max-width:340px){
 .reg_form .sign_up_form_main_con .autocomplete-items{
-   width:90%  
-}   
+   width:90%
+}
 }
 
 /* Hide scrollbar for Chrome, Safari and Opera */
@@ -9047,7 +9048,7 @@ footer .footer_copyright_con h5{
   margin-left: 1em;
   margin-bottom: 0;
 }
-   
+
 .reg_form .sign_up_terms_of_use_check_box .fake-radiobutton,
 .reg_form .sign_up_terms_of_use_check_box .fake-checkbox{
   position: absolute;
@@ -9057,7 +9058,7 @@ footer .footer_copyright_con h5{
   width: 16px;
   height: 16px;
   border: solid 0.5px #000000;
-  background-color: #ffffff;    
+  background-color: #ffffff;
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
   -ms-border-radius: 2px;
@@ -9084,9 +9085,9 @@ footer .footer_copyright_con h5{
   -moz-transform: translateX(-50%) translateY(-50%);
   -ms-transform: translateX(-50%) translateY(-50%);
   -o-transform: translateX(-50%) translateY(-50%);
-  transform: translateX(-50%) translateY(-50%); 
+  transform: translateX(-50%) translateY(-50%);
 }
-     
+
 .reg_form .sign_up_terms_of_use_check_box .fake-radiobutton {
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -9123,7 +9124,7 @@ footer .footer_copyright_con h5{
 
 .reg_form .by_terms_conditions {
   margin-top:-20px
-} 
+}
 }
 
 .reg_form .by_terms_conditions a {
@@ -9247,19 +9248,19 @@ footer .footer_copyright_con h5{
   border-radius: 6px;
   background-color: #ffffff;
   padding-top:23px;
-  padding-bottom: 56px; 
+  padding-bottom: 56px;
   margin-left:20px
 }
-@media (min-width:992px) and (max-width:1199px){  
+@media (min-width:992px) and (max-width:1199px){
 .reg_form .sign_up_welcome_main_con{
   width:auto;
-}   
 }
-@media (max-width:991px){  
+}
+@media (max-width:991px){
 .reg_form .sign_up_welcome_main_con{
   width: 100%;
   margin-left:0;
-}  
+}
 }
 
 .reg_form .sign_up_welcome_img_con{
@@ -9275,14 +9276,14 @@ footer .footer_copyright_con h5{
   background-size:cover;
   margin-bottom:25px;
 }
-@media (max-width:991px){   
+@media (max-width:991px){
 .reg_form .sign_up_welcome_img_con{
   -webkit-border-radius: 6px;
   -moz-border-radius: 6px;
   -ms-border-radius: 6px;
   -o-border-radius: 6px;
   border-radius: 6px;
-}  
+}
 }
 
 .reg_form .sign_up_welcome_main_con h4{
@@ -9303,11 +9304,11 @@ footer .footer_copyright_con h5{
   margin-bottom: 50px
 }
 
-@media (max-width:991px){  
+@media (max-width:991px){
 .reg_form .sign_up_welcome_main_con h4{
   width:100%;
   height:auto;
-}   
+}
 }
 
 .reg_form .sign_up_welcome_img_con_btn{
@@ -9335,7 +9336,7 @@ footer .footer_copyright_con h5{
   -o-transition: .3s ease-in-out;
   transition: .3s ease-in-out;
 }
- 
+
 .reg_form .sign_up_welcome_img_con_btn:hover{
   color: #ffffff;
   background-color:#0cabd3;
@@ -9346,10 +9347,10 @@ footer .footer_copyright_con h5{
 
 
 
-    
 
-   
-    
+
+
+
 /*===================BEGINNING OF LOGIN CARE SEEKER FORM PAGE===================*/
 
 #login_care_seeker_form .login_form_btn[disabled] {
@@ -9374,7 +9375,7 @@ footer .footer_copyright_con h5{
 
 
 
-    
+
 /*===================BEGINNING OF SIGN-UP CARER FORM PAGE===================*/
 
 #sign_up_carer_form .sign_up_carers_first_name_con{
@@ -9385,7 +9386,7 @@ footer .footer_copyright_con h5{
   margin-bottom:5px
 }
 
-@media (max-width:767px){  
+@media (max-width:767px){
 #sign_up_carer_form #sign_up_carers_your_postcode_con{
 margin-top: -15px!important
 }
@@ -9410,11 +9411,11 @@ margin-top: -15px!important
 }
 
 #sign_up_carer_form .sign_up_carer_your_country{
-  margin-top:10px; 
+  margin-top:10px;
 }
 
 #sign_up_carer_form .sign_up_carer_your_country h5,#sign_up_carer_form .sign_up_carer_your_city h5{
-  margin-top:-1px; 
+  margin-top:-1px;
 }
 
 #sign_up_carer_form .sign_up_your_phone_con{
@@ -9499,13 +9500,13 @@ margin-top: -15px!important
   appearance: none;
 }
 
-@media (max-width:991px){  
+@media (max-width:991px){
 #sign_up_carer_form #sign_up_carers_your_postcode_con{
   margin-top:-10px;
   margin-bottom:10px;
 }
 }
-  
+
 #sign_up_carer_form #sign_up_carers_your_postcode_con h5{
   left: 0;
   margin-top:75px!important;
@@ -9513,7 +9514,7 @@ margin-top: -15px!important
   margin-bottom:0!important;
 }
 
-@media (max-width:991px){  
+@media (max-width:991px){
 #sign_up_carer_form #sign_up_carers_your_postcode_con h5{
   margin-left:25px!important;
   margin-top:155px!important;
@@ -9539,10 +9540,10 @@ margin-top: -15px!important
   height:auto;
 }
 
-@media (max-width:991px){  
+@media (max-width:991px){
 #sign_up_carer_form .sign_up_welcome_main_con h4{
   width:100%;
-}   
+}
 }
 
 /*===================END OF SIGN-UP CARER FORM PAGE===================*/
@@ -9578,10 +9579,10 @@ margin-top: -15px!important
   height:auto;
 }
 
-@media (max-width:991px){  
+@media (max-width:991px){
 #login_carer_form .sign_up_welcome_main_con h4{
   width:100%;
-}   
+}
 }
 
 /*===================END OF LOGIN CARER FORM PAGE===================*/
@@ -9619,12 +9620,12 @@ margin-top: -15px!important
   margin-bottom:27px;
   margin-top:0px
 }
-@media (max-width:991px){ 
+@media (max-width:991px){
 .about_smartcarers_main_con .about_smartcarers_con h2{
   font-size:35px;
 }
 }
-@media (max-width:767px){ 
+@media (max-width:767px){
 .about_smartcarers_main_con .about_smartcarers_con h2{
   font-size:28px;
 }
@@ -9647,18 +9648,18 @@ margin-top: -15px!important
   margin-left: auto;
   margin-right: auto
 }
-@media (max-width:767px){ 
+@media (max-width:767px){
 .about_smartcarers_main_con .about_smartcarers_con h4{
   width:100%;
 }
 }
-@media (min-width:400px) and (max-width:420px){ 
+@media (min-width:400px) and (max-width:420px){
 .about_smartcarers_main_con .about_smartcarers_con h4{
   padding-left:12px;
   padding-right:12px
 }
 }
-@media (min-width:350px) and (max-width:360px){ 
+@media (min-width:350px) and (max-width:360px){
 .about_smartcarers_main_con .about_smartcarers_con h4{
   padding-left:5px;
   padding-right:5px
@@ -9691,7 +9692,7 @@ margin-top: -15px!important
   -o-transition: .3s ease-in-out;
   transition: .3s ease-in-out;
 }
- 
+
 .about_smartcarers_main_con .about_smartcarers_con a:hover{
   -webkit-text-decoration: underline;
   -moz-text-decoration: underline;
@@ -9726,12 +9727,12 @@ margin-top: -15px!important
   padding-bottom:81px;
   margin-top:55px
 }
-         
+
 .about_smartcarers_our_mission_con{
   padding-left:20px;
   padding-right:20px
 }
-       
+
 .about_smartcarers_our_mission_main_con .about_smartcarers_our_mission_con h3{
   font-family: ApercuPro;
   font-size: 18px;
@@ -9747,7 +9748,7 @@ margin-top: -15px!important
   margin-left: auto;
   margin-right: auto
 }
-    
+
 .about_smartcarers_our_mission_main_con .about_smartcarers_our_mission_con h2{
   font-family: ApercuPro;
   font-size: 32px;
@@ -9761,7 +9762,7 @@ margin-top: -15px!important
   margin-bottom:32px;
   margin-top:0px
 }
-@media (max-width:767px){ 
+@media (max-width:767px){
 .about_smartcarers_our_mission_main_con .about_smartcarers_our_mission_con h2{
   font-size:28px;
 }
@@ -9784,7 +9785,7 @@ margin-top: -15px!important
   margin-left: auto;
   margin-right: auto
 }
-@media (max-width:767px){ 
+@media (max-width:767px){
 .about_smartcarers_our_mission_main_con .about_smartcarers_our_mission_con h4{
   width:100%;
 }
@@ -9804,11 +9805,11 @@ margin-top: -15px!important
   padding-bottom:90px;
 }
 
-@media (max-width:580px){ 
+@media (max-width:580px){
  .about_smartcarers_care_experts_main_con{
   padding-top:50px;
   padding-bottom:50px;
-}  
+}
 }
 
 .about_smartcarers_care_experts_main_con .about_smartcarers_care_experts_con h3{
@@ -9826,7 +9827,7 @@ margin-top: -15px!important
   margin-left: auto;
   margin-right: auto
 }
-    
+
 .about_smartcarers_care_experts_main_con .about_smartcarers_care_experts_con h2{
   width: 286px;
   height: 38px;
@@ -9844,7 +9845,7 @@ margin-top: -15px!important
   margin-left: auto;
   margin-right: auto
 }
-@media (max-width:767px){ 
+@media (max-width:767px){
 .about_smartcarers_care_experts_main_con .about_smartcarers_care_experts_con h2{
   font-size:28px;
 }
@@ -9867,7 +9868,7 @@ margin-top: -15px!important
   margin-left: auto;
   margin-right: auto
 }
-@media (max-width:767px){ 
+@media (max-width:767px){
 .about_smartcarers_care_experts_main_con .about_smartcarers_care_experts_con h4{
   width:100%;
 }
@@ -9880,7 +9881,7 @@ margin-top: -15px!important
   text-align: center;
   justify-content: center;
 }
-@media (max-width:580px){ 
+@media (max-width:580px){
 .about_smartcarers_care_experts_main_con .about_smartcarers_care_experts_con .about_smartcarers_care_experts_inner_sub_con{
   display: inline-block;
 }
@@ -9888,19 +9889,19 @@ margin-top: -15px!important
 
 .about_smartcarers_care_experts_main_con .about_smartcarers_care_experts_con .about_smartcarers_care_experts_sub_con1,.about_smartcarers_care_experts_main_con .about_smartcarers_care_experts_con .about_smartcarers_care_experts_sub_con2,.about_smartcarers_care_experts_main_con .about_smartcarers_care_experts_con .about_smartcarers_care_experts_sub_con3{
   width:18%
-}  
-
-@media (max-width:991px){ 
-.about_smartcarers_care_experts_main_con .about_smartcarers_care_experts_con .about_smartcarers_care_experts_sub_con1,.about_smartcarers_care_experts_main_con .about_smartcarers_care_experts_con .about_smartcarers_care_experts_sub_con2,.about_smartcarers_care_experts_main_con .about_smartcarers_care_experts_con .about_smartcarers_care_experts_sub_con3{
-  width:30%
-}  
 }
 
-@media (max-width:580px){ 
+@media (max-width:991px){
+.about_smartcarers_care_experts_main_con .about_smartcarers_care_experts_con .about_smartcarers_care_experts_sub_con1,.about_smartcarers_care_experts_main_con .about_smartcarers_care_experts_con .about_smartcarers_care_experts_sub_con2,.about_smartcarers_care_experts_main_con .about_smartcarers_care_experts_con .about_smartcarers_care_experts_sub_con3{
+  width:30%
+}
+}
+
+@media (max-width:580px){
 .about_smartcarers_care_experts_main_con .about_smartcarers_care_experts_con .about_smartcarers_care_experts_sub_con1,.about_smartcarers_care_experts_main_con .about_smartcarers_care_experts_con .about_smartcarers_care_experts_sub_con2,.about_smartcarers_care_experts_main_con .about_smartcarers_care_experts_con .about_smartcarers_care_experts_sub_con3{
   width:100%;
   margin-bottom: 30px
-}  
+}
 }
 
 .about_smartcarers_care_experts_main_con .about_smartcarers_care_experts_con .about_smartcarers_care_experts_sub_con1 .about_smartcarers_care_experts_img1{
@@ -10004,14 +10005,14 @@ margin-top: -15px!important
 /*===================END OF ABOUT PAGE===================*/
 
 
-    
 
-    
+
+
 
 
 
 /*===================BEGINNING OF SCHEDULE A CALL PAGE===================*/
-    
+
 .fabs {
   bottom: 0;
   position: fixed;
@@ -10053,11 +10054,11 @@ margin-top: -15px!important
 
 .fabs .fab:hover{
   animation: pulse 1s;
-  -webkit-animation-timing-function: linear;  
-  -moz-animation-timing-function: linear;  
-  -ms-animation-timing-function: linear;  
-  -o-animation-timing-function: linear;  
-  animation-timing-function: linear;  
+  -webkit-animation-timing-function: linear;
+  -moz-animation-timing-function: linear;
+  -ms-animation-timing-function: linear;
+  -o-animation-timing-function: linear;
+  animation-timing-function: linear;
 }
 
 -webkit-@keyframes pulse {
@@ -10124,24 +10125,24 @@ margin-top: -15px!important
   padding-bottom: 20px;
   padding-top:0px;
 }
-@media (max-width:370px){ 
+@media (max-width:370px){
 .fabs .chat {
   width:320px!important;
   padding-bottom:10px;
   bottom:75px
 }
 }
-@media (max-width:350px){ 
+@media (max-width:350px){
 .fabs .chat {
   width:300px!important;
 }
 }
-@media (max-width:330px){ 
+@media (max-width:330px){
 .fabs .chat {
   width:290px!important;
 }
 }
-@media (max-width:315px){ 
+@media (max-width:315px){
 .fabs .chat {
   width:250px!important;
 }
@@ -10214,13 +10215,13 @@ margin-top: -15px!important
   max-height:410px;
   overflow:scroll
 }
-    
-@media (max-width:340px){ 
- 
+
+@media (max-width:340px){
+
 .fabs .chat_main_content{
   max-height:320px;
-}   
-    
+}
+
 }
 
 /* Hide scrollbar for Chrome, Safari and Opera */
@@ -10233,22 +10234,22 @@ margin-top: -15px!important
   -ms-overflow-style: none;
 }
 
-@media (max-width:767px){ 
+@media (max-width:767px){
  .fabs .chat_main_content{
   max-height:370px;
-}  
+}
 }
 
-@media (max-width:370px){ 
+@media (max-width:370px){
  .fabs .chat_main_content{
   max-height:390px;
-}  
+}
 }
 
-@media (max-width:340px){ 
+@media (max-width:340px){
  .fabs .chat_main_content{
   max-height:320px;
-}  
+}
 }
 
 .fabs .chat_fullscreen {
@@ -10492,7 +10493,7 @@ margin-top: -15px!important
   margin-left: 1em;
   margin-bottom: 0;
 }
-   
+
 .fabs .schedule_call_reg_form .sign_up_terms_of_use_check_box .fake-radiobutton,
 .fabs .schedule_call_reg_form .sign_up_terms_of_use_check_box .fake-checkbox{
   position: absolute;
@@ -10502,7 +10503,7 @@ margin-top: -15px!important
   width: 16px;
   height: 16px;
   border: solid 1px #727272;
-  background-color: #ffffff;    
+  background-color: #ffffff;
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
   -ms-border-radius: 2px;
@@ -10530,9 +10531,9 @@ margin-top: -15px!important
   -moz-transform: translateX(-50%) translateY(-50%);
   -ms-transform: translateX(-50%) translateY(-50%);
   -o-transform: translateX(-50%) translateY(-50%);
-  transform: translateX(-50%) translateY(-50%); 
+  transform: translateX(-50%) translateY(-50%);
 }
-     
+
 .fabs .schedule_call_reg_form .sign_up_terms_of_use_check_box .fake-radiobutton{
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -10549,7 +10550,7 @@ margin-top: -15px!important
 }
 
 .fabs .schedule_call_reg_form .sign_up_terms_of_use_check_box input[type="radio"]:checked + span .fake-radiobutton:after,
-.fabs .schedule_call_reg_form .sign_up_terms_of_use_check_box input[type="checkbox"]:checked + span .fake-checkbox:after { 
+.fabs .schedule_call_reg_form .sign_up_terms_of_use_check_box input[type="checkbox"]:checked + span .fake-checkbox:after {
   display: block;
 }
 
@@ -10562,10 +10563,10 @@ margin-top: -15px!important
   font-style: normal;
   line-height: 1.33;
   letter-spacing: normal;
-  color: #727272; 
+  color: #727272;
   float: right;
   margin-top:-10px;
-  margin-bottom: 0    
+  margin-bottom: 0
 }
 
 .fabs .is-float {
@@ -10578,7 +10579,7 @@ margin-top: -15px!important
   -o-background-size:cover;
   background-size:cover;
 }
-  
+
 .fabs .chat_first_screen{
   width:100%;
   height: 48px;
@@ -10604,13 +10605,13 @@ margin-top: -15px!important
   -o-transition: .0s ease-in-out!important;
   transition: .0s ease-in-out!important;
 }
-  
+
 .fabs .chat_first_screen[disabled] {
   background-color: #e5e5e5;
   cursor: not-allowed
 }
 
-@media (max-width:370px){ 
+@media (max-width:370px){
 .fabs #chat_first_screen,.fabs .chat_first_screen{
   margin-top:10px;
 }
@@ -10640,8 +10641,8 @@ margin-top: -15px!important
   min-height:380px;
 }
 
-@media (max-width:340px){ 
-    
+@media (max-width:340px){
+
 .fabs .second_chat_screen .chat_main_content{
   min-height:320px;
 }
@@ -10649,7 +10650,7 @@ margin-top: -15px!important
 
 .fabs .second_chat_screen .chat_option{
 }
-  
+
 .fabs .second_chat_screen .chat_main_content .header_img img{
   width: 47px!important;
   height: 47px!important;
@@ -10730,15 +10731,15 @@ margin-top: -15px!important
   margin-top:3px
 }
 
-@media (max-width:374px){ 
-    
+@media (max-width:374px){
+
 .fabs .chat_second_screen_checkbox_selectore2{
   margin-left:90px;
 }
 .fabs .chat_second_screen_checkbox_selectore4{
   margin-left:90px;
 }
-    
+
 }
 
 .fabs .second_chat_screen input[type=checkbox] {
@@ -10809,19 +10810,19 @@ margin-top: -15px!important
 }
 
 .fabs .second_chat_screen #chat_second_screen{
-}   
- 
+}
+
 .fabs .chat_second_screen_checkbox_selectore_morn_afternoon_con{
   display:none;
   margin-top:-15px
 }
-   
+
 .fabs #datepicker_add_schedule_call_con{
   position: absolute;
   margin-top:-60px;
   margin-left:195px
 }
- 
+
 .fabs #datepicker_add_schedule_call{
   width:100px;
   border: none;
@@ -10857,31 +10858,31 @@ margin-top: -15px!important
 }
 
 @media (max-width:599px){
-    
+
 .fabs #datepicker_add_schedule_call{
   width:110px;
 }
- 
-}      
-  
+
+}
+
 @media (max-width:374px){
-    
+
 .fabs #datepicker_add_schedule_call{
   width:100px;
   margin-left:0px
 }
- 
-}      
-  
+
+}
+
 @media (max-width:340px){
-    
+
 .fabs #datepicker_add_schedule_call{
   width:81px;
   margin-left:-7px
 }
- 
-}      
-  
+
+}
+
 .fabs #datepicker_add_schedule_call::placeholder{
   background-color: none;
   -webkit-opacity: 0.3;
@@ -10971,16 +10972,16 @@ margin-top: -15px!important
   margin-left:-20px!important;
   margin-top:-2px;
 }
-      
+
 }
 
 @media (max-width:360px){
-    
+
 .ui-widget-content {
   margin-left:-15px!important;
 }
-      
-} 
+
+}
 
 @media (max-width:410px){
 }
@@ -10996,7 +10997,7 @@ margin-top: -15px!important
 
 }
 @media (max-width:330px){
-    
+
 .ui-widget-content {
 -webkit-transform: translate(-8%, 0%)!important;
 -moz-transform: translate(-8%, 0%)!important;
@@ -11042,11 +11043,11 @@ transform: translate(-8%, 0%)!important;
   -o-transform: translate(3%, 0%);
   transform: translate(3%, 0%);
 }
-      
-} 
+
+}
 
 @media (max-width:360px){
-    
+
 .ui-datepicker-calendar {
   width:60%!important;
   height:auto;
@@ -11058,8 +11059,8 @@ transform: translate(-8%, 0%)!important;
   -o-transform: translate(5%, 0%);
   transform: translate(5%, 0%);
 }
-      
-} 
+
+}
 
 @media (max-width:410px){
 }
@@ -11086,7 +11087,7 @@ transform: translate(-8%, 0%)!important;
 }
 
 @media (max-width:365px){
-    
+
 .ui-state-default {
   padding-right:0;
   margin-left:0;
@@ -11115,7 +11116,7 @@ transform: translate(-8%, 0%)!important;
    position: absolute;
    right:75px!important
 }
-  
+
 @media (max-width:599px){
 
 .ui-datepicker-month {
@@ -11162,7 +11163,7 @@ transform: translate(-8%, 0%)!important;
   background-image: url(../images/calendar%20arrow%20right.svg);
   background-repeat: no-repeat;
   background-position: center;
-  right: 40px!important  
+  right: 40px!important
 }
 
 @media (max-width:410px){
@@ -11172,7 +11173,7 @@ transform: translate(-8%, 0%)!important;
 }
 
 .ui-datepicker-next{
-  right: 10px!important  
+  right: 10px!important
 }
 
 }
@@ -11318,7 +11319,7 @@ transform: translate(-8%, 0%)!important;
   margin-left:-30px;
 }
 
-} 
+}
 @media (max-width:340px){
 
 .fabs .schedule_a_call_second_screen_add_time_dropdown1 > .schedule_a_call_second_screen_add_time_caption1{
@@ -11326,7 +11327,7 @@ transform: translate(-8%, 0%)!important;
   margin-left:-35px;
 }
 
-}      
+}
 
 .fabs .schedule_a_call_second_screen_add_time_caption1 h6{
   position: ;
@@ -11338,11 +11339,11 @@ transform: translate(-8%, 0%)!important;
   line-height: normal;
   letter-spacing: normal;
   color: #000000;
-  -webkit-opacity:0.3; 
-  -moz-opacity:0.3; 
-  -ms-opacity:0.3; 
-  -o-opacity:0.3; 
-  opacity:0.3; 
+  -webkit-opacity:0.3;
+  -moz-opacity:0.3;
+  -ms-opacity:0.3;
+  -o-opacity:0.3;
+  opacity:0.3;
   margin: 0
 }
 
@@ -11351,12 +11352,12 @@ transform: translate(-8%, 0%)!important;
 .fabs .schedule_a_call_second_screen_add_time_dropdown1 > .schedule_a_call_second_screen_add_time_caption1{
   width:100px;
 }
-    
+
 .fabs .schedule_a_call_second_screen_add_time_dropdown1 > .schedule_a_call_second_screen_add_time_caption1{
   width: 110px
 }
-      
-}        
+
+}
 
 .fabs .schedule_a_call_second_screen_add_time_dropdown1 > .schedule_a_call_second_screen_add_time_list1{
   position: absolute;
@@ -11389,8 +11390,8 @@ transform: translate(-8%, 0%)!important;
 .fabs .schedule_a_call_second_screen_add_time_dropdown1 > .schedule_a_call_second_screen_add_time_list1{
   width: 110px;
 }
-  
-}  
+
+}
 
 .fabs .schedule_a_call_second_screen_add_time_dropdown1 > .schedule_a_call_second_screen_add_time_list1{
   width: 250px;
@@ -11411,14 +11412,14 @@ transform: translate(-8%, 0%)!important;
   margin-top:-1px;
 }
 
-@media (max-width:370px){    
+@media (max-width:370px){
 .fabs .schedule_a_call_second_screen_add_time_dropdown1 > .schedule_a_call_second_screen_add_time_list1{
   margin-left:-180px;
 }
 
 }
 
-@media (max-width:340px){    
+@media (max-width:340px){
 .fabs .schedule_a_call_second_screen_add_time_dropdown1 > .schedule_a_call_second_screen_add_time_list1{
   margin-left:-210px;
 }
@@ -11450,7 +11451,7 @@ transform: translate(-8%, 0%)!important;
 }
 
 .fabs .schedule_a_call_second_screen_add_time_dropdown1 > .schedule_a_call_second_screen_add_time_list1 > .schedule_a_call_second_screen_add_time_item1.selected{
-  font-weight:; 
+  font-weight:;
 }
 
 .fabs .schedule_a_call_second_screen_add_time_list1 > .schedule_a_call_second_screen_add_time_item1:hover{
@@ -11473,7 +11474,7 @@ transform: translate(-8%, 0%)!important;
 .fabs .third_chat_screen .chat_main_content{
   min-height:240px;
 }
-  
+
 .fabs .second_chat_screen .chat_main_content .header_img img{
   width: 47px!important;
   height: 47px!important;
@@ -11504,39 +11505,39 @@ transform: translate(-8%, 0%)!important;
   transition: .0s ease-in-out!important;
 }
 
- 
+
 /*===================END OF SCHEDULE A CALL PAGE===================*/
 
 
 
 
-    
-
-    
 
 
 
 
 
-    
-
-    
 
 
 
 
 
-    
-
-    
 
 
 
 
 
-    
 
-    
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -11551,13 +11552,13 @@ transform: translate(-8%, 0%)!important;
 /*===================BEGINING OF ARTICLE/CATEGORIES SECTION===================*/
 
 .article_wrapper .news_categories_main_con{
-  margin-top:100px 
+  margin-top:100px
 }
 
 @media (max-width:767px){
-    
+
 .article_wrapper .news_categories_main_con{
-  margin-top:50px 
+  margin-top:50px
 }
 }
 
@@ -11580,7 +11581,7 @@ transform: translate(-8%, 0%)!important;
 }
 
 @media (max-width:767px){
-    
+
 .article_wrapper .news_title_con h2{
   font-size:28px;
   margin-top:15px
@@ -11588,21 +11589,21 @@ transform: translate(-8%, 0%)!important;
 }
 
 @media (max-width:545px){
-    
+
 .article_wrapper .news_title_con h2{
   margin-left:0
 }
 }
 
 @media (max-width:516px){
-    
+
 .article_wrapper .news_title_con h2{
   margin-left:0
 }
 }
 
 @media (max-width:474px){
-    
+
 .article_wrapper .news_title_con h2{
   margin-left:0
 }
@@ -11610,10 +11611,10 @@ transform: translate(-8%, 0%)!important;
 }
 
 @media (max-width:380px){
-    
+
 .article_wrapper .news_title_con{
-  padding: 0     
-}    
+  padding: 0
+}
 .article_wrapper .categories_dropdown_con{
   padding: 0;
 }
@@ -11624,7 +11625,7 @@ transform: translate(-8%, 0%)!important;
 
 }
 @media (max-width:300px){
-    
+
 .article_wrapper .news_title_con h2{
 }
 
@@ -11643,10 +11644,10 @@ transform: translate(-8%, 0%)!important;
   float: right;
   margin-top:20px
 }
-  
+
 
 @media (max-width:1199px){
-    
+
 .article_wrapper .categories_dropdown_con .dropdown{
   margin-right:-20px;
 }
@@ -11654,7 +11655,7 @@ transform: translate(-8%, 0%)!important;
 }
 
 @media (max-width:767px){
-    
+
 .article_wrapper .categories_dropdown_con .dropdown{
   margin-top:30px;
 }
@@ -11662,14 +11663,14 @@ transform: translate(-8%, 0%)!important;
 }
 
 @media (max-width:524px){
-    
+
 .article_wrapper .categories_dropdown_con .dropdown{
   margin-right:0px!important;
 }
 
 }
 @media (max-width:479px){
-    
+
 .article_wrapper .categories_dropdown_con .dropdown{
   margin-top:28px;
 }
@@ -11706,7 +11707,7 @@ transform: translate(-8%, 0%)!important;
   margin-right:15px;
   margin-top:-2px
 }
-   
+
 .article_wrapper .categories_dropdown_con .dropdown-menu{
   width: 206px;
   height: auto;
@@ -11728,7 +11729,7 @@ transform: translate(-8%, 0%)!important;
 }
 
 @media (max-width:1199px){
-    
+
 .article_wrapper .categories_dropdown_con .dropdown-menu{
 
 }
@@ -11736,7 +11737,7 @@ transform: translate(-8%, 0%)!important;
 }
 
 @media (max-width:380px){
-    
+
 .article_wrapper .categories_dropdown_con .dropdown-menu{
   margin-top:23px!important
 }
@@ -11795,7 +11796,7 @@ transform: translate(-8%, 0%)!important;
   border: solid 0.5px #e4e4e4;
   margin-top:-12px
 }
- 
+
 .article_wrapper .categories_dropdown_con .dropdown-menu #cat_company_news_text::before{
   display: none!important
 }
@@ -11820,11 +11821,11 @@ transform: translate(-8%, 0%)!important;
   background-color: #f4f5f7;
   margin-top:15px;
   padding-top:37px;
-  padding-bottom:50px 
+  padding-bottom:50px
 }
 
 .article_news_categories_con{
-  margin-bottom:30px 
+  margin-bottom:30px
 }
 
 .article_wrapper .news_content_con{
@@ -11968,7 +11969,7 @@ transform: translate(-8%, 0%)!important;
   margin-left: auto;
   margin-right: auto;
 }
-      
+
 .article_wrapper .first_news_content_con_img{
   width:100%;
   height: 320px;
@@ -11987,7 +11988,7 @@ transform: translate(-8%, 0%)!important;
   -o-border-radius: 4px 4px 0px 0px;
   border-radius: 4px 4px 0px 0px;
 }
-    
+
 .article_wrapper .first_news_content_con_text{
   -webkit-border-radius: 0px 0px 4px 4px;
   -moz-border-radius: 0px 0px 4px 4px;
@@ -12004,13 +12005,13 @@ transform: translate(-8%, 0%)!important;
   margin-top: 0;
   margin-bottom:19px
 }
- 
+
 .article_wrapper .first_news_content_con_text h6{
   width:100%;
   margin-top: 0;
   margin-bottom:10px
 }
-  
+
 .article_wrapper .first_news_content_con_text h4{
   width:100%;
   margin-top: 0;
@@ -12142,7 +12143,7 @@ transform: translate(-8%, 0%)!important;
   margin-left:0;
   margin-right: auto;
 }
-    
+
 .article_wrapper .second_news_content_con_img{
   width:100%;
   height: 320px;
@@ -12276,7 +12277,7 @@ transform: translate(-8%, 0%)!important;
   width:95%;
   margin-left:20px;
 }
-    
+
 .article_wrapper .third_news_content_con_img{
   width:100%;
   height: 320px;
@@ -12291,7 +12292,7 @@ transform: translate(-8%, 0%)!important;
 .article_wrapper .third_news_content_con_text{
   width:100%;
 }
-    
+
 }
 
 @media (max-width:767px){
@@ -12300,7 +12301,7 @@ transform: translate(-8%, 0%)!important;
   width: 100%;;
   margin-left:0px
 }
-  
+
 .article_wrapper .third_news_content_con_text{
   width:100%;
 }
@@ -12412,7 +12413,7 @@ transform: translate(-8%, 0%)!important;
   margin-right: auto;
   margin-left:35px
 }
-    
+
 .article_wrapper .fourth_news_content_con_img{
   width: 406px;
 }
@@ -12438,7 +12439,7 @@ transform: translate(-8%, 0%)!important;
   margin-left: auto;
   margin-right: auto;
 }
-    
+
 .article_wrapper .fourth_news_content_con_img{
   width:100%;
   height:272px;
@@ -12461,7 +12462,7 @@ transform: translate(-8%, 0%)!important;
   width: 100%;
   margin-left:0px
 }
-  
+
 .article_wrapper .fourth_news_content_con_text{
   width:100%;
 }
@@ -12569,7 +12570,7 @@ transform: translate(-8%, 0%)!important;
   display:block;
   margin-left:-10ox;
   margin-right: auto;
-} 
+}
 
 .article_wrapper .fifth_news_content_con_img{
   width: 405px;
@@ -12596,7 +12597,7 @@ transform: translate(-8%, 0%)!important;
   margin-left:20px;
   margin-right: auto;
 }
-    
+
 .article_wrapper .fifth_news_content_con_img{
   width:100%;
   height:272px;
@@ -12619,15 +12620,15 @@ transform: translate(-8%, 0%)!important;
   width: 100%;
   margin-left:0
 }
-  
+
 .article_wrapper .fifth_news_content_con_img{
   width: 100%;
 }
-  
+
 .article_wrapper .fifth_news_content_con_text{
   width:100%;
 }
-    
+
 }
 
 .article_wrapper #first_company_news_img{
@@ -12650,7 +12651,7 @@ transform: translate(-8%, 0%)!important;
   background-image: url(../images/get-the-latest-advice.jpg);
 }
 
- 
+
 .article_wrapper .first_news_content_con .news_img_con, .article_wrapper .second_news_content_con .news_img_con, .article_wrapper .third_news_content_con .news_img_con, .article_wrapper .fourth_news_content_con .news_img_con, .article_wrapper .fifth_news_content_con .news_img_con{
   -webkit-border-radius: 4px 4px 0px 0px;
   -moz-border-radius: 4px 4px 0px 0px;
@@ -12667,7 +12668,7 @@ transform: translate(-8%, 0%)!important;
   -moz-border-radius: 4px 0px 0px 4px;
   -ms-border-radius: 4px 0px 0px 4px;
   -o-border-radius: 4px 0px 0px 4px;
-  border-radius: 4px 0px 0px 4px;  
+  border-radius: 4px 0px 0px 4px;
 }
 
 }
@@ -12684,46 +12685,46 @@ transform: translate(-8%, 0%)!important;
   margin-top:67px;
   margin-bottom:59px;
 }
-  
+
 @media (min-width:768px) and (max-width:991px){
 .article_wrapper .article_looking_for_a_job h3{
   margin-top:-5px!important;
   margin-bottom:59px!important;
 }
-    
+
 }
-  
+
 @media (max-width:767px){
 .article_wrapper .article_looking_for_a_job h3{
   margin-top:5px!important;
   margin-bottom:29px!important;
 }
-    
+
 }
 
 /*===================END OF ARTICLE CONTENTS SECTION===================*/
- 
+
 
 /*^^^^^^^^^^^^^^^^^^^END OF ARTICLE PAGE^^^^^^^^^^^^^^^^^^^*/
 
 
 
 
-    
 
-    
+
+
 
 /*^^^^^^^^^^^^^^^^^^^BEGINING OF ARTICLES DETAIL PAGE^^^^^^^^^^^^^^^^^^^*/
- 
+
 
 /*===================BEGINING OF ARTICLES DETAIL/CATEGORIES/ARTICLES DETAIL SECTION===================*/
 
 .news_categories_main_con{
-  margin-top:100px 
+  margin-top:100px
 }
 
 .article_in_detail_news_categories_con::after{
-  position: ;   
+  position: ;
   content: '';
   display: inline-block;
   width:97%;
@@ -12734,13 +12735,13 @@ transform: translate(-8%, 0%)!important;
   left: 0;
   right:0;
   margin-top:29px;
-} 
+}
 
 @media (max-width:1199px){
 .article_in_detail_news_categories_con::after{
-  width:99%       
+  width:99%
 }
-    
+
 }
 
 @media (max-width:1199px){
@@ -12748,7 +12749,7 @@ transform: translate(-8%, 0%)!important;
 #articles .news_categories_con::after{
   width:89%;
 }
-  
+
 }
 
 @media (max-width:991px){
@@ -12756,7 +12757,7 @@ transform: translate(-8%, 0%)!important;
 #articles .news_categories_con::after{
   width:86%;
 }
-  
+
 }
 
 @media (max-width:680px){
@@ -12764,7 +12765,7 @@ transform: translate(-8%, 0%)!important;
 #articles .news_categories_con::after{
   width:83%;
 }
-  
+
 }
 
 @media (max-width:550px){
@@ -12772,7 +12773,7 @@ transform: translate(-8%, 0%)!important;
 #articles .news_categories_con::after{
   width:80%;
 }
-  
+
 }
 
 @media (max-width:524px){
@@ -12780,7 +12781,7 @@ transform: translate(-8%, 0%)!important;
 #articles .news_categories_con::after{
   width:94%;
 }
-  
+
 }
 
 @media (max-width:380px){
@@ -12788,7 +12789,7 @@ transform: translate(-8%, 0%)!important;
 #articles .news_categories_con::after{
   width:100%;
 }
-  
+
 }
 
 #articles .news_categories_con h2{
@@ -12800,7 +12801,7 @@ transform: translate(-8%, 0%)!important;
 #articles .news_categories_con h2{
   margin-left:0
 }
-  
+
 }
 
 #articles .news_categories_con .dropdown{
@@ -12817,7 +12818,7 @@ transform: translate(-8%, 0%)!important;
 #articles .news_categories_con .dropdown-menu{
   top:26px
 }
-  
+
 }
 
 .article_news_content_detail{
@@ -12825,7 +12826,7 @@ transform: translate(-8%, 0%)!important;
 }
 
 .article_more_news_con{
-  padding-left:50px  
+  padding-left:50px
 }
 
 .article_more_news_con img{
@@ -12852,7 +12853,7 @@ transform: translate(-8%, 0%)!important;
 @media (max-width:991px){
  .article_news_detail_con{
   margin-top:20px
-}   
+}
 }
 
 @media (max-width:1199px){
@@ -12860,14 +12861,14 @@ transform: translate(-8%, 0%)!important;
 .article_news_detail_con{
   padding-left:0px;
 }
-  
+
 }
 @media (max-width:991px){
 
 .article_news_detail_con{
   padding-left:50px
 }
-  
+
 }
 
 .article_news_detail_con h3{
@@ -12974,7 +12975,7 @@ transform: translate(-8%, 0%)!important;
 .article_news_img_con::before{
   width:88%;
 }
-    
+
 }
 
 @media (max-width:525px){
@@ -12982,7 +12983,7 @@ transform: translate(-8%, 0%)!important;
 .article_news_img_con::before{
   width:93%;
 }
-    
+
 }
 
 .article_news_img_con{
@@ -12997,7 +12998,7 @@ transform: translate(-8%, 0%)!important;
   margin-top:65px;
   margin-bottom: 40px
 }
-  
+
 .article_news_img{
   width:100%;
   height: 319px;
@@ -13013,9 +13014,9 @@ transform: translate(-8%, 0%)!important;
   -moz-transition: .5s ease-in-out;
   -ms-transition: .5s ease-in-out;
   -o-transition: .5s ease-in-out;
-  transition: .5s ease-in-out; 
+  transition: .5s ease-in-out;
 }
-  
+
 .article_news_detail_con p{
   width:490px;
   height:auto;
@@ -13042,17 +13043,17 @@ transform: translate(-8%, 0%)!important;
   width:100%;
   height: 319px;
 }
-    
+
 .article_news_detail_con p{
   width:100%;
 }
 
 }
- 
+
 @media (max-width:524px){
-    
+
 .article_more_news_con{
-  padding-left:10px  
+  padding-left:10px
 }
 .article_news_detail_con{
   padding-left:10px
@@ -13066,15 +13067,15 @@ transform: translate(-8%, 0%)!important;
   width:100%;
   height: 319px;
 }
-    
+
 .article_news_detail_con p{
   width:100%;
 }
 
 }
-   
+
 @media (max-width:479px){
-    
+
 .article_news_detail_con h1{
   font-size: 30px;
 }
@@ -13085,11 +13086,11 @@ transform: translate(-8%, 0%)!important;
 }
 
 .article_news_img{
-  height:250px; 
+  height:250px;
 }
 
 }
-   
+
 @media (max-width:319px){
 
 .article_news_img_con{
@@ -13105,9 +13106,6 @@ transform: translate(-8%, 0%)!important;
 /*===================END OF ARTICLE DETAIL/CATEGORIES/ARTICLES DETAIL SECTION===================*/
 
 /*^^^^^^^^^^^^^^^^^^^END OF ARTICLES DETAIL PAGE^^^^^^^^^^^^^^^^^^^*/
-    
-
-    
 
 
 
@@ -13117,13 +13115,16 @@ transform: translate(-8%, 0%)!important;
 
 
 
-    
+
+
+
+
 
 /*===================BEGINNING OF ALZHEIMER'S CARE FORM PAGE===================*/
 
-    
+
 .alzheimers_care_main_con{
-    
+
 }
 
 .alzheimers_care_main_con .sign_up_form_main_con h4{
@@ -13167,74 +13168,74 @@ transform: translate(-8%, 0%)!important;
 
 .alzheimers_care_dropdown{
   width:85.2%;
-}   
+}
 }
 @media (max-width:991px){
 
 .alzheimers_care_dropdown{
   width:96%;
   margin-top:155px;
-}   
+}
 }
 @media (max-width:767px){
 .alzheimers_care_dropdown{
   width:96%;
-} 
+}
 }
 @media (max-width:699px){
 .alzheimers_care_dropdown{
   width:95.5%;
-}   
+}
 }
 @media (max-width:599px){
 .alzheimers_care_dropdown{
   width:94.6%;
-}   
+}
 }
 @media (max-width:499px){
 .alzheimers_care_dropdown{
   width:93.5%;
-}   
+}
 }
 @media (max-width:460px){
 .alzheimers_care_dropdown{
   width:93%;
-}   
+}
 }
 @media (max-width:450px){
 .alzheimers_care_dropdown{
   width:93%;
-}   
+}
 }
 @media (max-width:420px){
 .alzheimers_care_dropdown{
   width:92.6%;
-}   
+}
 }
 @media (max-width:399px){
 .alzheimers_care_dropdown{
   width:91.9%;
-}   
+}
 }
 @media (max-width:380px){
 .alzheimers_care_dropdown{
   width:91.5%;
-}   
+}
 }
 @media (max-width:360px){
 .alzheimers_care_dropdown{
   width:91%;
-}   
+}
 }
 @media (max-width:340px){
 .alzheimers_care_dropdown{
   width:90.3%;
-}   
+}
 }
 @media (max-width:310px){
 .alzheimers_care_dropdown{
   width:89.3%;
-}   
+}
 }
 
 .alzheimers_care_dropdown h5{
@@ -13256,7 +13257,7 @@ transform: translate(-8%, 0%)!important;
   -moz-border-radius: 6px;
   -ms-border-radius: 6px;
   -o-border-radius: 6px;
-  border-radius: 6px; 
+  border-radius: 6px;
   background-image:url(../images/Alzheimer%E2%80%99s-care-smart-drop-down-.svg);
   background-repeat: no-repeat;
   background-position: 95% 21px;
@@ -13355,7 +13356,7 @@ transform: translate(-8%, 0%)!important;
   -moz-transition: .3s ease-in-out;
   -ms-transition: .3s ease-in-out;
   -o-transition: .3s ease-in-out;
-  transition: .3s ease-in-out; 
+  transition: .3s ease-in-out;
 }
 
 .alzheimers_care_dropdown > .alzheimers_care_list.selected {
@@ -13403,74 +13404,74 @@ transform: translate(-8%, 0%)!important;
 
 .alzheimers_care_is_for_dropdown{
   width:85.2%;
-}   
+}
 }
 @media (max-width:991px){
 
 .alzheimers_care_is_for_dropdown{
   width:96%;
   margin-top:235px;
-}   
+}
 }
 @media (max-width:767px){
 .alzheimers_care_is_for_dropdown{
   width:96%;
-} 
+}
 }
 @media (max-width:699px){
 .alzheimers_care_is_for_dropdown{
   width:95.5%;
-}   
+}
 }
 @media (max-width:599px){
 .alzheimers_care_is_for_dropdown{
   width:94.6%;
-}   
+}
 }
 @media (max-width:499px){
 .alzheimers_care_is_for_dropdown{
   width:93.5%;
-}   
+}
 }
 @media (max-width:460px){
 .alzheimers_care_is_for_dropdown{
   width:93%;
-}   
+}
 }
 @media (max-width:450px){
 .alzheimers_care_is_for_dropdown{
   width:93%;
-}   
+}
 }
 @media (max-width:420px){
 .alzheimers_care_is_for_dropdown{
   width:92.6%;
-}   
+}
 }
 @media (max-width:399px){
 .alzheimers_care_is_for_dropdown{
   width:91.9%;
-}   
+}
 }
 @media (max-width:380px){
 .alzheimers_care_is_for_dropdown{
   width:91.5%;
-}   
+}
 }
 @media (max-width:360px){
 .alzheimers_care_is_for_dropdown{
   width:91%;
-}   
+}
 }
 @media (max-width:340px){
 .alzheimers_care_is_for_dropdown{
   width:90.3%;
-}   
+}
 }
 @media (max-width:310px){
 .alzheimers_care_is_for_dropdown{
   width:89.3%;
-}   
+}
 }
 
 .alzheimers_care_is_for_dropdown h5{
@@ -13492,7 +13493,7 @@ transform: translate(-8%, 0%)!important;
   -moz-border-radius: 6px;
   -ms-border-radius: 6px;
   -o-border-radius: 6px;
-  border-radius: 6px; 
+  border-radius: 6px;
   background-image:url(../images/Alzheimer%E2%80%99s-care-smart-drop-down-.svg);
   background-repeat: no-repeat;
   background-position: 95% 21px;
@@ -13592,7 +13593,7 @@ transform: translate(-8%, 0%)!important;
   -moz-transition: .3s ease-in-out;
   -ms-transition: .3s ease-in-out;
   -o-transition: .3s ease-in-out;
-  transition: .3s ease-in-out; 
+  transition: .3s ease-in-out;
 }
 
 .alzheimers_care_is_for_dropdown > .alzheimers_care_is_for_list.selected {
@@ -13623,7 +13624,7 @@ transform: translate(-8%, 0%)!important;
 
 .alzheimers_care_main_con .sign_up_welcome_main_con h4{
   margin-bottom:20px
-}    
+}
 .alzheimers_care_main_con .sign_up_welcome_main_con a{
   display:inline-block;
   font-family: ApercuPro;
@@ -13663,45 +13664,45 @@ transform: translate(-8%, 0%)!important;
 
 
 
-    
-
-    
 
 
 
 
-    
-
-    
 
 
 
 
-    
-
-    
 
 
 
 
-    
-
-    
 
 
 
 
-    
-
-    
 
 
 
 
-    
 
-    
-   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /*===================BEGINNING OF USER SEARCH PAGE===================*/
 
@@ -13709,27 +13710,27 @@ transform: translate(-8%, 0%)!important;
   margin-bottom:70px
 }
 
-@media (max-width:991px){  
+@media (max-width:991px){
 .user_search_main_con{
   margin-top:100px
 }
 }
- 
-@media (max-width:767px){  
+
+@media (max-width:767px){
 .user_search_main_con{
   margin-top:70px
 }
-} 
+}
 
-@media (max-width:767px){  
-    
+@media (max-width:767px){
+
 .user_search_main_con .user_search_con{
   padding-left:0;
   padding-right:0
 }
-    
+
 }
-    
+
 .user_search_main_con h5{
   font-family: ApercuPro;
   font-size: 16px;
@@ -13745,16 +13746,16 @@ transform: translate(-8%, 0%)!important;
   margin-top:0;
   margin-bottom:2px
 }
-@media (max-width:991px){ 
-  
+@media (max-width:991px){
+
 .user_search_main_con h5{
   padding-left:0px;
   padding-right:0px;
 }
 
 }
-@media (max-width:767px){ 
-  
+@media (max-width:767px){
+
 .user_search_main_con h5{
   padding-left:20px;
   padding-right:20px;
@@ -13776,16 +13777,16 @@ transform: translate(-8%, 0%)!important;
   margin-bottom:10px;
   margin-top:0
 }
-@media (max-width:991px){ 
-  
+@media (max-width:991px){
+
 .user_search_main_con h2{
   padding-left:0px;
   padding-right:0px;
 }
 
 }
-@media (max-width:767px){ 
-  
+@media (max-width:767px){
+
 .user_search_main_con h2{
   font-size: 28px;
   padding-left:20px;
@@ -13813,8 +13814,8 @@ transform: translate(-8%, 0%)!important;
   margin-bottom:1px;
   margin-top:0
 }
-@media (max-width:991px){ 
-  
+@media (max-width:991px){
+
 .user_search_main_con h6{
   padding-left:0px;
   padding-right:0px;
@@ -13822,8 +13823,8 @@ transform: translate(-8%, 0%)!important;
 
 }
 
-@media (max-width:767px){ 
-  
+@media (max-width:767px){
+
 .user_search_main_con h6{
   padding-left:20px;
   padding-right:20px;
@@ -13838,12 +13839,12 @@ transform: translate(-8%, 0%)!important;
 
 
 
-@media (max-width:991px){   
-    
+@media (max-width:991px){
+
 .user_search_main_con .user_search_personal_profile_con2{
   margin-top: 0
 }
-    
+
 }
 
 .explore_carers_main_con .explore_carers_personal_profile_main_con #explore_carers_personal_profile_sub_con1 .explore_carers_personal_profile_img5{
@@ -13867,9 +13868,9 @@ transform: translate(-8%, 0%)!important;
 
 
 
-    
 
-    
+
+
 
 
 
@@ -13882,13 +13883,13 @@ transform: translate(-8%, 0%)!important;
   margin-top:60px
 }
 
-@media (max-width:767px){ 
+@media (max-width:767px){
 
 .user_search_profile_main_con{
   margin-top:50px
 }
 }
-    
+
 .user_search_profile_con{
 }
 
@@ -13906,19 +13907,19 @@ transform: translate(-8%, 0%)!important;
   margin-left:70px
 }
 
-@media (max-width:1199px){ 
+@media (max-width:1199px){
  .user_search_profile_sub_con1{
   width: auto;
   margin-left:0px
 }
-  
+
 }
-@media (max-width:991px){ 
+@media (max-width:991px){
  .user_search_profile_sub_con1{
   width:100%;
   margin-left:0px
 }
-  
+
 }
 
 .user_search_profile_main_con .user_search_profile_sub_con1 .user_search_profile_img_sub_con1{
@@ -14072,60 +14073,60 @@ transform: translate(-8%, 0%)!important;
   border-radius: 4px;
   margin-bottom:30px
 }
-    
+
 .user_search_profile_main_con .user_search_profile_sub_con1 .user_search_profile_text_inner_sub_con1{
   margin-bottom:30px;
-}   
+}
 
-@media (max-width:991px){ 
-    
+@media (max-width:991px){
+
 .user_search_profile_main_con .user_search_profile_sub_con1 .user_search_profile_text_inner_sub_con1{
   margin-bottom:0px;
   display: inline-block;
   margin-left:30px
 }
-    
+
 #user_search_profile_text_inner_sub_con1{
   margin-top:0px;
   margin-left:180px;
   position: absolute;
 }
-     
+
 #user_search_profile_text_inner_sub_con2{
   margin-top:0px;
   margin-left:330px;
   position: absolute
 }
-    
+
 #user_search_profile_text_inner_sub_con3{
   margin-left:0px;
 }
 
 }
 
-@media (max-width:599px){ 
+@media (max-width:599px){
 
 .user_search_profile_main_con .user_search_profile_sub_con1 .user_search_profile_text_inner_sub_con1{
   margin-bottom:0px;
   display: inline-block;
   margin-left:30px
 }
-    
+
 #user_search_profile_text_inner_sub_con1{
   margin-left:170px;
 }
-     
+
 #user_search_profile_text_inner_sub_con2{
   right: 0;
   padding-right:20px
 }
-     
+
 #user_search_profile_text_inner_sub_con3{
   margin-left:0px;
 }
 
 }
-@media (max-width:550px){ 
+@media (max-width:550px){
 
 .user_search_profile_main_con .user_search_profile_sub_con1 .user_search_profile_text_inner_sub_con1{
   margin-bottom:0px;
@@ -14133,19 +14134,19 @@ transform: translate(-8%, 0%)!important;
   margin-left:30px;
   margin-top:240px
 }
-    
+
 #user_search_profile_text_inner_sub_con1{
   margin-left:0px;
   margin-bottom:10px
 }
-     
+
 #user_search_profile_text_inner_sub_con2{
   left: 0;
   margin-left:30px;
   margin-top:130px;
   padding-right:0px
 }
-     
+
 #user_search_profile_text_inner_sub_con3{
   margin-left:0px;
 }
@@ -14163,7 +14164,7 @@ transform: translate(-8%, 0%)!important;
   margin-bottom:15px;
   margin-top:0
 }
-    
+
 .user_search_profile_main_con .user_search_profile_sub_con1 .user_search_profile_text_sub_con1 h6{
   font-family: ApercuPro;
   font-size: 14px;
@@ -14176,11 +14177,11 @@ transform: translate(-8%, 0%)!important;
   margin-bottom:10px;
   margin-top:0
 }
-    
+
 .user_search_profile_main_con .user_search_profile_sub_con1 .user_search_profile_text_inner_sub_con1 img{
   margin-right:12px;
   margin-bottom:3px
-} 
+}
 
 .user_search_profile_main_con .user_search_profile_sub_con2{
   width:57%;
@@ -14198,26 +14199,26 @@ transform: translate(-8%, 0%)!important;
   margin-right:110px
 }
 
-@media (max-width:1199px){ 
+@media (max-width:1199px){
 .user_search_profile_main_con .user_search_profile_sub_con2{
   width:68%;
   margin-right:0px
 }
-  
+
 }
 
-@media (max-width:991px){ 
+@media (max-width:991px){
 .user_search_profile_main_con .user_search_profile_sub_con2{
   margin-top:30px
 }
-  
+
 }
 
-@media (max-width:991px){ 
+@media (max-width:991px){
 .user_search_profile_main_con .user_search_profile_sub_con2{
   width:100%;
 }
-  
+
 }
 
 .user_search_profile_main_con .user_search_profile_sub_con2 h1{
@@ -14237,32 +14238,32 @@ transform: translate(-8%, 0%)!important;
   margin-left:7px;
   margin-bottom:4px
 }
-   
+
 .user_search_profile_main_con .user_search_profile_sub_con2 .user_search_profile_schedule_call_message_icons_con{
   float:right;
   margin-left:
-}   
+}
 
 .user_search_profile_main_con .user_search_profile_sub_con2 .user_search_profile_schedule_call_message_icons_con .shechedule_call{
   margin-right:5px
 }
 
-@media (max-width:450px){ 
+@media (max-width:450px){
 .user_search_profile_main_con .user_search_profile_sub_con2 .user_search_profile_schedule_call_message_icons_con{
   float:left;
   position: absolute;
   top:80px;
 }
 }
-  
+
 .user_search_profile_main_con .user_search_profile_sub_con2 .user_search_profile_locat_experi_lang_con{
   width: 100%;;
   display: inline-block;
   margin-top:3px
 }
 
-@media (max-width:450px){ 
- 
+@media (max-width:450px){
+
 .user_search_profile_main_con .user_search_profile_sub_con2 .user_search_profile_locat_experi_lang_con{
   margin-top:40px
 }
@@ -14274,34 +14275,34 @@ transform: translate(-8%, 0%)!important;
   display: inline-block;
   margin-top:3px
 }
- 
+
 .user_search_profile_main_con .user_search_profile_sub_con2 .user_search_profile_locat_experi_lang1{
  padding-left:0
 }
-  
+
 .user_search_profile_main_con .user_search_profile_sub_con2 .user_search_profile_locat_experi_lang3{
   width:25%;
   padding-right:0;
   padding-left:25px
 }
 
-@media (max-width:599px){ 
+@media (max-width:599px){
 
 .user_search_profile_main_con .user_search_profile_sub_con2 .user_search_profile_locat_experi_lang{
   margin-top:30px
 }
-    
+
 .user_search_profile_main_con .user_search_profile_sub_con2 .user_search_profile_locat_experi_lang1{
   width:33%;
-}     
+}
 .user_search_profile_main_con .user_search_profile_sub_con2 .user_search_profile_locat_experi_lang2{
   width:33%;
-}     
+}
 .user_search_profile_main_con .user_search_profile_sub_con2 .user_search_profile_locat_experi_lang3{
   width:33%;
-}  
 }
- 
+}
+
 .user_search_profile_main_con .user_search_profile_sub_con2 .user_search_profile_locat_experi_lang h5{
   font-family: ApercuPro;
   font-size: 14px;
@@ -14313,8 +14314,8 @@ transform: translate(-8%, 0%)!important;
   color: #000000;
   margin-top:0;
   margin-bottom:7px
-}  
-  
+}
+
 .user_search_profile_main_con .user_search_profile_sub_con2 .user_search_profile_locat_experi_lang h6{
   font-family: ApercuPro;
   font-size: 14px;
@@ -14327,21 +14328,21 @@ transform: translate(-8%, 0%)!important;
   margin-top:0;
   margin-bottom:0
 }
-  
+
 .user_search_profile_main_con .user_search_profile_sub_con2 .user_search_profile_quotes{
   margin-top:33px;
   margin-bottom:29px;
   margin-left:40px
 }
 
-@media (max-width:450px){ 
-    
+@media (max-width:450px){
+
 .user_search_profile_main_con .user_search_profile_sub_con2 .user_search_profile_quotes{
   margin-top:15px;
   margin-bottom:15px;
   margin-left:0px
 }
-    
+
 }
 
 .user_search_profile_main_con .user_search_profile_sub_con2  h3{
@@ -14356,7 +14357,7 @@ transform: translate(-8%, 0%)!important;
   margin-bottom:40px;
   margin-top:0
 }
-  
+
 .user_search_profile_main_con .user_search_profile_sub_con2  .user_search_profile_blue_button_con{
   margin-bottom:30px;
   margin-top:0
@@ -14365,7 +14366,7 @@ transform: translate(-8%, 0%)!important;
 .user_search_profile_main_con .user_search_profile_sub_con2  .user_search_profile_blue_button_con3{
   margin-bottom:0;
 }
- 
+
 .user_search_profile_main_con .user_search_profile_sub_con2  .user_search_profile_blue_button_con h2{
   font-family: ApercuPro;
   font-size: 14px;
@@ -14378,7 +14379,7 @@ transform: translate(-8%, 0%)!important;
   margin-bottom:0px;
   margin-top:0
 }
-  
+
 .user_search_profile_main_con .user_search_profile_sub_con2  .user_search_profile_blue_button_con h4{
   display: inline-block;
   height: 30px;
@@ -14402,41 +14403,35 @@ transform: translate(-8%, 0%)!important;
   margin-right:10px
 }
 
-@media (max-width:340px){ 
-  
+@media (max-width:340px){
+
 .user_search_profile_main_con .user_search_profile_sub_con2  .user_search_profile_blue_button_con h4{
   font-size: 12px;
   padding-left:10px;
   padding-right:10px;
   padding-top:7px;
 }
-    
+
 }
 
 .user_search_profile_ready_to_find{
   margin-bottom:30px
 }
 
-@media (min-width:768px) and (max-width:991px){ 
+@media (min-width:768px) and (max-width:991px){
 
 .user_search_profile_ready_to_find .user_search_profile_ready_to_find_text{
   font-size:19px!important
-}   
-    
 }
-  
-@media (max-width:371px){ 
+
+}
+
+@media (max-width:371px){
 
 .user_search_profile_ready_to_find .user_search_profile_ready_to_find_text{
   margin-bottom: 10px!important
-}   
-    
 }
- 
+
+}
+
 /*===================END OF USER SEARCH PROFILE PAGE===================*/
-
-
-    
-
-    
-
