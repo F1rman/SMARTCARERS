@@ -703,7 +703,7 @@
 									<p>Awesome! your call has been confirmed.</p>
 								</div>
 								<div class="chat_first_all_text chat_first_text3">
-									<p>One of our Smartcare expert will give you a call on 25.06.2020 at 02:00 PM (Afternoon)</p>
+									<p>One of our Smartcare expert will give you a call on <span class="date_to_call">Tomorrow</span> at <span class="cloak_to_call"> 02:00 PM</span><span class="time_to_call">Afternoon</span></p>
 								</div>
 								<div class="chat_first_all_text chat_first_text4">
 									<p>We can also help you get care now at <a href="tel:0204-509-1151" target="_blank">0204-509-1151</a></p>
@@ -733,9 +733,33 @@
 
 		$(document).ready(function() {
 			$(function() {
+				$( ".chat_first_screen" ).prop( "disabled", true)
+
+				$('.validate').change(()=>{
+					var a = true
+				$( ".chat_first_screen" ).prop( "disabled", ()=>{
+
+						if (!$('.text_email')[0].value && !$('.text_phone')[0].value && !$('.text_name')[0].value) {
+							a = true
+							console.log(a)
+
+						}
+
+						else if ( !!$('.text_email')[0].value==true &&  !!$('.text_phone')[0].value==true &&  !!$('.text_name')[0].value==true) {
+							a = false
+							console.log(a)
+
+						}
+						return a;
+					})
+			$( ".chat_second_screen_btn" ).prop( "disabled", true)
+				} );
+
+
+
 
 				$('.chat_first_screen').click(function(e) {
-					if (!$('.text_email')[0].value && !$('.text_number')[0].value && !$('.text_name')[0].value) {} else {
+					if (!$('.text_email')[0].value && !$('.text_phone')[0].value && !$('.text_name')[0].value) {} else {
 						hideChat(1);
 					}
 				});
@@ -762,21 +786,33 @@
 					console.log(date_to_call)
 				})
 				$('.chat_second_screen_checkbox_selectore3').change(() => {
-					time_to_call = ' Morning';
+					time_to_call = ' (Morning)';
 					console.log(time_to_call)
 
 				})
 				$('.chat_second_screen_checkbox_selectore4').change(() => {
-					time_to_call = ' Afternoon';
+					time_to_call = ' (Afternoon)';
 					console.log(time_to_call)
 				})
 
+				$( "#second_form").change(()=>{
+					var b = true
+
+				$( ".chat_second_screen_btn" ).prop( "disabled", ()=>{
+				if (time_to_call!='' && date_to_call!='') {
+					b = false
+				}
+					return b
+				})
+			})
 
 				$('.chat_second_screen_btn').click(() => {
 					cloak_to_call = $('.schedule_a_call_second_screen_add_time_caption1')[0].textContent
-
+				hideChat(2);
 					console.log(cloak_to_call, time_to_call, date_to_call)
-						hideChat(3);
+		 					$('.cloak_to_call').html(cloak_to_call)
+							$('.time_to_call').html(time_to_call)
+							$('.date_to_call').html(date_to_call)
 					// $("#second_form input[type='checkbox']").each((i, item)=>{
 					// 	if (item.checked) {
 					// }
