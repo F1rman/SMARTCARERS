@@ -151,9 +151,9 @@
 							<div class="hero_post_code_search_bar">
 								<a href="tell%20us%20more.html"><button type="submit" class="hero_find_a_career_btn">Find a carer</button></a>
 								<h1>Or let us help you find a suitable carer</h1>
-								<div class="hero_post_phone_icon_schedule_arrow_con">
+								<div class="hero_post_phone_icon_schedule_arrow_con open_call">
 									<a href="#!"><img src="images/hero-img-smartcarers-phone-icon.svg" class="hero_post_blue_phone_icon">
-										<h3 class="open_call">Schedule a Call</h3><img src="images/navbar-forward-smart-blue-arrow-icon.svg" class="hero_post_blue_arrow">
+										<h3 >Schedule a Call</h3><img src="images/navbar-forward-smart-blue-arrow-icon.svg" class="hero_post_blue_arrow">
 									</a>
 								</div>
 							</div>
@@ -580,7 +580,7 @@
 									</div>
 									<div class="schedule_call_reg_form">
 										<h5 class="sign_up_your_phone_text">Brief Description</h5>
-										<textarea type="text" placeholder="e.g. I’d like to discuss Alzheimer’s care for my Dad in London" class="reg-form-control "></textarea>
+										<textarea type="text" id="textarea_req" placeholder="e.g. I’d like to discuss Alzheimer’s care for my Dad in London" class="reg-form-control "></textarea>
 									</div>
 									<div class="chat_second_screen_checkbox_selectore1">
 										<input type="checkbox" class="chat_second_screen_checkbox chat_second_screen_checkbox_one_must_be_clicked" name="fooby[1][]" id="option-1"> <label class="disabled" for="option-1">Today</label>
@@ -602,9 +602,7 @@
 										<div class="schedule_a_call_second_screen_add_time_main_con" id="actions3" name="fooby[2][]">
 											<div class="schedule_a_call_second_screen_add_time_con container">
 												<div class="schedule_a_call_second_screen_add_time_dropdown1">
-													<div class="schedule_a_call_second_screen_add_time_caption1">
-														<h6>At this time</h6>
-													</div>
+													<div class="schedule_a_call_second_screen_add_time_caption1"><h6>At this time</h6></div>
 													<div class="schedule_a_call_second_screen_add_time_list1">
 														<div class="schedule_a_call_second_screen_add_time_item1">Anytime</div>
 														<div class="schedule_a_call_second_screen_add_time_item1">
@@ -767,12 +765,14 @@
 				var time_to_call = '';
 				var cloak_to_call = '';
 				$('.chat_second_screen_checkbox_selectore1 input').change(() => {
+					$('.chat_second_screen_checkbox_selectore1 input').prop('checked', true);
 					$('.chat_second_screen_checkbox_selectore2 input')[0].checked = false;
 					$('.hasDatepicker')[0].value = ''
 					date_to_call = 'Today';
 					console.log(date_to_call)
 				})
 				$('.chat_second_screen_checkbox_selectore2 input').change(() => {
+					 $('.chat_second_screen_checkbox_selectore2 input').prop('checked', true);
 					$('.chat_second_screen_checkbox_selectore1 input')[0].checked = false;
 					$('.hasDatepicker')[0].value = ''
 					console.log('asd2')
@@ -799,10 +799,30 @@
 					var b = true
 
 				$( ".chat_second_screen_btn" ).prop( "disabled", ()=>{
-				if (time_to_call!='' && date_to_call!='') {
+				if (time_to_call!='' && date_to_call!='' && !!$('#textarea_req')[0].value && $('.schedule_a_call_second_screen_add_time_caption1')[0].innerText!="At this time")  {
 					b = false
 				}
 					return b
+				})
+			})
+			$('.schedule_a_call_second_screen_add_time_item1').click(()=>{
+				console.log('asdasdasdasd')
+				var q = true
+
+			$( ".chat_second_screen_btn" ).prop( "disabled", ()=>{
+			if (time_to_call!='' && date_to_call!='' && !!$('#textarea_req')[0].value && $('.schedule_a_call_second_screen_add_time_caption1')[0].innerText!="At this time")  {
+				q = false
+			}
+				return q
+			})
+			})
+			$('#textarea_req').keyup(()=>{
+				var f = true
+				$( ".chat_second_screen_btn" ).prop( "disabled", ()=>{
+				if (!!$('#textarea_req')[0].value && time_to_call!='' && date_to_call!='' && $('.schedule_a_call_second_screen_add_time_caption1')[0].innerText!="At this time")  {
+					f = false
+				}
+					return f
 				})
 			})
 
